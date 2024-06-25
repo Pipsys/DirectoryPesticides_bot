@@ -1,0 +1,3347 @@
+[
+    {
+        "name_pesticides": "2,4-Дактив, КЭ"
+    },
+    {
+        "name_pesticides": "Абакус Прайм, СЭ"
+    },
+    {
+        "name_pesticides": "Абига-Пик, ВС"
+    },
+    {
+        "name_pesticides": "Аваксс, КЭ"
+    },
+    {
+        "name_pesticides": "Авант, КЭ"
+    },
+    {
+        "name_pesticides": "Авантикс Турбо, МД"
+    },
+    {
+        "name_pesticides": "Авиаль, КЭ"
+    },
+    {
+        "name_pesticides": "Аврорекс, КЭ"
+    },
+    {
+        "name_pesticides": "Агат-25 Супер, ТПС"
+    },
+    {
+        "name_pesticides": "Агент, ВДГ"
+    },
+    {
+        "name_pesticides": "Агро-Лайт, ВРК"
+    },
+    {
+        "name_pesticides": "АгроЗаряд, КС"
+    },
+    {
+        "name_pesticides": "Агролекарь, КЭ"
+    },
+    {
+        "name_pesticides": "Агрон, ВР"
+    },
+    {
+        "name_pesticides": "Агроника, КС"
+    },
+    {
+        "name_pesticides": "Агростар, ВДГ"
+    },
+    {
+        "name_pesticides": "Агростраж, П"
+    },
+    {
+        "name_pesticides": "Адванс, ВДГ"
+    },
+    {
+        "name_pesticides": "Адвокат, ВР"
+    },
+    {
+        "name_pesticides": "Адексар, КЭ"
+    },
+    {
+        "name_pesticides": "Адмирал, КЭ"
+    },
+    {
+        "name_pesticides": "Азорит, СК"
+    },
+    {
+        "name_pesticides": "Айвенго, КЭ"
+    },
+    {
+        "name_pesticides": "Аканто Плюс, КС"
+    },
+    {
+        "name_pesticides": "Акардо, ККР"
+    },
+    {
+        "name_pesticides": "Акебоно, КЭ"
+    },
+    {
+        "name_pesticides": "Акиба, ВСК"
+    },
+    {
+        "name_pesticides": "Аккурат, ВДГ"
+    },
+    {
+        "name_pesticides": "Акробат МЦ, ВДГ"
+    },
+    {
+        "name_pesticides": "Аксакал Практик, КЭ"
+    },
+    {
+        "name_pesticides": "Аксела, Г"
+    },
+    {
+        "name_pesticides": "Аксиал Кросс, КЭ"
+    },
+    {
+        "name_pesticides": "Актара, ВДГ"
+    },
+    {
+        "name_pesticides": "Актеллик, КЭ"
+    },
+    {
+        "name_pesticides": "Актион, КС"
+    },
+    {
+        "name_pesticides": "Акцент, КЭ"
+    },
+    {
+        "name_pesticides": "Алебарда, КЭ"
+    },
+    {
+        "name_pesticides": "Алиот, КЭ"
+    },
+    {
+        "name_pesticides": "Алирин-Б, СП"
+    },
+    {
+        "name_pesticides": "Алистер Гранд, МД"
+    },
+    {
+        "name_pesticides": "Алсион, ВДГ"
+    },
+    {
+        "name_pesticides": "АлтСил, КС"
+    },
+    {
+        "name_pesticides": "Альбит, ТПС"
+    },
+    {
+        "name_pesticides": "Алькасар, КС"
+    },
+    {
+        "name_pesticides": "Альпари, КЭ"
+    },
+    {
+        "name_pesticides": "Альтаир, КЭ"
+    },
+    {
+        "name_pesticides": "Альто Супер, КЭ"
+    },
+    {
+        "name_pesticides": "Альтруист, КЭ"
+    },
+    {
+        "name_pesticides": "Альфа Тигр, КЭ"
+    },
+    {
+        "name_pesticides": "Альфа-бентазон, ВР"
+    },
+    {
+        "name_pesticides": "Альфа-Дикамба, ВРК"
+    },
+    {
+        "name_pesticides": "Альфа-Директор, КЭ"
+    },
+    {
+        "name_pesticides": "Альфа-Прометрин, КС"
+    },
+    {
+        "name_pesticides": "Альфа-Серф, ВК"
+    },
+    {
+        "name_pesticides": "Альфабел, КЭ"
+    },
+    {
+        "name_pesticides": "Альфаплан, КС"
+    },
+    {
+        "name_pesticides": "Альфастим, ВЭ"
+    },
+    {
+        "name_pesticides": "Альфацин, КЭ"
+    },
+    {
+        "name_pesticides": "Альфашанс, КЭ"
+    },
+    {
+        "name_pesticides": "Аметил, ВРК"
+    },
+    {
+        "name_pesticides": "Аминка ФЛО, КЭ"
+    },
+    {
+        "name_pesticides": "Аминка, ВР"
+    },
+    {
+        "name_pesticides": "Амистар Голд, СК"
+    },
+    {
+        "name_pesticides": "Амистар Топ, СК"
+    },
+    {
+        "name_pesticides": "Амистар Экстра, СК"
+    },
+    {
+        "name_pesticides": "Ампир, ВР"
+    },
+    {
+        "name_pesticides": "Анемон, КЭ"
+    },
+    {
+        "name_pesticides": "Анкор-85, ВДГ"
+    },
+    {
+        "name_pesticides": "Антарес, ВК"
+    },
+    {
+        "name_pesticides": "Антимышин, ГР"
+    },
+    {
+        "name_pesticides": "Антракол, ВДГ"
+    },
+    {
+        "name_pesticides": "Аполло, КС"
+    },
+    {
+        "name_pesticides": "Априори, ВДГ"
+    },
+    {
+        "name_pesticides": "Апрон Голд, ВЭ"
+    },
+    {
+        "name_pesticides": "Арбалет, СЭ"
+    },
+    {
+        "name_pesticides": "Арбонал, ВК"
+    },
+    {
+        "name_pesticides": "Арго Прим, МЭ"
+    },
+    {
+        "name_pesticides": "Аргумент Стар, ВР"
+    },
+    {
+        "name_pesticides": "Аризон, МД"
+    },
+    {
+        "name_pesticides": "Ария, КС"
+    },
+    {
+        "name_pesticides": "Аркана, КС"
+    },
+    {
+        "name_pesticides": "Армин, КЭ"
+    },
+    {
+        "name_pesticides": "Артафит, ВРК"
+    },
+    {
+        "name_pesticides": "Артстар, ВДГ"
+    },
+    {
+        "name_pesticides": "Архитект, СЭ"
+    },
+    {
+        "name_pesticides": "Аспид, СК"
+    },
+    {
+        "name_pesticides": "Ассолюта, МК"
+    },
+    {
+        "name_pesticides": "Атаброн, КС"
+    },
+    {
+        "name_pesticides": "Атлант, КЭ"
+    },
+    {
+        "name_pesticides": "Атоник Плюс, ВР"
+    },
+    {
+        "name_pesticides": "Аттик, КС"
+    },
+    {
+        "name_pesticides": "Аффет, КС"
+    },
+    {
+        "name_pesticides": "Ацидан, СП"
+    },
+    {
+        "name_pesticides": "Аякс, КС"
+    },
+    {
+        "name_pesticides": "Б-360, ВР"
+    },
+    {
+        "name_pesticides": "Багрец, КС"
+    },
+    {
+        "name_pesticides": "Базис Форте, ВДГ"
+    },
+    {
+        "name_pesticides": "Байзафон, СП"
+    },
+    {
+        "name_pesticides": "Бакара Форте, КС"
+    },
+    {
+        "name_pesticides": "Бактерра, СП"
+    },
+    {
+        "name_pesticides": "Бактофит, СП"
+    },
+    {
+        "name_pesticides": "Балая, КЭ"
+    },
+    {
+        "name_pesticides": "Балерина Форте, СЭ"
+    },
+    {
+        "name_pesticides": "Балерина, СЭ"
+    },
+    {
+        "name_pesticides": "Балинт, КС"
+    },
+    {
+        "name_pesticides": "Бамбу, КЭ"
+    },
+    {
+        "name_pesticides": "Банвел, ВР"
+    },
+    {
+        "name_pesticides": "Бандур, КС"
+    },
+    {
+        "name_pesticides": "Баргузин, Г"
+    },
+    {
+        "name_pesticides": "Баритон, КС"
+    },
+    {
+        "name_pesticides": "Баста, ВР"
+    },
+    {
+        "name_pesticides": "Бастер, ВР"
+    },
+    {
+        "name_pesticides": "Батор, КС"
+    },
+    {
+        "name_pesticides": "Бегин Турбо, КС"
+    },
+    {
+        "name_pesticides": "Беллис, ВДГ"
+    },
+    {
+        "name_pesticides": "Бельведер Форте, СЭ"
+    },
+    {
+        "name_pesticides": "Беназол, СП"
+    },
+    {
+        "name_pesticides": "Бенефис Суприм, МЭ"
+    },
+    {
+        "name_pesticides": "Бенито, ККР"
+    },
+    {
+        "name_pesticides": "Бенорад, СП"
+    },
+    {
+        "name_pesticides": "Бентазолин, ВР"
+    },
+    {
+        "name_pesticides": "Бентекс, ВР"
+    },
+    {
+        "name_pesticides": "Бентобел, ВР"
+    },
+    {
+        "name_pesticides": "Берелин, ВРП"
+    },
+    {
+        "name_pesticides": "Берилл, КЭ"
+    },
+    {
+        "name_pesticides": "Бетакем, КЭ"
+    },
+    {
+        "name_pesticides": "Бетанал Макс Про, МД"
+    },
+    {
+        "name_pesticides": "Бетанал Эксперт ОФ, КЭ"
+    },
+    {
+        "name_pesticides": "Бетарен 22, МКЭ"
+    },
+    {
+        "name_pesticides": "Бетарен 22, МКЭ"
+    },
+    {
+        "name_pesticides": "Бетарен Экспресс АМ, КЭ"
+    },
+    {
+        "name_pesticides": "Бетахим Эксперт, КЭ"
+    },
+    {
+        "name_pesticides": "Беташанс Дабл, КЭ"
+    },
+    {
+        "name_pesticides": "Бетинол 22, КЭ"
+    },
+    {
+        "name_pesticides": "Бигус, ВР"
+    },
+    {
+        "name_pesticides": "Бизон, ВК"
+    },
+    {
+        "name_pesticides": "Бинадин, КЭ"
+    },
+    {
+        "name_pesticides": "Бинорам, Ж"
+    },
+    {
+        "name_pesticides": "Биоcтоп, Ж"
+    },
+    {
+        "name_pesticides": "Биоверт, СП"
+    },
+    {
+        "name_pesticides": "Биокилл, КЭ"
+    },
+    {
+        "name_pesticides": "Биолан Супер, ВР"
+    },
+    {
+        "name_pesticides": "Биосил, ВЭ"
+    },
+    {
+        "name_pesticides": "Биослип БВ, Ж"
+    },
+    {
+        "name_pesticides": "Биостоп Супер, микроконтейнеры"
+    },
+    {
+        "name_pesticides": "Биосфера-Фунгимен, Ж"
+    },
+    {
+        "name_pesticides": "Биотлин, ВРК"
+    },
+    {
+        "name_pesticides": "Биотриходерма, СП"
+    },
+    {
+        "name_pesticides": "Бис-300, ВР"
+    },
+    {
+        "name_pesticides": "Бисмарк, МКС"
+    },
+    {
+        "name_pesticides": "Бисолбицид, Ж"
+    },
+    {
+        "name_pesticides": "Битатрин, КЭ"
+    },
+    {
+        "name_pesticides": "Битоксибациллин, П"
+    },
+    {
+        "name_pesticides": "Бифор 22, КЭ"
+    },
+    {
+        "name_pesticides": "Бифор Супер, МЭ"
+    },
+    {
+        "name_pesticides": "Бицепс 22, КЭ"
+    },
+    {
+        "name_pesticides": "Бицепс Гарант, КЭ"
+    },
+    {
+        "name_pesticides": "Блиц, ВРК"
+    },
+    {
+        "name_pesticides": "Блю Шилд 20, ВДГ"
+    },
+    {
+        "name_pesticides": "Боливар Форте, КС"
+    },
+    {
+        "name_pesticides": "Бомба, ВДГ"
+    },
+    {
+        "name_pesticides": "Бомбер, ДШ"
+    },
+    {
+        "name_pesticides": "Бонтима, КЭ"
+    },
+    {
+        "name_pesticides": "Бордоская жидкость, ВСК"
+    },
+    {
+        "name_pesticides": "Бордоская смесь-Ф, ВРП"
+    },
+    {
+        "name_pesticides": "Борей, СК"
+    },
+    {
+        "name_pesticides": "Ботаник, ВРК"
+    },
+    {
+        "name_pesticides": "Брандер, КС"
+    },
+    {
+        "name_pesticides": "Бретер, КЭ"
+    },
+    {
+        "name_pesticides": "Бриз, парообразующий продукт в диспенсере"
+    },
+    {
+        "name_pesticides": "Броадер, КЭ"
+    },
+    {
+        "name_pesticides": "Бродифакум Гранд, Г"
+    },
+    {
+        "name_pesticides": "Бульдог, КЭ"
+    },
+    {
+        "name_pesticides": "Бунт, ВР"
+    },
+    {
+        "name_pesticides": "Бутизан 400, КС"
+    },
+    {
+        "name_pesticides": "Бутон, ВРП"
+    },
+    {
+        "name_pesticides": "Буцефал, КЭ"
+    },
+    {
+        "name_pesticides": "БФТИМ КС-2, Ж"
+    },
+    {
+        "name_pesticides": "Вайбранс Голд, КС"
+    },
+    {
+        "name_pesticides": "Вайбранс Интеграл, КС"
+    },
+    {
+        "name_pesticides": "Вайбранс Топ, КС"
+    },
+    {
+        "name_pesticides": "Вайбранс Трио, КС"
+    },
+    {
+        "name_pesticides": "Вайбранс, КС"
+    },
+    {
+        "name_pesticides": "Вантекс, МКС"
+    },
+    {
+        "name_pesticides": "Варат, МБ"
+    },
+    {
+        "name_pesticides": "Варрант, ВРК"
+    },
+    {
+        "name_pesticides": "Велосити Супер, КЭ"
+    },
+    {
+        "name_pesticides": "Вендетта, КС"
+    },
+    {
+        "name_pesticides": "Веник, ВДГ"
+    },
+    {
+        "name_pesticides": "Веранго, КС"
+    },
+    {
+        "name_pesticides": "Вердикт, ВДГ"
+    },
+    {
+        "name_pesticides": "Версия, МД"
+    },
+    {
+        "name_pesticides": "Вершина, КС"
+    },
+    {
+        "name_pesticides": "Виал ТрасТ, ВСК"
+    },
+    {
+        "name_pesticides": "Вивандо, КС"
+    },
+    {
+        "name_pesticides": "Видат 5Г, Г"
+    },
+    {
+        "name_pesticides": "Видлер, КЭ"
+    },
+    {
+        "name_pesticides": "Виконт, СП"
+    },
+    {
+        "name_pesticides": "Виннер, КС"
+    },
+    {
+        "name_pesticides": "Винцит Форте, КС"
+    },
+    {
+        "name_pesticides": "Виртуоз, КЭ"
+    },
+    {
+        "name_pesticides": "Витавакс 200 ФФ, ВСК"
+    },
+    {
+        "name_pesticides": "Витазол Экстра, ВДГ"
+    },
+    {
+        "name_pesticides": "Виталон, КС"
+    },
+    {
+        "name_pesticides": "Витарос, ВСК"
+    },
+    {
+        "name_pesticides": "Витена 450, ВДГ"
+    },
+    {
+        "name_pesticides": "Властелин, ВК"
+    },
+    {
+        "name_pesticides": "Волат, ВР"
+    },
+    {
+        "name_pesticides": "Волиам Флекси, СК"
+    },
+    {
+        "name_pesticides": "Вольник, ВР"
+    },
+    {
+        "name_pesticides": "Вояж, ВДГ"
+    },
+    {
+        "name_pesticides": "Вулкан, ТПС"
+    },
+    {
+        "name_pesticides": "Вымпел 2, КЭ"
+    },
+    {
+        "name_pesticides": "Вымпел 3, КЭ"
+    },
+    {
+        "name_pesticides": "Вэрва, ВЭ"
+    },
+    {
+        "name_pesticides": "Гавань Плюс, МД"
+    },
+    {
+        "name_pesticides": "Гайтан, КЭ"
+    },
+    {
+        "name_pesticides": "Гал-Басус, КС"
+    },
+    {
+        "name_pesticides": "Галакси Топ, ВРК"
+    },
+    {
+        "name_pesticides": "Галера Супер 364, ВР"
+    },
+    {
+        "name_pesticides": "Галил, КС"
+    },
+    {
+        "name_pesticides": "Галлон, КЭ"
+    },
+    {
+        "name_pesticides": "Галоканекс, КС"
+    },
+    {
+        "name_pesticides": "Галоп М, КЭ"
+    },
+    {
+        "name_pesticides": "Галс, КЭ"
+    },
+    {
+        "name_pesticides": "Гамаир, СП"
+    },
+    {
+        "name_pesticides": "Гамбит, СК"
+    },
+    {
+        "name_pesticides": "Гарнизон, ВР"
+    },
+    {
+        "name_pesticides": "Гаугай, КЭ"
+    },
+    {
+        "name_pesticides": "Гаучо Эво, КС"
+    },
+    {
+        "name_pesticides": "Гезагард, КС"
+    },
+    {
+        "name_pesticides": "Гейзер, ККР"
+    },
+    {
+        "name_pesticides": "Гекстар, ВДГ"
+    },
+    {
+        "name_pesticides": "Гелиос, ВР"
+    },
+    {
+        "name_pesticides": "Гель-Деймос, Гель"
+    },
+    {
+        "name_pesticides": "Геокс, ВДГ"
+    },
+    {
+        "name_pesticides": "Гераклион, КС"
+    },
+    {
+        "name_pesticides": "Гербикс, ВК"
+    },
+    {
+        "name_pesticides": "Гербитокс, ВРК"
+    },
+    {
+        "name_pesticides": "Гербитокс-Л, ВРК"
+    },
+    {
+        "name_pesticides": "Гермес, МД"
+    },
+    {
+        "name_pesticides": "Герсотил, ВДГ"
+    },
+    {
+        "name_pesticides": "Гетероауксин, TAБ"
+    },
+    {
+        "name_pesticides": "Гетероауксин, П"
+    },
+    {
+        "name_pesticides": "Гибб Плюс, ВРК"
+    },
+    {
+        "name_pesticides": "Гибберсиб, П"
+    },
+    {
+        "name_pesticides": "Гидрамак, ВРП"
+    },
+    {
+        "name_pesticides": "Гимнаст, СП"
+    },
+    {
+        "name_pesticides": "Гладиатор, КЭ"
+    },
+    {
+        "name_pesticides": "ГлиБест 540, ВР"
+    },
+    {
+        "name_pesticides": "ГлиБест Гранд, ВДГ (ver.2)"
+    },
+    {
+        "name_pesticides": "Глиокладин, СП"
+    },
+    {
+        "name_pesticides": "Глиф, ВР"
+    },
+    {
+        "name_pesticides": "Глифор, ВР"
+    },
+    {
+        "name_pesticides": "Глифот, ВР"
+    },
+    {
+        "name_pesticides": "Глифошанс, ВР"
+    },
+    {
+        "name_pesticides": "Глобал, ВР"
+    },
+    {
+        "name_pesticides": "Гоал 2Е, КЭ"
+    },
+    {
+        "name_pesticides": "Голден Ринг, ВР"
+    },
+    {
+        "name_pesticides": "Голтикс Голд, КС"
+    },
+    {
+        "name_pesticides": "Голтикс Титан, КС"
+    },
+    {
+        "name_pesticides": "Горгон, ВРК"
+    },
+    {
+        "name_pesticides": "Горизонт, КЭ"
+    },
+    {
+        "name_pesticides": "Готланд,  ВР"
+    },
+    {
+        "name_pesticides": "Гран-при, ВДГ"
+    },
+    {
+        "name_pesticides": "Гранбаз, ВР"
+    },
+    {
+        "name_pesticides": "Гранберг, КЭ"
+    },
+    {
+        "name_pesticides": "Грандсил Ультра, КС"
+    },
+    {
+        "name_pesticides": "Гранстар Мега, ВДГ"
+    },
+    {
+        "name_pesticides": "Гранулам, ВДГ"
+    },
+    {
+        "name_pesticides": "Грасс, КС"
+    },
+    {
+        "name_pesticides": "Граф, КЭ"
+    },
+    {
+        "name_pesticides": "Гренадер, ВДГ"
+    },
+    {
+        "name_pesticides": "Гренч, СП"
+    },
+    {
+        "name_pesticides": "Гримс, ВДГ"
+    },
+    {
+        "name_pesticides": "Гринда, РП"
+    },
+    {
+        "name_pesticides": "Грифон, КС"
+    },
+    {
+        "name_pesticides": "Гроза-6, Г"
+    },
+    {
+        "name_pesticides": "Гром-2, Г"
+    },
+    {
+        "name_pesticides": "Грэмми, КС"
+    },
+    {
+        "name_pesticides": "Гуапсин плюс, Ж"
+    },
+    {
+        "name_pesticides": "Гуд-Харвест Метамитрон, КС"
+    },
+    {
+        "name_pesticides": "Гуд-Харвест С-Метолахлор, КЭ"
+    },
+    {
+        "name_pesticides": "ГуматАктив, Ж"
+    },
+    {
+        "name_pesticides": "Даймонд Супер, КС"
+    },
+    {
+        "name_pesticides": "Дамба, ВР"
+    },
+    {
+        "name_pesticides": "Данадим Эксперт, КЭ"
+    },
+    {
+        "name_pesticides": "ДВД Шанс, КС"
+    },
+    {
+        "name_pesticides": "Девиз, ВР"
+    },
+    {
+        "name_pesticides": "Дедало Элит, МЭ"
+    },
+    {
+        "name_pesticides": "Дедмайс, ГР"
+    },
+    {
+        "name_pesticides": "Деймос, ВРК"
+    },
+    {
+        "name_pesticides": "Декстер Турбо, СЭ"
+    },
+    {
+        "name_pesticides": "Делан Про, КС"
+    },
+    {
+        "name_pesticides": "Деларо, КС"
+    },
+    {
+        "name_pesticides": "Делегат, ВДГ"
+    },
+    {
+        "name_pesticides": "Деметра, КЭ"
+    },
+    {
+        "name_pesticides": "Деница, Г"
+    },
+    {
+        "name_pesticides": "Депозит Суприм, МЭ"
+    },
+    {
+        "name_pesticides": "Дерби 175, СК"
+    },
+    {
+        "name_pesticides": "Десикант Экспертоф, ВР"
+    },
+    {
+        "name_pesticides": "Десперадо, КС"
+    },
+    {
+        "name_pesticides": "Детка, ПС"
+    },
+    {
+        "name_pesticides": "Децис Эксперт, КЭ"
+    },
+    {
+        "name_pesticides": "Джиндур, КЭ"
+    },
+    {
+        "name_pesticides": "Диазинон Экспресс, КЭ"
+    },
+    {
+        "name_pesticides": "Диален Супер, ВР"
+    },
+    {
+        "name_pesticides": "Диамисоль, ВР"
+    },
+    {
+        "name_pesticides": "Дианат, ВР"
+    },
+    {
+        "name_pesticides": "Дибазон, ВРК"
+    },
+    {
+        "name_pesticides": "Дивиденд Стар, КС"
+    },
+    {
+        "name_pesticides": "Дивиденд Суприм, КС"
+    },
+    {
+        "name_pesticides": "Дикамбел, ВР"
+    },
+    {
+        "name_pesticides": "Дикамин-Д, ВР"
+    },
+    {
+        "name_pesticides": "Дикват, ВРК"
+    },
+    {
+        "name_pesticides": "Дикватерр Супер, ВР"
+    },
+    {
+        "name_pesticides": "Дикогерб Супер, ВРК"
+    },
+    {
+        "name_pesticides": "Дикопур Топ, ВР"
+    },
+    {
+        "name_pesticides": "Дикошанс, ВР"
+    },
+    {
+        "name_pesticides": "Диметек, КЭ"
+    },
+    {
+        "name_pesticides": "Диметрон, КЭ"
+    },
+    {
+        "name_pesticides": "Димефос, КЭ"
+    },
+    {
+        "name_pesticides": "Динали, ДК"
+    },
+    {
+        "name_pesticides": "Дипломат, КЭ"
+    },
+    {
+        "name_pesticides": "Дискатор 600, КЭ"
+    },
+    {
+        "name_pesticides": "Дискор, КЭ"
+    },
+    {
+        "name_pesticides": "Дитан М-45, СП"
+    },
+    {
+        "name_pesticides": "Дифилайн, КЭ"
+    },
+    {
+        "name_pesticides": "Дифлуцид, СП"
+    },
+    {
+        "name_pesticides": "Дифферент, СЭ"
+    },
+    {
+        "name_pesticides": "Длясои, ВК"
+    },
+    {
+        "name_pesticides": "Дозреватель, ВР"
+    },
+    {
+        "name_pesticides": "Доктор Харвест АгроМайт ПРО, ВР"
+    },
+    {
+        "name_pesticides": "Доктор, ТБ"
+    },
+    {
+        "name_pesticides": "Домоцвет, Р"
+    },
+    {
+        "name_pesticides": "Допинг, КЭ"
+    },
+    {
+        "name_pesticides": "Доспех Квадра, КС"
+    },
+    {
+        "name_pesticides": "Доспех, КС"
+    },
+    {
+        "name_pesticides": "Дракон Супер 7,5 , КЭ"
+    },
+    {
+        "name_pesticides": "Дракор, ВСК"
+    },
+    {
+        "name_pesticides": "Дротик, ККР"
+    },
+    {
+        "name_pesticides": "Дуал Голд, КЭ"
+    },
+    {
+        "name_pesticides": "ДУБЛОН Супер, ВДГ"
+    },
+    {
+        "name_pesticides": "Дублон, СК"
+    },
+    {
+        "name_pesticides": "Душанс, КЭ"
+    },
+    {
+        "name_pesticides": "ДЩК, Газ"
+    },
+    {
+        "name_pesticides": "Дэлит Про, КС"
+    },
+    {
+        "name_pesticides": "Дюссак, КЭ"
+    },
+    {
+        "name_pesticides": "Евро-Лайтнинг Плюс, ВРК"
+    },
+    {
+        "name_pesticides": "Евро-Ланг, ВРК"
+    },
+    {
+        "name_pesticides": "Евродим, КЭ"
+    },
+    {
+        "name_pesticides": "Еврошанс Плюс, ВРК"
+    },
+    {
+        "name_pesticides": "Жукоед, СК"
+    },
+    {
+        "name_pesticides": "Зазофен, ВР"
+    },
+    {
+        "name_pesticides": "Замир, ЭМВ"
+    },
+    {
+        "name_pesticides": "Зарница, КС"
+    },
+    {
+        "name_pesticides": "Здоровая земля, ВСК"
+    },
+    {
+        "name_pesticides": "Зеленец, ВР"
+    },
+    {
+        "name_pesticides": "Зеленый барьер, СП"
+    },
+    {
+        "name_pesticides": "Землин Форте, Г"
+    },
+    {
+        "name_pesticides": "Зенарил, ВР"
+    },
+    {
+        "name_pesticides": "Зенкошанс, КС"
+    },
+    {
+        "name_pesticides": "Зеребра Агро, ВР"
+    },
+    {
+        "name_pesticides": "Зернорост, КЭ"
+    },
+    {
+        "name_pesticides": "Зеро, ВР"
+    },
+    {
+        "name_pesticides": "Зета, ВРК"
+    },
+    {
+        "name_pesticides": "Зимошанс, КС"
+    },
+    {
+        "name_pesticides": "Зингер, СП"
+    },
+    {
+        "name_pesticides": "Злак Супер, КЭ"
+    },
+    {
+        "name_pesticides": "Злакосупер, КЭ"
+    },
+    {
+        "name_pesticides": "Злактерр, КЭ"
+    },
+    {
+        "name_pesticides": "Зодиак, ВР"
+    },
+    {
+        "name_pesticides": "Зонатор, ВР"
+    },
+    {
+        "name_pesticides": "Зорвек Энкантия, СЭ"
+    },
+    {
+        "name_pesticides": "Ибис 100, КЭ"
+    },
+    {
+        "name_pesticides": "Идеал, КС"
+    },
+    {
+        "name_pesticides": "Изобен, ВР"
+    },
+    {
+        "name_pesticides": "Иканос, МД"
+    },
+    {
+        "name_pesticides": "Илион, МД"
+    },
+    {
+        "name_pesticides": "Имазабел, ВР"
+    },
+    {
+        "name_pesticides": "Имазошанс, ВР"
+    },
+    {
+        "name_pesticides": "Имидалит, ТПС"
+    },
+    {
+        "name_pesticides": "Имидасид, КС"
+    },
+    {
+        "name_pesticides": "Имидашанс Про, КС"
+    },
+    {
+        "name_pesticides": "Имидашанс, ВРК"
+    },
+    {
+        "name_pesticides": "Имидашанс-С, КС"
+    },
+    {
+        "name_pesticides": "Имидж, ВРК"
+    },
+    {
+        "name_pesticides": "Имидор Про, КС"
+    },
+    {
+        "name_pesticides": "Имикар, КС"
+    },
+    {
+        "name_pesticides": "Имиприд, ВРК"
+    },
+    {
+        "name_pesticides": "Имквант, ВР"
+    },
+    {
+        "name_pesticides": "Иммуноцитофит, ТАБ"
+    },
+    {
+        "name_pesticides": "Импакт Супер, КС"
+    },
+    {
+        "name_pesticides": "Импульс, КС"
+    },
+    {
+        "name_pesticides": "Индокарб, КЭ"
+    },
+    {
+        "name_pesticides": "Иноксифен, КЭ"
+    },
+    {
+        "name_pesticides": "Инсайд, СК"
+    },
+    {
+        "name_pesticides": "Инсектобактерин, СП"
+    },
+    {
+        "name_pesticides": "Инсетим, Ж"
+    },
+    {
+        "name_pesticides": "Инстиво, КС"
+    },
+    {
+        "name_pesticides": "Инта-Ц-М, ТАБ"
+    },
+    {
+        "name_pesticides": "Интерн, КЭ"
+    },
+    {
+        "name_pesticides": "Инфинито, КС"
+    },
+    {
+        "name_pesticides": "Ирбис 100, КЭ (АГРус)"
+    },
+    {
+        "name_pesticides": "Ирбис, ЭМВ"
+    },
+    {
+        "name_pesticides": "Искра Золотая Просто, ВР"
+    },
+    {
+        "name_pesticides": "Искра Золотая, ТАБ"
+    },
+    {
+        "name_pesticides": "Искра, ТАБ"
+    },
+    {
+        "name_pesticides": "Кабрио Топ, ВДГ"
+    },
+    {
+        "name_pesticides": "Кагатник, ВРК"
+    },
+    {
+        "name_pesticides": "Казим, КС"
+    },
+    {
+        "name_pesticides": "Кайен Турбо, МД"
+    },
+    {
+        "name_pesticides": "Кайзер, КС"
+    },
+    {
+        "name_pesticides": "Кайман, ВР"
+    },
+    {
+        "name_pesticides": "Калаш, ВРК"
+    },
+    {
+        "name_pesticides": "Калибр Голд, ВДГ"
+    },
+    {
+        "name_pesticides": "Калибр Дуо, ВДГ"
+    },
+    {
+        "name_pesticides": "Калина, КС"
+    },
+    {
+        "name_pesticides": "Каллисто, СК"
+    },
+    {
+        "name_pesticides": "Камелин, КЭ"
+    },
+    {
+        "name_pesticides": "Камертон Ультра, СП"
+    },
+    {
+        "name_pesticides": "Канонир Дуо, КС"
+    },
+    {
+        "name_pesticides": "Кантор, ККР"
+    },
+    {
+        "name_pesticides": "Капелла, МЭ"
+    },
+    {
+        "name_pesticides": "Капрено, КС"
+    },
+    {
+        "name_pesticides": "Каптора, ВРК"
+    },
+    {
+        "name_pesticides": "Карамба Дуо, КЭ"
+    },
+    {
+        "name_pesticides": "Карамболь, СП"
+    },
+    {
+        "name_pesticides": "Каратошанс, КЭ"
+    },
+    {
+        "name_pesticides": "Карачар, КЭ"
+    },
+    {
+        "name_pesticides": "Карбонадо, ТПС"
+    },
+    {
+        "name_pesticides": "Карбоцин, ТАБ"
+    },
+    {
+        "name_pesticides": "Карзибел, КС"
+    },
+    {
+        "name_pesticides": "Кари-Макс, СП"
+    },
+    {
+        "name_pesticides": "Кариал Флекс, ВДГ"
+    },
+    {
+        "name_pesticides": "Карибу С, ВДГ"
+    },
+    {
+        "name_pesticides": "КариПро, ВДГ"
+    },
+    {
+        "name_pesticides": "Каришанс, ВДГ"
+    },
+    {
+        "name_pesticides": "Карповирусин, СК"
+    },
+    {
+        "name_pesticides": "Картель, ВДГ"
+    },
+    {
+        "name_pesticides": "Каспер, ВРК"
+    },
+    {
+        "name_pesticides": "Касумин 2Л, ВР"
+    },
+    {
+        "name_pesticides": "Квад-Глоб, ВР"
+    },
+    {
+        "name_pesticides": "Квартет, КС"
+    },
+    {
+        "name_pesticides": "Квестор Форте, КС"
+    },
+    {
+        "name_pesticides": "Квестор, КС"
+    },
+    {
+        "name_pesticides": "Квикстеп, МКЭ"
+    },
+    {
+        "name_pesticides": "Квикфос, ТАБ"
+    },
+    {
+        "name_pesticides": "Кентавр, ВДГ"
+    },
+    {
+        "name_pesticides": "Кидека, КС"
+    },
+    {
+        "name_pesticides": "Кинг Комби, КС"
+    },
+    {
+        "name_pesticides": "Кинмикс, КЭ"
+    },
+    {
+        "name_pesticides": "Кинто Плюс, КС"
+    },
+    {
+        "name_pesticides": "Кинфос, КЭ"
+    },
+    {
+        "name_pesticides": "Кирай, ВР"
+    },
+    {
+        "name_pesticides": "Клад, КС"
+    },
+    {
+        "name_pesticides": "Клегал, МКЭ"
+    },
+    {
+        "name_pesticides": "Клео, ВДГ"
+    },
+    {
+        "name_pesticides": "Клерат, Г"
+    },
+    {
+        "name_pesticides": "Клетодим Плюс Микс, КЭ"
+    },
+    {
+        "name_pesticides": "Клетошанс, КЭ"
+    },
+    {
+        "name_pesticides": "Климат, серная дымовая шашка"
+    },
+    {
+        "name_pesticides": "Клинч, ВДГ"
+    },
+    {
+        "name_pesticides": "Клонрин, КЭ"
+    },
+    {
+        "name_pesticides": "Клопэфир, КЭ"
+    },
+    {
+        "name_pesticides": "Клорит, ВР"
+    },
+    {
+        "name_pesticides": "Клотиамет Энерджи, КС"
+    },
+    {
+        "name_pesticides": "Клотиамет-С, КС"
+    },
+    {
+        "name_pesticides": "Клубнещит, КС"
+    },
+    {
+        "name_pesticides": "Кобальт, КМЭ"
+    },
+    {
+        "name_pesticides": "Когорта, ВГР"
+    },
+    {
+        "name_pesticides": "Койот, КС"
+    },
+    {
+        "name_pesticides": "Колосаль Про, КМЭ"
+    },
+    {
+        "name_pesticides": "Колфуго Супер, КС"
+    },
+    {
+        "name_pesticides": "Командор, ВРК"
+    },
+    {
+        "name_pesticides": "Комиссар, КЭ"
+    },
+    {
+        "name_pesticides": "Комманд, КЭ"
+    },
+    {
+        "name_pesticides": "Комрад, КЭ"
+    },
+    {
+        "name_pesticides": "Конвент, КС"
+    },
+    {
+        "name_pesticides": "Кондор Форте, МД"
+    },
+    {
+        "name_pesticides": "Конрад, КС"
+    },
+    {
+        "name_pesticides": "Консенто, КС"
+    },
+    {
+        "name_pesticides": "Контадор Макси, КС"
+    },
+    {
+        "name_pesticides": "Контакт, ВДГ"
+    },
+    {
+        "name_pesticides": "Конфиделин Супер, ВДГ"
+    },
+    {
+        "name_pesticides": "Концепт, МД"
+    },
+    {
+        "name_pesticides": "Кораген, КС"
+    },
+    {
+        "name_pesticides": "Корадо, ВРК"
+    },
+    {
+        "name_pesticides": "Кордус Форте, ВДГ"
+    },
+    {
+        "name_pesticides": "Коренастый, ВК"
+    },
+    {
+        "name_pesticides": "Корень Супер, ВРГ"
+    },
+    {
+        "name_pesticides": "Корморан, КЭ"
+    },
+    {
+        "name_pesticides": "Корнеги, СЭ"
+    },
+    {
+        "name_pesticides": "Корнерост М, КРП"
+    },
+    {
+        "name_pesticides": "Корникос, КС"
+    },
+    {
+        "name_pesticides": "Корректор, ВР"
+    },
+    {
+        "name_pesticides": "Корсар Супер, ВРК"
+    },
+    {
+        "name_pesticides": "Кортлис, ВРК"
+    },
+    {
+        "name_pesticides": "Косайд 2000, ВДГ"
+    },
+    {
+        "name_pesticides": "Костандо, КЭ"
+    },
+    {
+        "name_pesticides": "Кратерр, КС"
+    },
+    {
+        "name_pesticides": "Кредо, СК"
+    },
+    {
+        "name_pesticides": "Крезаксин, ВДГ"
+    },
+    {
+        "name_pesticides": "Крезолан, ВР"
+    },
+    {
+        "name_pesticides": "Крепень, ВР"
+    },
+    {
+        "name_pesticides": "Крепошанс, МД"
+    },
+    {
+        "name_pesticides": "Крестраж, КС"
+    },
+    {
+        "name_pesticides": "Кристалл, КС"
+    },
+    {
+        "name_pesticides": "Кротомет, Г"
+    },
+    {
+        "name_pesticides": "Круйзер Рапс, КС"
+    },
+    {
+        "name_pesticides": "Круйзер, КС"
+    },
+    {
+        "name_pesticides": "Круйзер, КС (600 г/л)"
+    },
+    {
+        "name_pesticides": "Ксиор, СК"
+    },
+    {
+        "name_pesticides": "Кумир, СК"
+    },
+    {
+        "name_pesticides": "Кунгфу Супер, КС"
+    },
+    {
+        "name_pesticides": "Купаж, ВДГ"
+    },
+    {
+        "name_pesticides": "Куприкол, КОЛР"
+    },
+    {
+        "name_pesticides": "Купролюкс, СП"
+    },
+    {
+        "name_pesticides": "Курзат Р, СП"
+    },
+    {
+        "name_pesticides": "Курсар, ВР"
+    },
+    {
+        "name_pesticides": "Кэнсел, КС"
+    },
+    {
+        "name_pesticides": "Лабрадор, КЭ"
+    },
+    {
+        "name_pesticides": "Ладон Про, КЭ"
+    },
+    {
+        "name_pesticides": "Лазурит Т, СП"
+    },
+    {
+        "name_pesticides": "Лазурит, СП"
+    },
+    {
+        "name_pesticides": "Лайфлайн, ВР"
+    },
+    {
+        "name_pesticides": "Лама, КЭ"
+    },
+    {
+        "name_pesticides": "Ламадор, КС"
+    },
+    {
+        "name_pesticides": "Ланкастер, КЭ"
+    },
+    {
+        "name_pesticides": "Ланта, КС"
+    },
+    {
+        "name_pesticides": "Ланцея, КМЭ"
+    },
+    {
+        "name_pesticides": "Ларен Про, ВДГ"
+    },
+    {
+        "name_pesticides": "Ларимар, ТКС"
+    },
+    {
+        "name_pesticides": "Лассо, КЭ"
+    },
+    {
+        "name_pesticides": "Ластик Экстра, КЭ"
+    },
+    {
+        "name_pesticides": "Левират, КЭ"
+    },
+    {
+        "name_pesticides": "Леггеро Форте, КЭ"
+    },
+    {
+        "name_pesticides": "Легион Комби, КЭ"
+    },
+    {
+        "name_pesticides": "Лемур, КЭ"
+    },
+    {
+        "name_pesticides": "Лепидобактоцид, Ж"
+    },
+    {
+        "name_pesticides": "Лепидоцид, СК-М"
+    },
+    {
+        "name_pesticides": "Лерашанс, ВР"
+    },
+    {
+        "name_pesticides": "Либертадор, СК"
+    },
+    {
+        "name_pesticides": "Лидер, КЭ"
+    },
+    {
+        "name_pesticides": "Линтур, ВДГ"
+    },
+    {
+        "name_pesticides": "Лирум, СК"
+    },
+    {
+        "name_pesticides": "Логано, КС"
+    },
+    {
+        "name_pesticides": "Локустин, КС"
+    },
+    {
+        "name_pesticides": "Лонтерр, ВДГ"
+    },
+    {
+        "name_pesticides": "Лонтрел-300, ВР"
+    },
+    {
+        "name_pesticides": "Лост, ВР"
+    },
+    {
+        "name_pesticides": "Луна Экспириенс, КС"
+    },
+    {
+        "name_pesticides": "Люмакс, СЭ"
+    },
+    {
+        "name_pesticides": "Люмисена, ТС"
+    },
+    {
+        "name_pesticides": "Люфокс, КЭ"
+    },
+    {
+        "name_pesticides": "Мабет, КЭ"
+    },
+    {
+        "name_pesticides": "Маганик, КЭ"
+    },
+    {
+        "name_pesticides": "Магнат Тотал, КС"
+    },
+    {
+        "name_pesticides": "Магнифос, ТАБ"
+    },
+    {
+        "name_pesticides": "Магнум, ВДГ"
+    },
+    {
+        "name_pesticides": "Магтоксин, ТАБ"
+    },
+    {
+        "name_pesticides": "МайсТер Пауэр, МД"
+    },
+    {
+        "name_pesticides": "Макси Злак, КЭ"
+    },
+    {
+        "name_pesticides": "Максим Адванс, КС"
+    },
+    {
+        "name_pesticides": "Максим Кватро, КС"
+    },
+    {
+        "name_pesticides": "Максим Форте, КС"
+    },
+    {
+        "name_pesticides": "Максим, КС"
+    },
+    {
+        "name_pesticides": "Малахит, ВДГ"
+    },
+    {
+        "name_pesticides": "Малибу, ВДГ"
+    },
+    {
+        "name_pesticides": "Манзат, ВДГ"
+    },
+    {
+        "name_pesticides": "Манкодим, СП"
+    },
+    {
+        "name_pesticides": "Мантра, ВРК"
+    },
+    {
+        "name_pesticides": "Мариус, КС"
+    },
+    {
+        "name_pesticides": "Масай, СП"
+    },
+    {
+        "name_pesticides": "МатринБио БАУ, ВР"
+    },
+    {
+        "name_pesticides": "Матрица Роста, ВРК"
+    },
+    {
+        "name_pesticides": "Маэстро, КЭ"
+    },
+    {
+        "name_pesticides": "Мегаполис, ВР"
+    },
+    {
+        "name_pesticides": "Медвегон, Г"
+    },
+    {
+        "name_pesticides": "Медветокс, Г"
+    },
+    {
+        "name_pesticides": "Медея, МЭ"
+    },
+    {
+        "name_pesticides": "Мезокорн, КС"
+    },
+    {
+        "name_pesticides": "Мекар, МЭ"
+    },
+    {
+        "name_pesticides": "Мелион, КС"
+    },
+    {
+        "name_pesticides": "Меридиан, ВР"
+    },
+    {
+        "name_pesticides": "Мерлин, ВДГ"
+    },
+    {
+        "name_pesticides": "Мессер, МЭ"
+    },
+    {
+        "name_pesticides": "Метабактерин, СП"
+    },
+    {
+        "name_pesticides": "Метавайт, Ж"
+    },
+    {
+        "name_pesticides": "МетАлт, ВДГ"
+    },
+    {
+        "name_pesticides": "Метамир, КС"
+    },
+    {
+        "name_pesticides": "Метарон, ВДГ"
+    },
+    {
+        "name_pesticides": "Метафол, СК"
+    },
+    {
+        "name_pesticides": "Метеор, СП"
+    },
+    {
+        "name_pesticides": "Метметил, ВДГ"
+    },
+    {
+        "name_pesticides": "Метомакс, КС"
+    },
+    {
+        "name_pesticides": "Метрифар 70, ВГ"
+    },
+    {
+        "name_pesticides": "Мидас, СЭ"
+    },
+    {
+        "name_pesticides": "Микромецен, ВР"
+    },
+    {
+        "name_pesticides": "Миксанил, КС"
+    },
+    {
+        "name_pesticides": "Милагро Плюс, МД"
+    },
+    {
+        "name_pesticides": "Милдикат, КС"
+    },
+    {
+        "name_pesticides": "Милена, КС"
+    },
+    {
+        "name_pesticides": "Минхати, КС"
+    },
+    {
+        "name_pesticides": "Миравис Нео, СЭ"
+    },
+    {
+        "name_pesticides": "Миравис, СК"
+    },
+    {
+        "name_pesticides": "Мистраль Топ, КС"
+    },
+    {
+        "name_pesticides": "Митрон, КС"
+    },
+    {
+        "name_pesticides": "Мовенто Энерджи, КС"
+    },
+    {
+        "name_pesticides": "Модерн Премиум, МД"
+    },
+    {
+        "name_pesticides": "Модесто Плюс, КС"
+    },
+    {
+        "name_pesticides": "Модесто, КС"
+    },
+    {
+        "name_pesticides": "Молетокс, КЭ"
+    },
+    {
+        "name_pesticides": "Молния Экстра, КЭ"
+    },
+    {
+        "name_pesticides": "Молоток, ВР"
+    },
+    {
+        "name_pesticides": "Монарх, ВДГ"
+    },
+    {
+        "name_pesticides": "Мономакс, ВР"
+    },
+    {
+        "name_pesticides": "Мортира, ВДГ"
+    },
+    {
+        "name_pesticides": "Моспилан, РП"
+    },
+    {
+        "name_pesticides": "Муравьин Форте, Г"
+    },
+    {
+        "name_pesticides": "Мурал, ВР"
+    },
+    {
+        "name_pesticides": "Мушкет Плюс, МД"
+    },
+    {
+        "name_pesticides": "Нагайна, КС"
+    },
+    {
+        "name_pesticides": "Наношанс, ВР"
+    },
+    {
+        "name_pesticides": "Нарвал, КС"
+    },
+    {
+        "name_pesticides": "Наутиль, ВДГ"
+    },
+    {
+        "name_pesticides": "Нематофагин-Микопро, П"
+    },
+    {
+        "name_pesticides": "Нертус ПланетаПег, Ж"
+    },
+    {
+        "name_pesticides": "Никос, КС"
+    },
+    {
+        "name_pesticides": "Ниссин Экстра, МД"
+    },
+    {
+        "name_pesticides": "Ниссоран, СК"
+    },
+    {
+        "name_pesticides": "Новацет, КЭ"
+    },
+    {
+        "name_pesticides": "Новус-Ф, КС"
+    },
+    {
+        "name_pesticides": "Номини, СК"
+    },
+    {
+        "name_pesticides": "Нопасаран Ультра, КС"
+    },
+    {
+        "name_pesticides": "Нор-Би, СП"
+    },
+    {
+        "name_pesticides": "Норвел, КЭ"
+    },
+    {
+        "name_pesticides": "НордСтрим, ВДГ"
+    },
+    {
+        "name_pesticides": "Нунчак, КЭ"
+    },
+    {
+        "name_pesticides": "Нуримет Экстра, КЭ"
+    },
+    {
+        "name_pesticides": "Нэо, ВДГ"
+    },
+    {
+        "name_pesticides": "О!трава Доктор Харвест, ВР"
+    },
+    {
+        "name_pesticides": "Оберон Рапид, КС"
+    },
+    {
+        "name_pesticides": "Обстормон, ВР"
+    },
+    {
+        "name_pesticides": "Овсюген Супер, КЭ"
+    },
+    {
+        "name_pesticides": "Одиссей, ВГР"
+    },
+    {
+        "name_pesticides": "Октава, МД"
+    },
+    {
+        "name_pesticides": "Октапон-супер, КЭ"
+    },
+    {
+        "name_pesticides": "Октиген, КЭ"
+    },
+    {
+        "name_pesticides": "Омайт, ВЭ"
+    },
+    {
+        "name_pesticides": "Оперкот, КЭ"
+    },
+    {
+        "name_pesticides": "Оплот, ВСК"
+    },
+    {
+        "name_pesticides": "Опричник, СЭ"
+    },
+    {
+        "name_pesticides": "Оптимум, ВР"
+    },
+    {
+        "name_pesticides": "Орбита, КЭ"
+    },
+    {
+        "name_pesticides": "Оргамика С, Ж"
+    },
+    {
+        "name_pesticides": "Органза, КС"
+    },
+    {
+        "name_pesticides": "Ордан, СП"
+    },
+    {
+        "name_pesticides": "Оризан, МСК"
+    },
+    {
+        "name_pesticides": "Орион, КЭ"
+    },
+    {
+        "name_pesticides": "Орондис Ультра, СК"
+    },
+    {
+        "name_pesticides": "Осирис, КЭ"
+    },
+    {
+        "name_pesticides": "Острог, МК"
+    },
+    {
+        "name_pesticides": "Отличник, МКЭ"
+    },
+    {
+        "name_pesticides": "Оцелот, КЭ"
+    },
+    {
+        "name_pesticides": "Палица, Г"
+    },
+    {
+        "name_pesticides": "Паллас КА, МД"
+    },
+    {
+        "name_pesticides": "Пантера, КЭ"
+    },
+    {
+        "name_pesticides": "Парадокс, ВРК"
+    },
+    {
+        "name_pesticides": "Партенокарпин-Био, Р"
+    },
+    {
+        "name_pesticides": "Патрон, ВДГ"
+    },
+    {
+        "name_pesticides": "Пеон, КЭ"
+    },
+    {
+        "name_pesticides": "Персео, КС"
+    },
+    {
+        "name_pesticides": "Пивот, ВК"
+    },
+    {
+        "name_pesticides": "Пикокарб, СК"
+    },
+    {
+        "name_pesticides": "Пиктор Актив, КС"
+    },
+    {
+        "name_pesticides": "Пилот, ВСК"
+    },
+    {
+        "name_pesticides": "Пиноцид, СК"
+    },
+    {
+        "name_pesticides": "Пионер, КС"
+    },
+    {
+        "name_pesticides": "Пиранья, КЭ"
+    },
+    {
+        "name_pesticides": "Пирелли, КЭ"
+    },
+    {
+        "name_pesticides": "Пириметан,КС"
+    },
+    {
+        "name_pesticides": "Пирус, КС"
+    },
+    {
+        "name_pesticides": "Питон, КЭ"
+    },
+    {
+        "name_pesticides": "Плантенол Нео, ВДГ"
+    },
+    {
+        "name_pesticides": "Плектор, ВДГ"
+    },
+    {
+        "name_pesticides": "Пленум, ВДГ"
+    },
+    {
+        "name_pesticides": "Плуггер, ВДГ"
+    },
+    {
+        "name_pesticides": "Позитив Плюс, КС"
+    },
+    {
+        "name_pesticides": "Покровитель, КС"
+    },
+    {
+        "name_pesticides": "Поларис Кватро, СМЭ"
+    },
+    {
+        "name_pesticides": "Поларис, МЭ"
+    },
+    {
+        "name_pesticides": "Полгар, КЭ"
+    },
+    {
+        "name_pesticides": "Полидок, ВДГ"
+    },
+    {
+        "name_pesticides": "Полис, ВР"
+    },
+    {
+        "name_pesticides": "Пондус, КС"
+    },
+    {
+        "name_pesticides": "Пончо Вотиво, КС"
+    },
+    {
+        "name_pesticides": "Поптрин, КС"
+    },
+    {
+        "name_pesticides": "Почкорост, ПС"
+    },
+    {
+        "name_pesticides": "Превикур Энерджи, ВК"
+    },
+    {
+        "name_pesticides": "Премис Двести, КС"
+    },
+    {
+        "name_pesticides": "Премьера, СЭ"
+    },
+    {
+        "name_pesticides": "Престиж Топ, КС"
+    },
+    {
+        "name_pesticides": "Престиж, КС"
+    },
+    {
+        "name_pesticides": "Приаксор Макс, КЭ"
+    },
+    {
+        "name_pesticides": "Приам, КЭ"
+    },
+    {
+        "name_pesticides": "Приклад, ВДГ"
+    },
+    {
+        "name_pesticides": "Прима, СЭ"
+    },
+    {
+        "name_pesticides": "Примадонна Супер, ККР"
+    },
+    {
+        "name_pesticides": "Приоритет, КС"
+    },
+    {
+        "name_pesticides": "Провизор, СК"
+    },
+    {
+        "name_pesticides": "Прогноз, КЭ"
+    },
+    {
+        "name_pesticides": "Прозаро, КЭ"
+    },
+    {
+        "name_pesticides": "Проклэйм, ВРГ"
+    },
+    {
+        "name_pesticides": "Проксима, КС"
+    },
+    {
+        "name_pesticides": "Промекс, КС"
+    },
+    {
+        "name_pesticides": "Промет, КС"
+    },
+    {
+        "name_pesticides": "Прометрин, СК"
+    },
+    {
+        "name_pesticides": "Промэкс, КЭ"
+    },
+    {
+        "name_pesticides": "Пронто, КЭ"
+    },
+    {
+        "name_pesticides": "Пропишанс Супер, КЭ"
+    },
+    {
+        "name_pesticides": "Пропишанс Универсал, КМЭ"
+    },
+    {
+        "name_pesticides": "Пропонит Дуо, КЭ"
+    },
+    {
+        "name_pesticides": "Пропульс, СЭ"
+    },
+    {
+        "name_pesticides": "Проросток, Р"
+    },
+    {
+        "name_pesticides": "Протего Макс, МЭ"
+    },
+    {
+        "name_pesticides": "Протект Комби, СЭ"
+    },
+    {
+        "name_pesticides": "Протект, КС"
+    },
+    {
+        "name_pesticides": "Профи Супер, КЭ"
+    },
+    {
+        "name_pesticides": "Профи, КЭ"
+    },
+    {
+        "name_pesticides": "Профилактин Лайт, ВЭ"
+    },
+    {
+        "name_pesticides": "ПроФреш, П"
+    },
+    {
+        "name_pesticides": "Псевдобактерин-2, Ж"
+    },
+    {
+        "name_pesticides": "Псевдобактерин-3, Ж"
+    },
+    {
+        "name_pesticides": "Пузат Экстра, ВДГ"
+    },
+    {
+        "name_pesticides": "Пульс-Стар, ВР"
+    },
+    {
+        "name_pesticides": "Пульсар Старт, ВРК"
+    },
+    {
+        "name_pesticides": "Пума Голд, КЭ"
+    },
+    {
+        "name_pesticides": "Пума Супер 7.5, ЭМВ"
+    },
+    {
+        "name_pesticides": "Рабона, СЭ"
+    },
+    {
+        "name_pesticides": "Разряд, Г"
+    },
+    {
+        "name_pesticides": "Раксил Ультра, КС"
+    },
+    {
+        "name_pesticides": "Ракурс, СК"
+    },
+    {
+        "name_pesticides": "Ранголи Галситил, КЭ"
+    },
+    {
+        "name_pesticides": "Ранголи-Гильотина, ВДГ"
+    },
+    {
+        "name_pesticides": "Ранголи-Глифосат 480, ВР"
+    },
+    {
+        "name_pesticides": "Ранголи-Имидоклоприд, ВРК"
+    },
+    {
+        "name_pesticides": "Ранголи-Метамитрон, КС"
+    },
+    {
+        "name_pesticides": "Ранголи-Прадо, ВРК"
+    },
+    {
+        "name_pesticides": "Ранголи-Таргон-С, КЭ"
+    },
+    {
+        "name_pesticides": "Ранголи-Трибенурон, ВДГ"
+    },
+    {
+        "name_pesticides": "Ранкона 450, ТС"
+    },
+    {
+        "name_pesticides": "Рапид Голд Плюс, СП"
+    },
+    {
+        "name_pesticides": "Рапид Дуэт, СП"
+    },
+    {
+        "name_pesticides": "Рапира, КЭ"
+    },
+    {
+        "name_pesticides": "Рапсан, ВР"
+    },
+    {
+        "name_pesticides": "Раттидион, Г"
+    },
+    {
+        "name_pesticides": "Рауль, ВР"
+    },
+    {
+        "name_pesticides": "Раундап, Гель"
+    },
+    {
+        "name_pesticides": "Ревиона, КС"
+    },
+    {
+        "name_pesticides": "Ревус, КС"
+    },
+    {
+        "name_pesticides": "Регент, ВДГ"
+    },
+    {
+        "name_pesticides": "Реглон Форте, ВР"
+    },
+    {
+        "name_pesticides": "Реглон Эйр, ВР"
+    },
+    {
+        "name_pesticides": "Регулят Супер, ВР"
+    },
+    {
+        "name_pesticides": "Редиго Про, КС"
+    },
+    {
+        "name_pesticides": "Результат Супер, ВР"
+    },
+    {
+        "name_pesticides": "Рекрут, КС"
+    },
+    {
+        "name_pesticides": "Рекс Плюс, СЭ"
+    },
+    {
+        "name_pesticides": "Ректон, ВР"
+    },
+    {
+        "name_pesticides": "Ректор, КС"
+    },
+    {
+        "name_pesticides": "Репер Трио, МД"
+    },
+    {
+        "name_pesticides": "Репер, ККР"
+    },
+    {
+        "name_pesticides": "Рессиви, КС"
+    },
+    {
+        "name_pesticides": "Рефери, ВГР"
+    },
+    {
+        "name_pesticides": "Рибав-Экстра, P"
+    },
+    {
+        "name_pesticides": "Ридомил Голд Р, ВДГ"
+    },
+    {
+        "name_pesticides": "Риманол, ВДГ"
+    },
+    {
+        "name_pesticides": "Римлин, ВДГ"
+    },
+    {
+        "name_pesticides": "Римэкс, ВДГ"
+    },
+    {
+        "name_pesticides": "Ристайл, МД"
+    },
+    {
+        "name_pesticides": "Рогор-С, КЭ"
+    },
+    {
+        "name_pesticides": "Ромбус, КС"
+    },
+    {
+        "name_pesticides": "Рондо, КЭ"
+    },
+    {
+        "name_pesticides": "Рофатокс, Г"
+    },
+    {
+        "name_pesticides": "Рузмин, ВР"
+    },
+    {
+        "name_pesticides": "Рэгги, ВРК"
+    },
+    {
+        "name_pesticides": "Сабля, КС"
+    },
+    {
+        "name_pesticides": "Сайрен, КЭ"
+    },
+    {
+        "name_pesticides": "Сальса Про, ВДГ"
+    },
+    {
+        "name_pesticides": "Сальса, СП"
+    },
+    {
+        "name_pesticides": "Сангейт Экстра, ВДГ"
+    },
+    {
+        "name_pesticides": "Санмайт, СП"
+    },
+    {
+        "name_pesticides": "Сансэр Ультра, КС"
+    },
+    {
+        "name_pesticides": "Санфло, ВДГ"
+    },
+    {
+        "name_pesticides": "Сапфир, ВРК"
+    },
+    {
+        "name_pesticides": "Сарейп, КЭ"
+    },
+    {
+        "name_pesticides": "Сарфун, СК"
+    },
+    {
+        "name_pesticides": "Сварог, СЭ"
+    },
+    {
+        "name_pesticides": "Себринг, СК"
+    },
+    {
+        "name_pesticides": "Секатор Турбо, МД"
+    },
+    {
+        "name_pesticides": "Секира Элит, КЭ"
+    },
+    {
+        "name_pesticides": "Секунда, КЭ"
+    },
+    {
+        "name_pesticides": "Селект, КЭ"
+    },
+    {
+        "name_pesticides": "Селена, КЭ"
+    },
+    {
+        "name_pesticides": "Селест Макс, КС"
+    },
+    {
+        "name_pesticides": "Селест Топ, КС"
+    },
+    {
+        "name_pesticides": "Сенсей, КЭ"
+    },
+    {
+        "name_pesticides": "Сера 400, КС"
+    },
+    {
+        "name_pesticides": "Серапен, КЭ"
+    },
+    {
+        "name_pesticides": "Серкадис Плюс, КС"
+    },
+    {
+        "name_pesticides": "Серп, ВРК"
+    },
+    {
+        "name_pesticides": "Серф-Экстра, ТКС"
+    },
+    {
+        "name_pesticides": "Сигнум, ВДГ"
+    },
+    {
+        "name_pesticides": "Сиквел, ВР"
+    },
+    {
+        "name_pesticides": "Силар, ВР"
+    },
+    {
+        "name_pesticides": "Силач, ВР"
+    },
+    {
+        "name_pesticides": "Симба, КЭ"
+    },
+    {
+        "name_pesticides": "Синбетан Эксперт ОФ, КЭ"
+    },
+    {
+        "name_pesticides": "Синтрон, КЭ"
+    },
+    {
+        "name_pesticides": "Сирокко, КЭ"
+    },
+    {
+        "name_pesticides": "Систива, КС"
+    },
+    {
+        "name_pesticides": "Скальпель, КС"
+    },
+    {
+        "name_pesticides": "Скарлет, МЭ"
+    },
+    {
+        "name_pesticides": "Скаут, КЭ"
+    },
+    {
+        "name_pesticides": "Скор, КЭ"
+    },
+    {
+        "name_pesticides": "Скорпион Форте, ВР"
+    },
+    {
+        "name_pesticides": "Скорый, КЭ"
+    },
+    {
+        "name_pesticides": "Скутум, СК"
+    },
+    {
+        "name_pesticides": "Слизнеед Нео, Г"
+    },
+    {
+        "name_pesticides": "Слоузен, ВДГ"
+    },
+    {
+        "name_pesticides": "Снейк, РП"
+    },
+    {
+        "name_pesticides": "Сойл, ВДГ"
+    },
+    {
+        "name_pesticides": "Солам, КС"
+    },
+    {
+        "name_pesticides": "Солигор, КЭ"
+    },
+    {
+        "name_pesticides": "Соната Супер, КЭ"
+    },
+    {
+        "name_pesticides": "Сотейра, ВРК"
+    },
+    {
+        "name_pesticides": "Спад-Ник Гранулы, Г"
+    },
+    {
+        "name_pesticides": "Спарвиэро, МКС"
+    },
+    {
+        "name_pesticides": "Сперамет, МД"
+    },
+    {
+        "name_pesticides": "Спинтор КА, СК"
+    },
+    {
+        "name_pesticides": "Споробактерин, СП"
+    },
+    {
+        "name_pesticides": "Спрут Экстра, ВР"
+    },
+    {
+        "name_pesticides": "Стабилан, ВР"
+    },
+    {
+        "name_pesticides": "Стандак Топ, КС"
+    },
+    {
+        "name_pesticides": "Статус Голд, ВДГ"
+    },
+    {
+        "name_pesticides": "Статус Макс, ВДГ"
+    },
+    {
+        "name_pesticides": "Стеллар Плюс, ВРК"
+    },
+    {
+        "name_pesticides": "Стерлинг, ВСК"
+    },
+    {
+        "name_pesticides": "Стилет, МД"
+    },
+    {
+        "name_pesticides": "Стимулэйт, Ж"
+    },
+    {
+        "name_pesticides": "Стингер, КС"
+    },
+    {
+        "name_pesticides": "Стожар, РП"
+    },
+    {
+        "name_pesticides": "СтопУлит, Г"
+    },
+    {
+        "name_pesticides": "Стратег, КС"
+    },
+    {
+        "name_pesticides": "Стрекар, КС"
+    },
+    {
+        "name_pesticides": "Стрим, КЭ"
+    },
+    {
+        "name_pesticides": "Строби, ВДГ"
+    },
+    {
+        "name_pesticides": "Стробитек, ВДГ"
+    },
+    {
+        "name_pesticides": "Султан, СК"
+    },
+    {
+        "name_pesticides": "Сумитион, КЭ"
+    },
+    {
+        "name_pesticides": "Суперкилл, КЭ"
+    },
+    {
+        "name_pesticides": "Суперстар Голд, ВДГ"
+    },
+    {
+        "name_pesticides": "Суховей, ВР"
+    },
+    {
+        "name_pesticides": "Сфера макс, КС"
+    },
+    {
+        "name_pesticides": "Сценик Комби, КС"
+    },
+    {
+        "name_pesticides": "Сэмпай, КЭ"
+    },
+    {
+        "name_pesticides": "Табазол, П"
+    },
+    {
+        "name_pesticides": "Табачная пыль, П"
+    },
+    {
+        "name_pesticides": "Табу Нео, СК"
+    },
+    {
+        "name_pesticides": "Табу, ВСК"
+    },
+    {
+        "name_pesticides": "Тайгер 100, КЭ"
+    },
+    {
+        "name_pesticides": "Тайпан, КЭ"
+    },
+    {
+        "name_pesticides": "Тайфун, ВР"
+    },
+    {
+        "name_pesticides": "Талака 100, КЭ"
+    },
+    {
+        "name_pesticides": "Талендо Экстра, КЭ"
+    },
+    {
+        "name_pesticides": "Талиус, КЭ"
+    },
+    {
+        "name_pesticides": "Тальвар, КЭ"
+    },
+    {
+        "name_pesticides": "Тандем, ВДГ"
+    },
+    {
+        "name_pesticides": "Танос, ВДГ"
+    },
+    {
+        "name_pesticides": "Танрек, ВРК"
+    },
+    {
+        "name_pesticides": "Тапир Гибрид, МК"
+    },
+    {
+        "name_pesticides": "Тапирошанс, ВРК"
+    },
+    {
+        "name_pesticides": "Тарга Супер, КЭ"
+    },
+    {
+        "name_pesticides": "Тачдаун, ВР"
+    },
+    {
+        "name_pesticides": "Твинго Евро, МД"
+    },
+    {
+        "name_pesticides": "Тебаз Про, СК"
+    },
+    {
+        "name_pesticides": "Тебу 60, МЭ"
+    },
+    {
+        "name_pesticides": "Тебузил, ТКС"
+    },
+    {
+        "name_pesticides": "Тебуконазол, КС"
+    },
+    {
+        "name_pesticides": "Тейя, КС"
+    },
+    {
+        "name_pesticides": "Тельдор, ВДГ"
+    },
+    {
+        "name_pesticides": "Теппеки, ВДГ"
+    },
+    {
+        "name_pesticides": "Тердок, КЭ"
+    },
+    {
+        "name_pesticides": "Террагард, СЭ"
+    },
+    {
+        "name_pesticides": "Террамет, ВДГ"
+    },
+    {
+        "name_pesticides": "Террасил, КС"
+    },
+    {
+        "name_pesticides": "Терция, СК"
+    },
+    {
+        "name_pesticides": "Теспиан, КЭ"
+    },
+    {
+        "name_pesticides": "Тефлутрин, МКС"
+    },
+    {
+        "name_pesticides": "Тиамакс, КС"
+    },
+    {
+        "name_pesticides": "Тиацин Био БАУ, МЭ"
+    },
+    {
+        "name_pesticides": "Тигран Экстра, КЭ"
+    },
+    {
+        "name_pesticides": "Тилт Турбо, КЭ"
+    },
+    {
+        "name_pesticides": "Тиматерр, КС"
+    },
+    {
+        "name_pesticides": "Тимус, КЭ"
+    },
+    {
+        "name_pesticides": "Тир, ТПС"
+    },
+    {
+        "name_pesticides": "Тирам, ВСК"
+    },
+    {
+        "name_pesticides": "Тирон,ВДГ"
+    },
+    {
+        "name_pesticides": "Титул 390, ККР"
+    },
+    {
+        "name_pesticides": "Титул Трио, ККР"
+    },
+    {
+        "name_pesticides": "Титус, СТС"
+    },
+    {
+        "name_pesticides": "Тифенс, ВДГ"
+    },
+    {
+        "name_pesticides": "ТифилАгро, ВДГ"
+    },
+    {
+        "name_pesticides": "ТМТД, ВСК"
+    },
+    {
+        "name_pesticides": "ТМТД-плюс, КС"
+    },
+    {
+        "name_pesticides": "Томатон, Р"
+    },
+    {
+        "name_pesticides": "Тонус, ВДГ"
+    },
+    {
+        "name_pesticides": "Топик, КЭ"
+    },
+    {
+        "name_pesticides": "Топсин-М, КС"
+    },
+    {
+        "name_pesticides": "Топтун 100, КЭ"
+    },
+    {
+        "name_pesticides": "Топшот 113, МД"
+    },
+    {
+        "name_pesticides": "Торег, КЭ"
+    },
+    {
+        "name_pesticides": "Торнадо 500, ВР"
+    },
+    {
+        "name_pesticides": "Торнадо, ВР"
+    },
+    {
+        "name_pesticides": "Тотал, ВР"
+    },
+    {
+        "name_pesticides": "Трафик, ВРК"
+    },
+    {
+        "name_pesticides": "ТриАгро, КС"
+    },
+    {
+        "name_pesticides": "Триада, ККР"
+    },
+    {
+        "name_pesticides": "Триактив, КС"
+    },
+    {
+        "name_pesticides": "Трианум Г, Г"
+    },
+    {
+        "name_pesticides": "Триас, ВДГ"
+    },
+    {
+        "name_pesticides": "Трибинстар, ВДГ"
+    },
+    {
+        "name_pesticides": "Трибунал, ВДГ"
+    },
+    {
+        "name_pesticides": "Тридим, КС"
+    },
+    {
+        "name_pesticides": "Триметил, ВДГ"
+    },
+    {
+        "name_pesticides": "Триптих, КС"
+    },
+    {
+        "name_pesticides": "Трисил, ВДГ"
+    },
+    {
+        "name_pesticides": "Тритон, КС"
+    },
+    {
+        "name_pesticides": "Триходерма Вериде 471, СП"
+    },
+    {
+        "name_pesticides": "Трихофит Плюс, Ж"
+    },
+    {
+        "name_pesticides": "Трицепс, ВДГ"
+    },
+    {
+        "name_pesticides": "Туарег, СМЭ"
+    },
+    {
+        "name_pesticides": "Тумен, ТКС"
+    },
+    {
+        "name_pesticides": "УкоренитЪ, СП"
+    },
+    {
+        "name_pesticides": "Улис, ВДГ"
+    },
+    {
+        "name_pesticides": "Универсал, КС"
+    },
+    {
+        "name_pesticides": "Ураган Форте, ВР"
+    },
+    {
+        "name_pesticides": "Фабиан, ВДГ"
+    },
+    {
+        "name_pesticides": "Фазис, ВДГ"
+    },
+    {
+        "name_pesticides": "Факел Экстра, ВР"
+    },
+    {
+        "name_pesticides": "Фактория, МКС"
+    },
+    {
+        "name_pesticides": "Фамокс, ВДГ"
+    },
+    {
+        "name_pesticides": "Фараон Супер, КС"
+    },
+    {
+        "name_pesticides": "Фарватер, КС"
+    },
+    {
+        "name_pesticides": "Фарди, КЭ"
+    },
+    {
+        "name_pesticides": "ФАС, серная шашка"
+    },
+    {
+        "name_pesticides": "Фаскорд, КЭ"
+    },
+    {
+        "name_pesticides": "Фасшанс, КЭ"
+    },
+    {
+        "name_pesticides": "Фатрин, КЭ"
+    },
+    {
+        "name_pesticides": "Фезан 250, КЭ"
+    },
+    {
+        "name_pesticides": "Фендрик, КС"
+    },
+    {
+        "name_pesticides": "Феникс Дуо, КС"
+    },
+    {
+        "name_pesticides": "Феноксоп 100, КЭ"
+    },
+    {
+        "name_pesticides": "Феразим, КС"
+    },
+    {
+        "name_pesticides": "Фея, КЭ"
+    },
+    {
+        "name_pesticides": "Филдер 69, ВГ"
+    },
+    {
+        "name_pesticides": "Фипроксам, КС"
+    },
+    {
+        "name_pesticides": "Фист, КЭ"
+    },
+    {
+        "name_pesticides": "Фитоверм Форте, КЭ"
+    },
+    {
+        "name_pesticides": "Фитолавин, ВРК"
+    },
+    {
+        "name_pesticides": "Фитомаг, П"
+    },
+    {
+        "name_pesticides": "Фитомаг-Пак, П"
+    },
+    {
+        "name_pesticides": "Фитоспорин-АС, Ж"
+    },
+    {
+        "name_pesticides": "Фитоспорин-М, П"
+    },
+    {
+        "name_pesticides": "Фитотрикс, Ж"
+    },
+    {
+        "name_pesticides": "Флагман, КС"
+    },
+    {
+        "name_pesticides": "Фланобин, КС"
+    },
+    {
+        "name_pesticides": "Флексити, КС"
+    },
+    {
+        "name_pesticides": "Флокс, ВДГ"
+    },
+    {
+        "name_pesticides": "Флорин, СЭ"
+    },
+    {
+        "name_pesticides": "Флортек, СЭ"
+    },
+    {
+        "name_pesticides": "Флосул, СК"
+    },
+    {
+        "name_pesticides": "Флудимакс, КС"
+    },
+    {
+        "name_pesticides": "Флуплант, КС"
+    },
+    {
+        "name_pesticides": "Флутеприд, ТС"
+    },
+    {
+        "name_pesticides": "Флутриобел, КС"
+    },
+    {
+        "name_pesticides": "Фокстрот Турбо, КЭ"
+    },
+    {
+        "name_pesticides": "Фоликур, КЭ"
+    },
+    {
+        "name_pesticides": "Фомесан, ВР"
+    },
+    {
+        "name_pesticides": "Фомфлаг, ВР"
+    },
+    {
+        "name_pesticides": "Форвард, МКЭ"
+    },
+    {
+        "name_pesticides": "Форис, КС"
+    },
+    {
+        "name_pesticides": "Форс Зеа, КС"
+    },
+    {
+        "name_pesticides": "Форс, МКС"
+    },
+    {
+        "name_pesticides": "Фортенза, КС"
+    },
+    {
+        "name_pesticides": "Фортиссимо, МД"
+    },
+    {
+        "name_pesticides": "Фортуна Голд, ВДГ"
+    },
+    {
+        "name_pesticides": "Фоском, ТАБ"
+    },
+    {
+        "name_pesticides": "Фостран, КЭ"
+    },
+    {
+        "name_pesticides": "Фразол Классик, КС"
+    },
+    {
+        "name_pesticides": "Франкорн, КС"
+    },
+    {
+        "name_pesticides": "Фронтьер Оптима, КЭ"
+    },
+    {
+        "name_pesticides": "Фултайм, МД"
+    },
+    {
+        "name_pesticides": "Фумифос, ТАБ"
+    },
+    {
+        "name_pesticides": "Фумишанс, ТАБ"
+    },
+    {
+        "name_pesticides": "Фунгисил, КЭ"
+    },
+    {
+        "name_pesticides": "Фуролан, Ж"
+    },
+    {
+        "name_pesticides": "Фуфанон Эксперт, ВЭ"
+    },
+    {
+        "name_pesticides": "Фюзилад Супер, КЭ"
+    },
+    {
+        "name_pesticides": "Фюзилад Форте, КЭ"
+    },
+    {
+        "name_pesticides": "Х-Панд, Ж"
+    },
+    {
+        "name_pesticides": "Хайджек, КС"
+    },
+    {
+        "name_pesticides": "Хакер 300, ВР"
+    },
+    {
+        "name_pesticides": "Хантер, КЭ"
+    },
+    {
+        "name_pesticides": "Харвест-Макс, Р"
+    },
+    {
+        "name_pesticides": "Хармони Про, ВДГ"
+    },
+    {
+        "name_pesticides": "Хатор, ВР"
+    },
+    {
+        "name_pesticides": "Хевимет Голд, КС"
+    },
+    {
+        "name_pesticides": "Хеликовекс, СК"
+    },
+    {
+        "name_pesticides": "Хет-Трик, СК фунгицид"
+    },
+    {
+        "name_pesticides": "Хилер, МКЭ"
+    },
+    {
+        "name_pesticides": "Химера, КЭ"
+    },
+    {
+        "name_pesticides": "Хинуфур, КС"
+    },
+    {
+        "name_pesticides": "Хищник, Г"
+    },
+    {
+        "name_pesticides": "Хлорпирифос, КЭ"
+    },
+    {
+        "name_pesticides": "Хорист, ВДГ"
+    },
+    {
+        "name_pesticides": "Хортон, КС"
+    },
+    {
+        "name_pesticides": "Хранитель, КЭ"
+    },
+    {
+        "name_pesticides": "ХЭФК, ВР"
+    },
+    {
+        "name_pesticides": "Царумин, ВК"
+    },
+    {
+        "name_pesticides": "Цветень, КРП"
+    },
+    {
+        "name_pesticides": "Це Це Це 750, ВК"
+    },
+    {
+        "name_pesticides": "Цезарь, КЭ"
+    },
+    {
+        "name_pesticides": "Цензор Макс, МКЭ"
+    },
+    {
+        "name_pesticides": "Центрино, ВК"
+    },
+    {
+        "name_pesticides": "Центурион Нео, КЭ"
+    },
+    {
+        "name_pesticides": "Центурион, КЭ"
+    },
+    {
+        "name_pesticides": "Цепеллин, КЭ"
+    },
+    {
+        "name_pesticides": "Ци-Альфа, КЭ"
+    },
+    {
+        "name_pesticides": "Циклон, КЭ"
+    },
+    {
+        "name_pesticides": "Циперус, КЭ"
+    },
+    {
+        "name_pesticides": "Ципи, КЭ"
+    },
+    {
+        "name_pesticides": "Циракс, КЭ"
+    },
+    {
+        "name_pesticides": "Цитадель 25, МД"
+    },
+    {
+        "name_pesticides": "Цитокс, КЭ"
+    },
+    {
+        "name_pesticides": "Цицерон, ВДГ"
+    },
+    {
+        "name_pesticides": "Цунами, КЭ"
+    },
+    {
+        "name_pesticides": "Челленджер, ВРК"
+    },
+    {
+        "name_pesticides": "Чисталан экстра, КЭ"
+    },
+    {
+        "name_pesticides": "Чисталан-супер, КЭ"
+    },
+    {
+        "name_pesticides": "Чистофлор, КЭ"
+    },
+    {
+        "name_pesticides": "Чистоцвет, КЭ"
+    },
+    {
+        "name_pesticides": "Шаман, КЭ"
+    },
+    {
+        "name_pesticides": "Шанс Голд, КС"
+    },
+    {
+        "name_pesticides": "Шанс Профи, ВДГ"
+    },
+    {
+        "name_pesticides": "Шансил Трио, КС"
+    },
+    {
+        "name_pesticides": "Шансил Ультра, КС"
+    },
+    {
+        "name_pesticides": "Шансилин, ВДГ"
+    },
+    {
+        "name_pesticides": "Шансометокс Трио, КС"
+    },
+    {
+        "name_pesticides": "Шансомитрон, КС"
+    },
+    {
+        "name_pesticides": "Шанстар, ВДГ"
+    },
+    {
+        "name_pesticides": "Шанстрел 300, ВР"
+    },
+    {
+        "name_pesticides": "Шантус, ВДГ"
+    },
+    {
+        "name_pesticides": "Шин-Етсу  ТА, Д"
+    },
+    {
+        "name_pesticides": "Шин-Етсу МД Дуо ТТ, Д"
+    },
+    {
+        "name_pesticides": "Шин-Етсу МД СТТ, Д"
+    },
+    {
+        "name_pesticides": "Ширма, КС"
+    },
+    {
+        "name_pesticides": "Шкипер, ВР"
+    },
+    {
+        "name_pesticides": "Шпага, КС"
+    },
+    {
+        "name_pesticides": "Эвентус, МЭ"
+    },
+    {
+        "name_pesticides": "Эвито Т, КС"
+    },
+    {
+        "name_pesticides": "Эвклид, СК"
+    },
+    {
+        "name_pesticides": "Эволюшн, КЭ"
+    },
+    {
+        "name_pesticides": "Эйс, ККР"
+    },
+    {
+        "name_pesticides": "Экогель экстра, ВР"
+    },
+    {
+        "name_pesticides": "Экопин, ТПС"
+    },
+    {
+        "name_pesticides": "Эксифир, КЭ"
+    },
+    {
+        "name_pesticides": "Эксперт Квадро, МКС"
+    },
+    {
+        "name_pesticides": "Эксперт Трио ОФ, КЭ"
+    },
+    {
+        "name_pesticides": "Экспресс, ВДГ"
+    },
+    {
+        "name_pesticides": "Экстракорн, СЭ"
+    },
+    {
+        "name_pesticides": "Элант, КЭ"
+    },
+    {
+        "name_pesticides": "Элатус Плюс, КЭ"
+    },
+    {
+        "name_pesticides": "Элатус Эйс, КЭ"
+    },
+    {
+        "name_pesticides": "Элефант, КЭ"
+    },
+    {
+        "name_pesticides": "Эллай Лайт, ВДГ"
+    },
+    {
+        "name_pesticides": "Эмаклэйм, ВРГ"
+    },
+    {
+        "name_pesticides": "Эмбрелия Экстра, СК"
+    },
+    {
+        "name_pesticides": "Эместо Квантум, КС"
+    },
+    {
+        "name_pesticides": "Эместо Сильвер, КС"
+    },
+    {
+        "name_pesticides": "Эмистим, Р"
+    },
+    {
+        "name_pesticides": "Эндимион, КЭ"
+    },
+    {
+        "name_pesticides": "Энергия-М, КРП, ТАБ"
+    },
+    {
+        "name_pesticides": "Эпивио Вигор, Ж"
+    },
+    {
+        "name_pesticides": "ЭплЛин, ВРП"
+    },
+    {
+        "name_pesticides": "Эпсилон, КЭ"
+    },
+    {
+        "name_pesticides": "Эрколе, Г"
+    },
+    {
+        "name_pesticides": "Эскудо, ВДГ"
+    },
+    {
+        "name_pesticides": "Эсперо, КС"
+    },
+    {
+        "name_pesticides": "Эстерон 600, КЭ"
+    },
+    {
+        "name_pesticides": "Эсток, ВДГ"
+    },
+    {
+        "name_pesticides": "Этамастер Супер, ВДГ"
+    },
+    {
+        "name_pesticides": "Этамет, ВДГ"
+    },
+    {
+        "name_pesticides": "Этамон, ВР"
+    },
+    {
+        "name_pesticides": "Эурон, ВДГ"
+    },
+    {
+        "name_pesticides": "Эфес, КЭ"
+    },
+    {
+        "name_pesticides": "Эфирам, КЭ"
+    },
+    {
+        "name_pesticides": "Эфория Топ, МКС"
+    },
+    {
+        "name_pesticides": "Эфробел, КС"
+    },
+    {
+        "name_pesticides": "Юзмар, ВР"
+    },
+    {
+        "name_pesticides": "Юниформ, СЭ"
+    },
+    {
+        "name_pesticides": "Юнкер, ВР"
+    },
+    {
+        "name_pesticides": "Янтарин БАУ, ВР"
+    },
+    {
+        "name_pesticides": "Янтарная кислота, ВРП"
+    }
+]

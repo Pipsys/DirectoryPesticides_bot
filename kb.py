@@ -10,7 +10,7 @@ async def mainKB():
 
 async def pesticidesKB():
     buttons = ['📗 Список пестицидов','Назад']
-    btn = [InlineKeyboardButton(button, callback_data=f'pesticides - {button}')
+    btn = [InlineKeyboardButton(button, callback_data=f'pesticidesMenu - {button}')
             for button in buttons]
     inl_menu = InlineKeyboardMarkup(row_width=1).add(*btn)
     return inl_menu
@@ -29,6 +29,7 @@ async def infoKB():
     inl_menu = InlineKeyboardMarkup(row_width=1).add(*btn)
     return inl_menu
 
+
 async def alphabetKB():
         buttons = ['А','Б','В','Г','Д',
                    'Е','Ё','Ж','З','И',
@@ -41,3 +42,4 @@ async def alphabetKB():
                 for button in buttons]
         inl_menu = InlineKeyboardMarkup(row_width=4).add(*btn)
         return inl_menu
+
