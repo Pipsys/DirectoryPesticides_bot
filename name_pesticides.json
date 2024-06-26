@@ -1,3347 +1,4482 @@
 [
     {
-        "name_pesticides": "2,4-Дактив, КЭ"
+        "name_pesticides": "2,4-Дактив, КЭ",
+        "link": "/goshandbook/prep/24-daktiv-ke-2.html"
     },
     {
-        "name_pesticides": "Абакус Прайм, СЭ"
+        "name_pesticides": "Абакус Прайм, СЭ",
+        "link": "/goshandbook/prep/abakus-praym-se-2.html"
     },
     {
-        "name_pesticides": "Абига-Пик, ВС"
+        "name_pesticides": "Абига-Пик, ВС",
+        "link": "/goshandbook/prep/abiga-pik-vs-2.html"
     },
     {
-        "name_pesticides": "Аваксс, КЭ"
+        "name_pesticides": "Аваксс, КЭ",
+        "link": "/goshandbook/prep/avakss-ke-3.html"
     },
     {
-        "name_pesticides": "Авант, КЭ"
+        "name_pesticides": "Авант, КЭ",
+        "link": "/goshandbook/prep/avant-ke-2.html"
     },
     {
-        "name_pesticides": "Авантикс Турбо, МД"
+        "name_pesticides": "Авантикс Турбо, МД",
+        "link": "/goshandbook/prep/avantiks-turbo-md.html"
     },
     {
-        "name_pesticides": "Авиаль, КЭ"
+        "name_pesticides": "Авиаль, КЭ",
+        "link": "/goshandbook/prep/avial-ke-3.html"
     },
     {
-        "name_pesticides": "Аврорекс, КЭ"
+        "name_pesticides": "Аврорекс, КЭ",
+        "link": "/goshandbook/prep/avroreks-ke-4.html"
     },
     {
-        "name_pesticides": "Агат-25 Супер, ТПС"
+        "name_pesticides": "Агат-25 Супер, ТПС",
+        "link": "/goshandbook/prep/agat-25-super-tps.html"
     },
     {
-        "name_pesticides": "Агент, ВДГ"
+        "name_pesticides": "Агент, ВДГ",
+        "link": "/goshandbook/prep/agent-vdg.html"
     },
     {
-        "name_pesticides": "Агро-Лайт, ВРК"
+        "name_pesticides": "Агро-Лайт, ВРК",
+        "link": "/goshandbook/prep/agro-layt-vrk-2.html"
     },
     {
-        "name_pesticides": "АгроЗаряд, КС"
+        "name_pesticides": "АгроЗаряд, КС",
+        "link": "/goshandbook/prep/agrozaryad-ks.html"
     },
     {
-        "name_pesticides": "Агролекарь, КЭ"
+        "name_pesticides": "Агролекарь, КЭ",
+        "link": "/goshandbook/prep/agrolekar-ke.html"
     },
     {
-        "name_pesticides": "Агрон, ВР"
+        "name_pesticides": "Агрон, ВР",
+        "link": "/goshandbook/prep/agron-vr-2.html"
     },
     {
-        "name_pesticides": "Агроника, КС"
+        "name_pesticides": "Агроника, КС",
+        "link": "/goshandbook/prep/agronika-ks.html"
     },
     {
-        "name_pesticides": "Агростар, ВДГ"
+        "name_pesticides": "Агростар, ВДГ",
+        "link": "/goshandbook/prep/agrostar-vdg.html"
     },
     {
-        "name_pesticides": "Агростраж, П"
+        "name_pesticides": "Агростраж, П",
+        "link": "/goshandbook/prep/agrostraj-p.html"
     },
     {
-        "name_pesticides": "Адванс, ВДГ"
+        "name_pesticides": "Адванс, ВДГ",
+        "link": "/goshandbook/prep/advans-vdg.html"
     },
     {
-        "name_pesticides": "Адвокат, ВР"
+        "name_pesticides": "Адвокат, ВР",
+        "link": "/goshandbook/prep/advokat-vr-2.html"
     },
     {
-        "name_pesticides": "Адексар, КЭ"
+        "name_pesticides": "Адексар, КЭ",
+        "link": "/goshandbook/prep/adeksar-ke-2.html"
     },
     {
-        "name_pesticides": "Адмирал, КЭ"
+        "name_pesticides": "Адмирал, КЭ",
+        "link": "/goshandbook/prep/admiral-ke-2.html"
     },
     {
-        "name_pesticides": "Азорит, СК"
+        "name_pesticides": "Азорит, СК",
+        "link": "/goshandbook/prep/azorit-sk-2.html"
     },
     {
-        "name_pesticides": "Айвенго, КЭ"
+        "name_pesticides": "Айвенго, КЭ",
+        "link": "/goshandbook/prep/ayvengo-ke-3.html"
     },
     {
-        "name_pesticides": "Аканто Плюс, КС"
+        "name_pesticides": "Аканто Плюс, КС",
+        "link": "/goshandbook/prep/akanto-plyus-ks-2.html"
     },
     {
-        "name_pesticides": "Акардо, ККР"
+        "name_pesticides": "Акардо, ККР",
+        "link": "/goshandbook/prep/akardo-kkr.html"
     },
     {
-        "name_pesticides": "Акебоно, КЭ"
+        "name_pesticides": "Акебоно, КЭ",
+        "link": "/goshandbook/prep/akebono-ke.html"
     },
     {
-        "name_pesticides": "Акиба, ВСК"
+        "name_pesticides": "Акиба, ВСК",
+        "link": "/goshandbook/prep/akiba-vsk-3.html"
     },
     {
-        "name_pesticides": "Аккурат, ВДГ"
+        "name_pesticides": "Аккурат, ВДГ",
+        "link": "/goshandbook/prep/akkurat-vdg-2.html"
     },
     {
-        "name_pesticides": "Акробат МЦ, ВДГ"
+        "name_pesticides": "Акробат МЦ, ВДГ",
+        "link": "/goshandbook/prep/akrobat-mc-vdg-2.html"
     },
     {
-        "name_pesticides": "Аксакал Практик, КЭ"
+        "name_pesticides": "Аксакал Практик, КЭ",
+        "link": "/goshandbook/prep/aksakal-praktik-ke.html"
     },
     {
-        "name_pesticides": "Аксела, Г"
+        "name_pesticides": "Аксела, Г",
+        "link": "/goshandbook/prep/aksela-g-3.html"
     },
     {
-        "name_pesticides": "Аксиал Кросс, КЭ"
+        "name_pesticides": "Аксиал Кросс, КЭ",
+        "link": "/goshandbook/prep/aksial-kross-ke-2.html"
     },
     {
-        "name_pesticides": "Актара, ВДГ"
+        "name_pesticides": "Актара, ВДГ",
+        "link": "/goshandbook/prep/aktara-vdg-3.html"
     },
     {
-        "name_pesticides": "Актеллик, КЭ"
+        "name_pesticides": "Актеллик, КЭ",
+        "link": "/goshandbook/prep/aktellik-ke-3.html"
     },
     {
-        "name_pesticides": "Актион, КС"
+        "name_pesticides": "Актион, КС",
+        "link": "/goshandbook/prep/aktion-ks-2.html"
     },
     {
-        "name_pesticides": "Акцент, КЭ"
+        "name_pesticides": "Акцент, КЭ",
+        "link": "/goshandbook/prep/akcent-ke-2.html"
     },
     {
-        "name_pesticides": "Алебарда, КЭ"
+        "name_pesticides": "Алебарда, КЭ",
+        "link": "/goshandbook/prep/alebarda-ke.html"
     },
     {
-        "name_pesticides": "Алиот, КЭ"
+        "name_pesticides": "Алиот, КЭ",
+        "link": "/goshandbook/prep/aliot-ke-3.html"
     },
     {
-        "name_pesticides": "Алирин-Б, СП"
+        "name_pesticides": "Алирин-Б, СП",
+        "link": "/goshandbook/prep/alirin-b-sp-2.html"
     },
     {
-        "name_pesticides": "Алистер Гранд, МД"
+        "name_pesticides": "Алистер Гранд, МД",
+        "link": "/goshandbook/prep/alister-grand-md-2.html"
     },
     {
-        "name_pesticides": "Алсион, ВДГ"
+        "name_pesticides": "Алсион, ВДГ",
+        "link": "/goshandbook/prep/alsion-vdg-2.html"
     },
     {
-        "name_pesticides": "АлтСил, КС"
+        "name_pesticides": "АлтСил, КС",
+        "link": "/goshandbook/prep/altsil-ks-2.html"
     },
     {
-        "name_pesticides": "Альбит, ТПС"
+        "name_pesticides": "Альбит, ТПС",
+        "link": "/goshandbook/prep/albit-tps-5.html"
     },
     {
-        "name_pesticides": "Алькасар, КС"
+        "name_pesticides": "Алькасар, КС",
+        "link": "/goshandbook/prep/alkasar-ks-3.html"
     },
     {
-        "name_pesticides": "Альпари, КЭ"
+        "name_pesticides": "Альпари, КЭ",
+        "link": "/goshandbook/prep/alpari-ke-3.html"
     },
     {
-        "name_pesticides": "Альтаир, КЭ"
+        "name_pesticides": "Альтаир, КЭ",
+        "link": "/goshandbook/prep/altair-ke-2.html"
     },
     {
-        "name_pesticides": "Альто Супер, КЭ"
+        "name_pesticides": "Альто Супер, КЭ",
+        "link": "/goshandbook/prep/alto-super-ke-2.html"
     },
     {
-        "name_pesticides": "Альтруист, КЭ"
+        "name_pesticides": "Альтруист, КЭ",
+        "link": "/goshandbook/prep/altruist-ke-2.html"
     },
     {
-        "name_pesticides": "Альфа Тигр, КЭ"
+        "name_pesticides": "Альфа Тигр, КЭ",
+        "link": "/goshandbook/prep/alfa-tigr-ke.html"
     },
     {
-        "name_pesticides": "Альфа-бентазон, ВР"
+        "name_pesticides": "Альфа-бентазон, ВР",
+        "link": "/goshandbook/prep/alfa-bentazon-vr-2.html"
     },
     {
-        "name_pesticides": "Альфа-Дикамба, ВРК"
+        "name_pesticides": "Альфа-Дикамба, ВРК",
+        "link": "/goshandbook/prep/alfa-dikamba-vrk.html"
     },
     {
-        "name_pesticides": "Альфа-Директор, КЭ"
+        "name_pesticides": "Альфа-Директор, КЭ",
+        "link": "/goshandbook/prep/alfa-direktor-ke.html"
     },
     {
-        "name_pesticides": "Альфа-Прометрин, КС"
+        "name_pesticides": "Альфа-Прометрин, КС",
+        "link": "/goshandbook/prep/alfa-prometrin-ks.html"
     },
     {
-        "name_pesticides": "Альфа-Серф, ВК"
+        "name_pesticides": "Альфа-Серф, ВК",
+        "link": "/goshandbook/prep/alfa-serf-vk.html"
     },
     {
-        "name_pesticides": "Альфабел, КЭ"
+        "name_pesticides": "Альфабел, КЭ",
+        "link": "/goshandbook/prep/alfabel-ke.html"
     },
     {
-        "name_pesticides": "Альфаплан, КС"
+        "name_pesticides": "Альфаплан, КС",
+        "link": "/goshandbook/prep/alfaplan-ks-2.html"
     },
     {
-        "name_pesticides": "Альфастим, ВЭ"
+        "name_pesticides": "Альфастим, ВЭ",
+        "link": "/goshandbook/prep/alfastim-ve.html"
     },
     {
-        "name_pesticides": "Альфацин, КЭ"
+        "name_pesticides": "Альфацин, КЭ",
+        "link": "/goshandbook/prep/alfacin-ke-2.html"
     },
     {
-        "name_pesticides": "Альфашанс, КЭ"
+        "name_pesticides": "Альфашанс, КЭ",
+        "link": "/goshandbook/prep/alfashans-ke-2.html"
     },
     {
-        "name_pesticides": "Аметил, ВРК"
+        "name_pesticides": "Аметил, ВРК",
+        "link": "/goshandbook/prep/ametil-vrk-2.html"
     },
     {
-        "name_pesticides": "Аминка ФЛО, КЭ"
+        "name_pesticides": "Аминка ФЛО, КЭ",
+        "link": "/goshandbook/prep/aminka-flo-ke.html"
     },
     {
-        "name_pesticides": "Аминка, ВР"
+        "name_pesticides": "Аминка, ВР",
+        "link": "/goshandbook/prep/aminka-vr-2.html"
     },
     {
-        "name_pesticides": "Амистар Голд, СК"
+        "name_pesticides": "Амистар Голд, СК",
+        "link": "/goshandbook/prep/amistar-gold-sk.html"
     },
     {
-        "name_pesticides": "Амистар Топ, СК"
+        "name_pesticides": "Амистар Топ, СК",
+        "link": "/goshandbook/prep/amistar-top-sk.html"
     },
     {
-        "name_pesticides": "Амистар Экстра, СК"
+        "name_pesticides": "Амистар Экстра, СК",
+        "link": "/goshandbook/prep/amistar-ekstra-sk-2.html"
     },
     {
-        "name_pesticides": "Ампир, ВР"
+        "name_pesticides": "Ампир, ВР",
+        "link": "/goshandbook/prep/ampir-vr.html"
     },
     {
-        "name_pesticides": "Анемон, КЭ"
+        "name_pesticides": "Анемон, КЭ",
+        "link": "/goshandbook/prep/anemon-ke.html"
     },
     {
-        "name_pesticides": "Анкор-85, ВДГ"
+        "name_pesticides": "Анкор-85, ВДГ",
+        "link": "/goshandbook/prep/ankor-85-vdg-3.html"
     },
     {
-        "name_pesticides": "Антарес, ВК"
+        "name_pesticides": "Антарес, ВК",
+        "link": "/goshandbook/prep/antares-vk-2.html"
     },
     {
-        "name_pesticides": "Антимышин, ГР"
+        "name_pesticides": "Антимышин, ГР",
+        "link": "/goshandbook/prep/antimyshin-gr.html"
     },
     {
-        "name_pesticides": "Антракол, ВДГ"
+        "name_pesticides": "Антракол, ВДГ",
+        "link": "/goshandbook/prep/antrakol-vdg.html"
     },
     {
-        "name_pesticides": "Аполло, КС"
+        "name_pesticides": "Аполло, КС",
+        "link": "/goshandbook/prep/apollo-ks-3.html"
     },
     {
-        "name_pesticides": "Априори, ВДГ"
+        "name_pesticides": "Априори, ВДГ",
+        "link": "/goshandbook/prep/apriori-vdg.html"
     },
     {
-        "name_pesticides": "Апрон Голд, ВЭ"
+        "name_pesticides": "Апрон Голд, ВЭ",
+        "link": "/goshandbook/prep/apron-gold-ve-2.html"
     },
     {
-        "name_pesticides": "Арбалет, СЭ"
+        "name_pesticides": "Арбалет, СЭ",
+        "link": "/goshandbook/prep/arbalet-se.html"
     },
     {
-        "name_pesticides": "Арбонал, ВК"
+        "name_pesticides": "Арбонал, ВК",
+        "link": "/goshandbook/prep/arbonal-vk-2.html"
     },
     {
-        "name_pesticides": "Арго Прим, МЭ"
+        "name_pesticides": "Арго Прим, МЭ",
+        "link": "/goshandbook/prep/argo-prim-me.html"
     },
     {
-        "name_pesticides": "Аргумент Стар, ВР"
+        "name_pesticides": "Аргумент Стар, ВР",
+        "link": "/goshandbook/prep/argument-star-vr-5.html"
     },
     {
-        "name_pesticides": "Аризон, МД"
+        "name_pesticides": "Аризон, МД",
+        "link": "/goshandbook/prep/arizon-md.html"
     },
     {
-        "name_pesticides": "Ария, КС"
+        "name_pesticides": "Ария, КС",
+        "link": "/goshandbook/prep/ariya-ks.html"
     },
     {
-        "name_pesticides": "Аркана, КС"
+        "name_pesticides": "Аркана, КС",
+        "link": "/goshandbook/prep/arkana-ks-2.html"
     },
     {
-        "name_pesticides": "Армин, КЭ"
+        "name_pesticides": "Армин, КЭ",
+        "link": "/goshandbook/prep/armin-ke-3.html"
     },
     {
-        "name_pesticides": "Артафит, ВРК"
+        "name_pesticides": "Артафит, ВРК",
+        "link": "/goshandbook/prep/artafit-vrk.html"
     },
     {
-        "name_pesticides": "Артстар, ВДГ"
+        "name_pesticides": "Артстар, ВДГ",
+        "link": "/goshandbook/prep/artstar-vdg-3.html"
     },
     {
-        "name_pesticides": "Архитект, СЭ"
+        "name_pesticides": "Архитект, СЭ",
+        "link": "/goshandbook/prep/arhitekt-se-2.html"
     },
     {
-        "name_pesticides": "Аспид, СК"
+        "name_pesticides": "Аспид, СК",
+        "link": "/goshandbook/prep/aspid-sk-3.html"
     },
     {
-        "name_pesticides": "Ассолюта, МК"
+        "name_pesticides": "Ассолюта, МК",
+        "link": "/goshandbook/prep/assolyuta-mk-2.html"
     },
     {
-        "name_pesticides": "Атаброн, КС"
+        "name_pesticides": "Атаброн, КС",
+        "link": "/goshandbook/prep/atabron-ks.html"
     },
     {
-        "name_pesticides": "Атлант, КЭ"
+        "name_pesticides": "Атлант, КЭ",
+        "link": "/goshandbook/prep/atlant-ke-2.html"
     },
     {
-        "name_pesticides": "Атоник Плюс, ВР"
+        "name_pesticides": "Атоник Плюс, ВР",
+        "link": "/goshandbook/prep/atonik-plyus-vr.html"
     },
     {
-        "name_pesticides": "Аттик, КС"
+        "name_pesticides": "Аттик, КС",
+        "link": "/goshandbook/prep/attik-ks-4.html"
     },
     {
-        "name_pesticides": "Аффет, КС"
+        "name_pesticides": "Аффет, КС",
+        "link": "/goshandbook/prep/affet-ks.html"
     },
     {
-        "name_pesticides": "Ацидан, СП"
+        "name_pesticides": "Ацидан, СП",
+        "link": "/goshandbook/prep/acidan-sp-2.html"
     },
     {
-        "name_pesticides": "Аякс, КС"
+        "name_pesticides": "Аякс, КС",
+        "link": "/goshandbook/prep/ayaks-ks.html"
     },
     {
-        "name_pesticides": "Б-360, ВР"
+        "name_pesticides": "Б-360, ВР",
+        "link": "/goshandbook/prep/b-360-vr-2.html"
     },
     {
-        "name_pesticides": "Багрец, КС"
+        "name_pesticides": "Багрец, КС",
+        "link": "/goshandbook/prep/bagrec-ks.html"
     },
     {
-        "name_pesticides": "Базис Форте, ВДГ"
+        "name_pesticides": "Базис Форте, ВДГ",
+        "link": "/goshandbook/prep/bazis-forte-vdg.html"
     },
     {
-        "name_pesticides": "Байзафон, СП"
+        "name_pesticides": "Байзафон, СП",
+        "link": "/goshandbook/prep/bayzafon-sp-2.html"
     },
     {
-        "name_pesticides": "Бакара Форте, КС"
+        "name_pesticides": "Бакара Форте, КС",
+        "link": "/goshandbook/prep/bakara-forte-ks.html"
     },
     {
-        "name_pesticides": "Бактерра, СП"
+        "name_pesticides": "Бактерра, СП",
+        "link": "/goshandbook/prep/bakterra-sp.html"
     },
     {
-        "name_pesticides": "Бактофит, СП"
+        "name_pesticides": "Бактофит, СП",
+        "link": "/goshandbook/prep/baktofit-sp-3.html"
     },
     {
-        "name_pesticides": "Балая, КЭ"
+        "name_pesticides": "Балая, КЭ",
+        "link": "/goshandbook/prep/balaya-ke.html"
     },
     {
-        "name_pesticides": "Балерина Форте, СЭ"
+        "name_pesticides": "Балерина Форте, СЭ",
+        "link": "/goshandbook/prep/balerina-forte-se-2.html"
     },
     {
-        "name_pesticides": "Балерина, СЭ"
+        "name_pesticides": "Балерина, СЭ",
+        "link": "/goshandbook/prep/balerina-se-5.html"
     },
     {
-        "name_pesticides": "Балинт, КС"
+        "name_pesticides": "Балинт, КС",
+        "link": "/goshandbook/prep/balint-ks.html"
     },
     {
-        "name_pesticides": "Бамбу, КЭ"
+        "name_pesticides": "Бамбу, КЭ",
+        "link": "/goshandbook/prep/bambu-ke.html"
     },
     {
-        "name_pesticides": "Банвел, ВР"
+        "name_pesticides": "Банвел, ВР",
+        "link": "/goshandbook/prep/banvel-vr-2.html"
     },
     {
-        "name_pesticides": "Бандур, КС"
+        "name_pesticides": "Бандур, КС",
+        "link": "/goshandbook/prep/bandur-ks.html"
     },
     {
-        "name_pesticides": "Баргузин, Г"
+        "name_pesticides": "Баргузин, Г",
+        "link": "/goshandbook/prep/barguzin-g-2.html"
     },
     {
-        "name_pesticides": "Баритон, КС"
+        "name_pesticides": "Баритон, КС",
+        "link": "/goshandbook/prep/bariton-ks-3.html"
     },
     {
-        "name_pesticides": "Баста, ВР"
+        "name_pesticides": "Баста, ВР",
+        "link": "/goshandbook/prep/basta-vr-4.html"
     },
     {
-        "name_pesticides": "Бастер, ВР"
+        "name_pesticides": "Бастер, ВР",
+        "link": "/goshandbook/prep/baster-vr.html"
     },
     {
-        "name_pesticides": "Батор, КС"
+        "name_pesticides": "Батор, КС",
+        "link": "/goshandbook/prep/bator-ks-7.html"
     },
     {
-        "name_pesticides": "Бегин Турбо, КС"
+        "name_pesticides": "Бегин Турбо, КС",
+        "link": "/goshandbook/prep/begin-turbo-ks.html"
     },
     {
-        "name_pesticides": "Беллис, ВДГ"
+        "name_pesticides": "Беллис, ВДГ",
+        "link": "/goshandbook/prep/bellis-vdg-2.html"
     },
     {
-        "name_pesticides": "Бельведер Форте, СЭ"
+        "name_pesticides": "Бельведер Форте, СЭ",
+        "link": "/goshandbook/prep/belveder-forte-se.html"
     },
     {
-        "name_pesticides": "Беназол, СП"
+        "name_pesticides": "Беназол, СП",
+        "link": "/goshandbook/prep/benazol-sp.html"
     },
     {
-        "name_pesticides": "Бенефис Суприм, МЭ"
+        "name_pesticides": "Бенефис Суприм, МЭ",
+        "link": "/goshandbook/prep/benefis-suprim-me.html"
     },
     {
-        "name_pesticides": "Бенито, ККР"
+        "name_pesticides": "Бенито, ККР",
+        "link": "/goshandbook/prep/benito-kkr-2.html"
     },
     {
-        "name_pesticides": "Бенорад, СП"
+        "name_pesticides": "Бенорад, СП",
+        "link": "/goshandbook/prep/benorad-sp-4.html"
     },
     {
-        "name_pesticides": "Бентазолин, ВР"
+        "name_pesticides": "Бентазолин, ВР",
+        "link": "/goshandbook/prep/bentazolin-vr-2.html"
     },
     {
-        "name_pesticides": "Бентекс, ВР"
+        "name_pesticides": "Бентекс, ВР",
+        "link": "/goshandbook/prep/benteks-vr.html"
     },
     {
-        "name_pesticides": "Бентобел, ВР"
+        "name_pesticides": "Бентобел, ВР",
+        "link": "/goshandbook/prep/bentobel-vr.html"
     },
     {
-        "name_pesticides": "Берелин, ВРП"
+        "name_pesticides": "Берелин, ВРП",
+        "link": "/goshandbook/prep/berelin-vrp.html"
     },
     {
-        "name_pesticides": "Берилл, КЭ"
+        "name_pesticides": "Берилл, КЭ",
+        "link": "/goshandbook/prep/berill-ke-2.html"
     },
     {
-        "name_pesticides": "Бетакем, КЭ"
+        "name_pesticides": "Бетакем, КЭ",
+        "link": "/goshandbook/prep/betakem-ke-2.html"
     },
     {
-        "name_pesticides": "Бетанал Макс Про, МД"
+        "name_pesticides": "Бетанал Макс Про, МД",
+        "link": "/goshandbook/prep/betanal-maks-pro-md-2.html"
     },
     {
-        "name_pesticides": "Бетанал Эксперт ОФ, КЭ"
+        "name_pesticides": "Бетанал Эксперт ОФ, КЭ",
+        "link": "/goshandbook/prep/betanal-ekspert-of-ke-2.html"
     },
     {
-        "name_pesticides": "Бетарен 22, МКЭ"
+        "name_pesticides": "Бетарен 22, МКЭ",
+        "link": "/goshandbook/prep/betaren-22-mke.html"
     },
     {
-        "name_pesticides": "Бетарен 22, МКЭ"
+        "name_pesticides": "Бетарен 22, МКЭ",
+        "link": "/goshandbook/prep/betaren-22-mke-3.html"
     },
     {
-        "name_pesticides": "Бетарен Экспресс АМ, КЭ"
+        "name_pesticides": "Бетарен Экспресс АМ, КЭ",
+        "link": "/goshandbook/prep/betaren-ekspress-am-ke-2.html"
     },
     {
-        "name_pesticides": "Бетахим Эксперт, КЭ"
+        "name_pesticides": "Бетахим Эксперт, КЭ",
+        "link": "/goshandbook/prep/betahim-ekspert-ke.html"
     },
     {
-        "name_pesticides": "Беташанс Дабл, КЭ"
+        "name_pesticides": "Беташанс Дабл, КЭ",
+        "link": "/goshandbook/prep/betashans-dabl-ke.html"
     },
     {
-        "name_pesticides": "Бетинол 22, КЭ"
+        "name_pesticides": "Бетинол 22, КЭ",
+        "link": "/goshandbook/prep/betinol-22-ke.html"
     },
     {
-        "name_pesticides": "Бигус, ВР"
+        "name_pesticides": "Бигус, ВР",
+        "link": "/goshandbook/prep/bigus-vr-2.html"
     },
     {
-        "name_pesticides": "Бизон, ВК"
+        "name_pesticides": "Бизон, ВК",
+        "link": "/goshandbook/prep/bizon-vk-2.html"
     },
     {
-        "name_pesticides": "Бинадин, КЭ"
+        "name_pesticides": "Бинадин, КЭ",
+        "link": "/goshandbook/prep/binadin-ke.html"
     },
     {
-        "name_pesticides": "Бинорам, Ж"
+        "name_pesticides": "Бинорам, Ж",
+        "link": "/goshandbook/prep/binoram-j-4.html"
     },
     {
-        "name_pesticides": "Биоcтоп, Ж"
+        "name_pesticides": "Биоcтоп, Ж",
+        "link": "/goshandbook/prep/bioctop-j.html"
     },
     {
-        "name_pesticides": "Биоверт, СП"
+        "name_pesticides": "Биоверт, СП",
+        "link": "/goshandbook/prep/biovert-sp.html"
     },
     {
-        "name_pesticides": "Биокилл, КЭ"
+        "name_pesticides": "Биокилл, КЭ",
+        "link": "/goshandbook/prep/biokill-ke.html"
     },
     {
-        "name_pesticides": "Биолан Супер, ВР"
+        "name_pesticides": "Биолан Супер, ВР",
+        "link": "/goshandbook/prep/biolan-super-vr.html"
     },
     {
-        "name_pesticides": "Биосил, ВЭ"
+        "name_pesticides": "Биосил, ВЭ",
+        "link": "/goshandbook/prep/biosil-ve-2.html"
     },
     {
-        "name_pesticides": "Биослип БВ, Ж"
+        "name_pesticides": "Биослип БВ, Ж",
+        "link": "/goshandbook/prep/bioslip-bv-j-2.html"
     },
     {
-        "name_pesticides": "Биостоп Супер, микроконтейнеры"
+        "name_pesticides": "Биостоп Супер, микроконтейнеры",
+        "link": "/goshandbook/prep/biostop-super-mikrokonteynery.html"
     },
     {
-        "name_pesticides": "Биосфера-Фунгимен, Ж"
+        "name_pesticides": "Биосфера-Фунгимен, Ж",
+        "link": "/goshandbook/prep/biosfera-fungimen-j.html"
     },
     {
-        "name_pesticides": "Биотлин, ВРК"
+        "name_pesticides": "Биотлин, ВРК",
+        "link": "/goshandbook/prep/biotlin-vrk-3.html"
     },
     {
-        "name_pesticides": "Биотриходерма, СП"
+        "name_pesticides": "Биотриходерма, СП",
+        "link": "/goshandbook/prep/biotrihoderma-sp.html"
     },
     {
-        "name_pesticides": "Бис-300, ВР"
+        "name_pesticides": "Бис-300, ВР",
+        "link": "/goshandbook/prep/bis-300-vr-2.html"
     },
     {
-        "name_pesticides": "Бисмарк, МКС"
+        "name_pesticides": "Бисмарк, МКС",
+        "link": "/goshandbook/prep/bismark-mks.html"
     },
     {
-        "name_pesticides": "Бисолбицид, Ж"
+        "name_pesticides": "Бисолбицид, Ж",
+        "link": "/goshandbook/prep/bisolbicid-j.html"
     },
     {
-        "name_pesticides": "Битатрин, КЭ"
+        "name_pesticides": "Битатрин, КЭ",
+        "link": "/goshandbook/prep/bitatrin-ke.html"
     },
     {
-        "name_pesticides": "Битоксибациллин, П"
+        "name_pesticides": "Битоксибациллин, П",
+        "link": "/goshandbook/prep/bitoksibacillin-p-2.html"
     },
     {
-        "name_pesticides": "Бифор 22, КЭ"
+        "name_pesticides": "Бифор 22, КЭ",
+        "link": "/goshandbook/prep/bifor-22-ke-2.html"
     },
     {
-        "name_pesticides": "Бифор Супер, МЭ"
+        "name_pesticides": "Бифор Супер, МЭ",
+        "link": "/goshandbook/prep/bifor-super-me-2.html"
     },
     {
-        "name_pesticides": "Бицепс 22, КЭ"
+        "name_pesticides": "Бицепс 22, КЭ",
+        "link": "/goshandbook/prep/biceps-22-ke-3.html"
     },
     {
-        "name_pesticides": "Бицепс Гарант, КЭ"
+        "name_pesticides": "Бицепс Гарант, КЭ",
+        "link": "/goshandbook/prep/biceps-garant-ke-3.html"
     },
     {
-        "name_pesticides": "Блиц, ВРК"
+        "name_pesticides": "Блиц, ВРК",
+        "link": "/goshandbook/prep/blic-vrk-2.html"
     },
     {
-        "name_pesticides": "Блю Шилд 20, ВДГ"
+        "name_pesticides": "Блю Шилд 20, ВДГ",
+        "link": "/goshandbook/prep/blyu-shild-20-vdg.html"
     },
     {
-        "name_pesticides": "Боливар Форте, КС"
+        "name_pesticides": "Боливар Форте, КС",
+        "link": "/goshandbook/prep/bolivar-forte-ks-2.html"
     },
     {
-        "name_pesticides": "Бомба, ВДГ"
+        "name_pesticides": "Бомба, ВДГ",
+        "link": "/goshandbook/prep/bomba-vdg-4.html"
     },
     {
-        "name_pesticides": "Бомбер, ДШ"
+        "name_pesticides": "Бомбер, ДШ",
+        "link": "/goshandbook/prep/bomber-dsh.html"
     },
     {
-        "name_pesticides": "Бонтима, КЭ"
+        "name_pesticides": "Бонтима, КЭ",
+        "link": "/goshandbook/prep/bontima-ke.html"
     },
     {
-        "name_pesticides": "Бордоская жидкость, ВСК"
+        "name_pesticides": "Бордоская жидкость, ВСК",
+        "link": "/goshandbook/prep/bordoskaya-jidkost-vsk-3.html"
     },
     {
-        "name_pesticides": "Бордоская смесь-Ф, ВРП"
+        "name_pesticides": "Бордоская смесь-Ф, ВРП",
+        "link": "/goshandbook/prep/bordoskaya-smes-f-vrp.html"
     },
     {
-        "name_pesticides": "Борей, СК"
+        "name_pesticides": "Борей, СК",
+        "link": "/goshandbook/prep/borey-sk-4.html"
     },
     {
-        "name_pesticides": "Ботаник, ВРК"
+        "name_pesticides": "Ботаник, ВРК",
+        "link": "/goshandbook/prep/botanik-vrk.html"
     },
     {
-        "name_pesticides": "Брандер, КС"
+        "name_pesticides": "Брандер, КС",
+        "link": "/goshandbook/prep/brander-ks.html"
     },
     {
-        "name_pesticides": "Бретер, КЭ"
+        "name_pesticides": "Бретер, КЭ",
+        "link": "/goshandbook/prep/breter-ke-2.html"
     },
     {
-        "name_pesticides": "Бриз, парообразующий продукт в диспенсере"
+        "name_pesticides": "Бриз, парообразующий продукт в диспенсере",
+        "link": "/goshandbook/prep/briz-paroobrazuyushchiy-produkt-v-dispensere.html"
     },
     {
-        "name_pesticides": "Броадер, КЭ"
+        "name_pesticides": "Броадер, КЭ",
+        "link": "/goshandbook/prep/broader-ke-2.html"
     },
     {
-        "name_pesticides": "Бродифакум Гранд, Г"
+        "name_pesticides": "Бродифакум Гранд, Г",
+        "link": "/goshandbook/prep/brodifakum-grand-g-3.html"
     },
     {
-        "name_pesticides": "Бульдог, КЭ"
+        "name_pesticides": "Бульдог, КЭ",
+        "link": "/goshandbook/prep/buldog-ke.html"
     },
     {
-        "name_pesticides": "Бунт, ВР"
+        "name_pesticides": "Бунт, ВР",
+        "link": "/goshandbook/prep/bunt-vr-2.html"
     },
     {
-        "name_pesticides": "Бутизан 400, КС"
+        "name_pesticides": "Бутизан 400, КС",
+        "link": "/goshandbook/prep/butizan-400-ks-2.html"
     },
     {
-        "name_pesticides": "Бутон, ВРП"
+        "name_pesticides": "Бутон, ВРП",
+        "link": "/goshandbook/prep/buton-vrp.html"
     },
     {
-        "name_pesticides": "Буцефал, КЭ"
+        "name_pesticides": "Буцефал, КЭ",
+        "link": "/goshandbook/prep/bucefal-ke-6.html"
     },
     {
-        "name_pesticides": "БФТИМ КС-2, Ж"
+        "name_pesticides": "БФТИМ КС-2, Ж",
+        "link": "/goshandbook/prep/bftim-ks-2-j-2.html"
     },
     {
-        "name_pesticides": "Вайбранс Голд, КС"
+        "name_pesticides": "Вайбранс Голд, КС",
+        "link": "/goshandbook/prep/vaybrans-gold-ks-2.html"
     },
     {
-        "name_pesticides": "Вайбранс Интеграл, КС"
+        "name_pesticides": "Вайбранс Интеграл, КС",
+        "link": "/goshandbook/prep/vaybrans-integral-ks-2.html"
     },
     {
-        "name_pesticides": "Вайбранс Топ, КС"
+        "name_pesticides": "Вайбранс Топ, КС",
+        "link": "/goshandbook/prep/vaybrans-top-ks-2.html"
     },
     {
-        "name_pesticides": "Вайбранс Трио, КС"
+        "name_pesticides": "Вайбранс Трио, КС",
+        "link": "/goshandbook/prep/vaybrans-trio-ks-2.html"
     },
     {
-        "name_pesticides": "Вайбранс, КС"
+        "name_pesticides": "Вайбранс, КС",
+        "link": "/goshandbook/prep/vaybrans-ks.html"
     },
     {
-        "name_pesticides": "Вантекс, МКС"
+        "name_pesticides": "Вантекс, МКС",
+        "link": "/goshandbook/prep/vanteks-mks-2.html"
     },
     {
-        "name_pesticides": "Варат, МБ"
+        "name_pesticides": "Варат, МБ",
+        "link": "/goshandbook/prep/varat-mb-2.html"
     },
     {
-        "name_pesticides": "Варрант, ВРК"
+        "name_pesticides": "Варрант, ВРК",
+        "link": "/goshandbook/prep/varrant-vrk.html"
     },
     {
-        "name_pesticides": "Велосити Супер, КЭ"
+        "name_pesticides": "Велосити Супер, КЭ",
+        "link": "/goshandbook/prep/velositi-super-ke.html"
     },
     {
-        "name_pesticides": "Вендетта, КС"
+        "name_pesticides": "Вендетта, КС",
+        "link": "/goshandbook/prep/vendetta-ks-2.html"
     },
     {
-        "name_pesticides": "Веник, ВДГ"
+        "name_pesticides": "Веник, ВДГ",
+        "link": "/goshandbook/prep/venik-vdg-2.html"
     },
     {
-        "name_pesticides": "Веранго, КС"
+        "name_pesticides": "Веранго, КС",
+        "link": "/goshandbook/prep/verango-ks.html"
     },
     {
-        "name_pesticides": "Вердикт, ВДГ"
+        "name_pesticides": "Вердикт, ВДГ",
+        "link": "/goshandbook/prep/verdikt-vdg-2.html"
     },
     {
-        "name_pesticides": "Версия, МД"
+        "name_pesticides": "Версия, МД",
+        "link": "/goshandbook/prep/versiya-md.html"
     },
     {
-        "name_pesticides": "Вершина, КС"
+        "name_pesticides": "Вершина, КС",
+        "link": "/goshandbook/prep/vershina-ks-2.html"
     },
     {
-        "name_pesticides": "Виал ТрасТ, ВСК"
+        "name_pesticides": "Виал ТрасТ, ВСК",
+        "link": "/goshandbook/prep/vial-trast-vsk-3.html"
     },
     {
-        "name_pesticides": "Вивандо, КС"
+        "name_pesticides": "Вивандо, КС",
+        "link": "/goshandbook/prep/vivando-ks-2.html"
     },
     {
-        "name_pesticides": "Видат 5Г, Г"
+        "name_pesticides": "Видат 5Г, Г",
+        "link": "/goshandbook/prep/vidat-5g-g.html"
     },
     {
-        "name_pesticides": "Видлер, КЭ"
+        "name_pesticides": "Видлер, КЭ",
+        "link": "/goshandbook/prep/vidler-ke.html"
     },
     {
-        "name_pesticides": "Виконт, СП"
+        "name_pesticides": "Виконт, СП",
+        "link": "/goshandbook/prep/vikont-sp-2.html"
     },
     {
-        "name_pesticides": "Виннер, КС"
+        "name_pesticides": "Виннер, КС",
+        "link": "/goshandbook/prep/vinner-ks-2.html"
     },
     {
-        "name_pesticides": "Винцит Форте, КС"
+        "name_pesticides": "Винцит Форте, КС",
+        "link": "/goshandbook/prep/vincit-forte-ks-2.html"
     },
     {
-        "name_pesticides": "Виртуоз, КЭ"
+        "name_pesticides": "Виртуоз, КЭ",
+        "link": "/goshandbook/prep/virtuoz-ke.html"
     },
     {
-        "name_pesticides": "Витавакс 200 ФФ, ВСК"
+        "name_pesticides": "Витавакс 200 ФФ, ВСК",
+        "link": "/goshandbook/prep/vitavaks-200-ff-vsk-3.html"
     },
     {
-        "name_pesticides": "Витазол Экстра, ВДГ"
+        "name_pesticides": "Витазол Экстра, ВДГ",
+        "link": "/goshandbook/prep/vitazol-ekstra-vdg.html"
     },
     {
-        "name_pesticides": "Виталон, КС"
+        "name_pesticides": "Виталон, КС",
+        "link": "/goshandbook/prep/vitalon-ks-2.html"
     },
     {
-        "name_pesticides": "Витарос, ВСК"
+        "name_pesticides": "Витарос, ВСК",
+        "link": "/goshandbook/prep/vitaros-vsk-3.html"
     },
     {
-        "name_pesticides": "Витена 450, ВДГ"
+        "name_pesticides": "Витена 450, ВДГ",
+        "link": "/goshandbook/prep/vitena-450-vdg.html"
     },
     {
-        "name_pesticides": "Властелин, ВК"
+        "name_pesticides": "Властелин, ВК",
+        "link": "/goshandbook/prep/vlastelin-vk-2.html"
     },
     {
-        "name_pesticides": "Волат, ВР"
+        "name_pesticides": "Волат, ВР",
+        "link": "/goshandbook/prep/volat-vr-2.html"
     },
     {
-        "name_pesticides": "Волиам Флекси, СК"
+        "name_pesticides": "Волиам Флекси, СК",
+        "link": "/goshandbook/prep/voliam-fleksi-sk-2.html"
     },
     {
-        "name_pesticides": "Вольник, ВР"
+        "name_pesticides": "Вольник, ВР",
+        "link": "/goshandbook/prep/volnik-vr-2.html"
     },
     {
-        "name_pesticides": "Вояж, ВДГ"
+        "name_pesticides": "Вояж, ВДГ",
+        "link": "/goshandbook/prep/voyaj-vdg-2.html"
     },
     {
-        "name_pesticides": "Вулкан, ТПС"
+        "name_pesticides": "Вулкан, ТПС",
+        "link": "/goshandbook/prep/vulkan-tps-4.html"
     },
     {
-        "name_pesticides": "Вымпел 2, КЭ"
+        "name_pesticides": "Вымпел 2, КЭ",
+        "link": "/goshandbook/prep/vympel-2-ke-4.html"
     },
     {
-        "name_pesticides": "Вымпел 3, КЭ"
+        "name_pesticides": "Вымпел 3, КЭ",
+        "link": "/goshandbook/prep/vympel-3-ke-3.html"
     },
     {
-        "name_pesticides": "Вэрва, ВЭ"
+        "name_pesticides": "Вэрва, ВЭ",
+        "link": "/goshandbook/prep/verva-ve-3.html"
     },
     {
-        "name_pesticides": "Гавань Плюс, МД"
+        "name_pesticides": "Гавань Плюс, МД",
+        "link": "/goshandbook/prep/gavan-plyus-md.html"
     },
     {
-        "name_pesticides": "Гайтан, КЭ"
+        "name_pesticides": "Гайтан, КЭ",
+        "link": "/goshandbook/prep/gaytan-ke-2.html"
     },
     {
-        "name_pesticides": "Гал-Басус, КС"
+        "name_pesticides": "Гал-Басус, КС",
+        "link": "/goshandbook/prep/gal-basus-ks.html"
     },
     {
-        "name_pesticides": "Галакси Топ, ВРК"
+        "name_pesticides": "Галакси Топ, ВРК",
+        "link": "/goshandbook/prep/galaksi-top-vrk-4.html"
     },
     {
-        "name_pesticides": "Галера Супер 364, ВР"
+        "name_pesticides": "Галера Супер 364, ВР",
+        "link": "/goshandbook/prep/galera-super-364-vr.html"
     },
     {
-        "name_pesticides": "Галил, КС"
+        "name_pesticides": "Галил, КС",
+        "link": "/goshandbook/prep/galil-ks-2.html"
     },
     {
-        "name_pesticides": "Галлон, КЭ"
+        "name_pesticides": "Галлон, КЭ",
+        "link": "/goshandbook/prep/gallon-ke.html"
     },
     {
-        "name_pesticides": "Галоканекс, КС"
+        "name_pesticides": "Галоканекс, КС",
+        "link": "/goshandbook/prep/galokaneks-ks.html"
     },
     {
-        "name_pesticides": "Галоп М, КЭ"
+        "name_pesticides": "Галоп М, КЭ",
+        "link": "/goshandbook/prep/galop-m-ke.html"
     },
     {
-        "name_pesticides": "Галс, КЭ"
+        "name_pesticides": "Галс, КЭ",
+        "link": "/goshandbook/prep/gals-ke.html"
     },
     {
-        "name_pesticides": "Гамаир, СП"
+        "name_pesticides": "Гамаир, СП",
+        "link": "/goshandbook/prep/gamair-sp-2.html"
     },
     {
-        "name_pesticides": "Гамбит, СК"
+        "name_pesticides": "Гамбит, СК",
+        "link": "/goshandbook/prep/gambit-sk-3.html"
     },
     {
-        "name_pesticides": "Гарнизон, ВР"
+        "name_pesticides": "Гарнизон, ВР",
+        "link": "/goshandbook/prep/garnizon-vr.html"
     },
     {
-        "name_pesticides": "Гаугай, КЭ"
+        "name_pesticides": "Гаугай, КЭ",
+        "link": "/goshandbook/prep/gaugay-ke-2.html"
     },
     {
-        "name_pesticides": "Гаучо Эво, КС"
+        "name_pesticides": "Гаучо Эво, КС",
+        "link": "/goshandbook/prep/gaucho-evo-ks.html"
     },
     {
-        "name_pesticides": "Гезагард, КС"
+        "name_pesticides": "Гезагард, КС",
+        "link": "/goshandbook/prep/gezagard-ks-2.html"
     },
     {
-        "name_pesticides": "Гейзер, ККР"
+        "name_pesticides": "Гейзер, ККР",
+        "link": "/goshandbook/prep/geyzer-kkr.html"
     },
     {
-        "name_pesticides": "Гекстар, ВДГ"
+        "name_pesticides": "Гекстар, ВДГ",
+        "link": "/goshandbook/prep/gekstar-vdg-2.html"
     },
     {
-        "name_pesticides": "Гелиос, ВР"
+        "name_pesticides": "Гелиос, ВР",
+        "link": "/goshandbook/prep/gelios-vr-4.html"
     },
     {
-        "name_pesticides": "Гель-Деймос, Гель"
+        "name_pesticides": "Гель-Деймос, Гель",
+        "link": "/goshandbook/prep/gel-deymos-gel.html"
     },
     {
-        "name_pesticides": "Геокс, ВДГ"
+        "name_pesticides": "Геокс, ВДГ",
+        "link": "/goshandbook/prep/geoks-vdg.html"
     },
     {
-        "name_pesticides": "Гераклион, КС"
+        "name_pesticides": "Гераклион, КС",
+        "link": "/goshandbook/prep/geraklion-ks.html"
     },
     {
-        "name_pesticides": "Гербикс, ВК"
+        "name_pesticides": "Гербикс, ВК",
+        "link": "/goshandbook/prep/gerbiks-vk-2.html"
     },
     {
-        "name_pesticides": "Гербитокс, ВРК"
+        "name_pesticides": "Гербитокс, ВРК",
+        "link": "/goshandbook/prep/gerbitoks-vrk-4.html"
     },
     {
-        "name_pesticides": "Гербитокс-Л, ВРК"
+        "name_pesticides": "Гербитокс-Л, ВРК",
+        "link": "/goshandbook/prep/gerbitoks-l-vrk-2.html"
     },
     {
-        "name_pesticides": "Гермес, МД"
+        "name_pesticides": "Гермес, МД",
+        "link": "/goshandbook/prep/germes-md-3.html"
     },
     {
-        "name_pesticides": "Герсотил, ВДГ"
+        "name_pesticides": "Герсотил, ВДГ",
+        "link": "/goshandbook/prep/gersotil-vdg-2.html"
     },
     {
-        "name_pesticides": "Гетероауксин, TAБ"
+        "name_pesticides": "Гетероауксин, TAБ",
+        "link": "/goshandbook/prep/geteroauksin-tab-3.html"
     },
     {
-        "name_pesticides": "Гетероауксин, П"
+        "name_pesticides": "Гетероауксин, П",
+        "link": "/goshandbook/prep/geteroauksin-p-2.html"
     },
     {
-        "name_pesticides": "Гибб Плюс, ВРК"
+        "name_pesticides": "Гибб Плюс, ВРК",
+        "link": "/goshandbook/prep/gibb-plyus-vrk.html"
     },
     {
-        "name_pesticides": "Гибберсиб, П"
+        "name_pesticides": "Гибберсиб, П",
+        "link": "/goshandbook/prep/gibbersib-p-2.html"
     },
     {
-        "name_pesticides": "Гидрамак, ВРП"
+        "name_pesticides": "Гидрамак, ВРП",
+        "link": "/goshandbook/prep/gidramak-vrp.html"
     },
     {
-        "name_pesticides": "Гимнаст, СП"
+        "name_pesticides": "Гимнаст, СП",
+        "link": "/goshandbook/prep/gimnast-sp-2.html"
     },
     {
-        "name_pesticides": "Гладиатор, КЭ"
+        "name_pesticides": "Гладиатор, КЭ",
+        "link": "/goshandbook/prep/gladiator-ke-2.html"
     },
     {
-        "name_pesticides": "ГлиБест 540, ВР"
+        "name_pesticides": "ГлиБест 540, ВР",
+        "link": "/goshandbook/prep/glibest-540-vr-3.html"
     },
     {
-        "name_pesticides": "ГлиБест Гранд, ВДГ (ver.2)"
+        "name_pesticides": "ГлиБест Гранд, ВДГ (ver.2)",
+        "link": "/goshandbook/prep/glibest-grand-vdg.html"
     },
     {
-        "name_pesticides": "Глиокладин, СП"
+        "name_pesticides": "Глиокладин, СП",
+        "link": "/goshandbook/prep/gliokladin-sp-2.html"
     },
     {
-        "name_pesticides": "Глиф, ВР"
+        "name_pesticides": "Глиф, ВР",
+        "link": "/goshandbook/prep/glif-vr.html"
     },
     {
-        "name_pesticides": "Глифор, ВР"
+        "name_pesticides": "Глифор, ВР",
+        "link": "/goshandbook/prep/glifor-vr-4.html"
     },
     {
-        "name_pesticides": "Глифот, ВР"
+        "name_pesticides": "Глифот, ВР",
+        "link": "/goshandbook/prep/glifot-vr-2.html"
     },
     {
-        "name_pesticides": "Глифошанс, ВР"
+        "name_pesticides": "Глифошанс, ВР",
+        "link": "/goshandbook/prep/glifoshans-vr-3.html"
     },
     {
-        "name_pesticides": "Глобал, ВР"
+        "name_pesticides": "Глобал, ВР",
+        "link": "/goshandbook/prep/global-vr-2.html"
     },
     {
-        "name_pesticides": "Гоал 2Е, КЭ"
+        "name_pesticides": "Гоал 2Е, КЭ",
+        "link": "/goshandbook/prep/goal-2e-ke-2.html"
     },
     {
-        "name_pesticides": "Голден Ринг, ВР"
+        "name_pesticides": "Голден Ринг, ВР",
+        "link": "/goshandbook/prep/golden-ring-vr-4.html"
     },
     {
-        "name_pesticides": "Голтикс Голд, КС"
+        "name_pesticides": "Голтикс Голд, КС",
+        "link": "/goshandbook/prep/goltiks-gold-ks-2.html"
     },
     {
-        "name_pesticides": "Голтикс Титан, КС"
+        "name_pesticides": "Голтикс Титан, КС",
+        "link": "/goshandbook/prep/goltiks-titan-ks.html"
     },
     {
-        "name_pesticides": "Горгон, ВРК"
+        "name_pesticides": "Горгон, ВРК",
+        "link": "/goshandbook/prep/gorgon-vrk-4.html"
     },
     {
-        "name_pesticides": "Горизонт, КЭ"
+        "name_pesticides": "Горизонт, КЭ",
+        "link": "/goshandbook/prep/gorizont-ke.html"
     },
     {
-        "name_pesticides": "Готланд,  ВР"
+        "name_pesticides": "Готланд,  ВР",
+        "link": "/goshandbook/prep/gotland-vr.html"
     },
     {
-        "name_pesticides": "Гран-при, ВДГ"
+        "name_pesticides": "Гран-при, ВДГ",
+        "link": "/goshandbook/prep/gran-pri-vdg-2.html"
     },
     {
-        "name_pesticides": "Гранбаз, ВР"
+        "name_pesticides": "Гранбаз, ВР",
+        "link": "/goshandbook/prep/granbaz-vr.html"
     },
     {
-        "name_pesticides": "Гранберг, КЭ"
+        "name_pesticides": "Гранберг, КЭ",
+        "link": "/goshandbook/prep/granberg-ke.html"
     },
     {
-        "name_pesticides": "Грандсил Ультра, КС"
+        "name_pesticides": "Грандсил Ультра, КС",
+        "link": "/goshandbook/prep/grandsil-ultra-ks-3.html"
     },
     {
-        "name_pesticides": "Гранстар Мега, ВДГ"
+        "name_pesticides": "Гранстар Мега, ВДГ",
+        "link": "/goshandbook/prep/granstar-mega-vdg.html"
     },
     {
-        "name_pesticides": "Гранулам, ВДГ"
+        "name_pesticides": "Гранулам, ВДГ",
+        "link": "/goshandbook/prep/granulam-vdg.html"
     },
     {
-        "name_pesticides": "Грасс, КС"
+        "name_pesticides": "Грасс, КС",
+        "link": "/goshandbook/prep/grass-ks.html"
     },
     {
-        "name_pesticides": "Граф, КЭ"
+        "name_pesticides": "Граф, КЭ",
+        "link": "/goshandbook/prep/graf-ke.html"
     },
     {
-        "name_pesticides": "Гренадер, ВДГ"
+        "name_pesticides": "Гренадер, ВДГ",
+        "link": "/goshandbook/prep/grenader-vdg-4.html"
     },
     {
-        "name_pesticides": "Гренч, СП"
+        "name_pesticides": "Гренч, СП",
+        "link": "/goshandbook/prep/grench-sp-2.html"
     },
     {
-        "name_pesticides": "Гримс, ВДГ"
+        "name_pesticides": "Гримс, ВДГ",
+        "link": "/goshandbook/prep/grims-vdg.html"
     },
     {
-        "name_pesticides": "Гринда, РП"
+        "name_pesticides": "Гринда, РП",
+        "link": "/goshandbook/prep/grinda-rp-2.html"
     },
     {
-        "name_pesticides": "Грифон, КС"
+        "name_pesticides": "Грифон, КС",
+        "link": "/goshandbook/prep/grifon-ks-2.html"
     },
     {
-        "name_pesticides": "Гроза-6, Г"
+        "name_pesticides": "Гроза-6, Г",
+        "link": "/goshandbook/prep/groza-6-g.html"
     },
     {
-        "name_pesticides": "Гром-2, Г"
+        "name_pesticides": "Гром-2, Г",
+        "link": "/goshandbook/prep/grom-2-g-2.html"
     },
     {
-        "name_pesticides": "Грэмми, КС"
+        "name_pesticides": "Грэмми, КС",
+        "link": "/goshandbook/prep/gremmi-ks-4.html"
     },
     {
-        "name_pesticides": "Гуапсин плюс, Ж"
+        "name_pesticides": "Гуапсин плюс, Ж",
+        "link": "/goshandbook/prep/guapsin-plyus-j.html"
     },
     {
-        "name_pesticides": "Гуд-Харвест Метамитрон, КС"
+        "name_pesticides": "Гуд-Харвест Метамитрон, КС",
+        "link": "/goshandbook/prep/gud-harvest-metamitron-ks.html"
     },
     {
-        "name_pesticides": "Гуд-Харвест С-Метолахлор, КЭ"
+        "name_pesticides": "Гуд-Харвест С-Метолахлор, КЭ",
+        "link": "/goshandbook/prep/gud-harvest-s-metolahlor-ke.html"
     },
     {
-        "name_pesticides": "ГуматАктив, Ж"
+        "name_pesticides": "ГуматАктив, Ж",
+        "link": "/goshandbook/prep/gumataktiv-j.html"
     },
     {
-        "name_pesticides": "Даймонд Супер, КС"
+        "name_pesticides": "Даймонд Супер, КС",
+        "link": "/goshandbook/prep/daymond-super-ks-3.html"
     },
     {
-        "name_pesticides": "Дамба, ВР"
+        "name_pesticides": "Дамба, ВР",
+        "link": "/goshandbook/prep/damba-vr-2.html"
     },
     {
-        "name_pesticides": "Данадим Эксперт, КЭ"
+        "name_pesticides": "Данадим Эксперт, КЭ",
+        "link": "/goshandbook/prep/danadim-ekspert-ke-3.html"
     },
     {
-        "name_pesticides": "ДВД Шанс, КС"
+        "name_pesticides": "ДВД Шанс, КС",
+        "link": "/goshandbook/prep/dvd-shans-ks.html"
     },
     {
-        "name_pesticides": "Девиз, ВР"
+        "name_pesticides": "Девиз, ВР",
+        "link": "/goshandbook/prep/deviz-vr-2.html"
     },
     {
-        "name_pesticides": "Дедало Элит, МЭ"
+        "name_pesticides": "Дедало Элит, МЭ",
+        "link": "/goshandbook/prep/dedalo-elit-me.html"
     },
     {
-        "name_pesticides": "Дедмайс, ГР"
+        "name_pesticides": "Дедмайс, ГР",
+        "link": "/goshandbook/prep/dedmays-gr-2.html"
     },
     {
-        "name_pesticides": "Деймос, ВРК"
+        "name_pesticides": "Деймос, ВРК",
+        "link": "/goshandbook/prep/deymos-vrk-3.html"
     },
     {
-        "name_pesticides": "Декстер Турбо, СЭ"
+        "name_pesticides": "Декстер Турбо, СЭ",
+        "link": "/goshandbook/prep/dekster-turbo-se-2.html"
     },
     {
-        "name_pesticides": "Делан Про, КС"
+        "name_pesticides": "Делан Про, КС",
+        "link": "/goshandbook/prep/delan-pro-ks.html"
     },
     {
-        "name_pesticides": "Деларо, КС"
+        "name_pesticides": "Деларо, КС",
+        "link": "/goshandbook/prep/delaro-ks.html"
     },
     {
-        "name_pesticides": "Делегат, ВДГ"
+        "name_pesticides": "Делегат, ВДГ",
+        "link": "/goshandbook/prep/delegat-vdg.html"
     },
     {
-        "name_pesticides": "Деметра, КЭ"
+        "name_pesticides": "Деметра, КЭ",
+        "link": "/goshandbook/prep/demetra-ke-4.html"
     },
     {
-        "name_pesticides": "Деница, Г"
+        "name_pesticides": "Деница, Г",
+        "link": "/goshandbook/prep/denica-g.html"
     },
     {
-        "name_pesticides": "Депозит Суприм, МЭ"
+        "name_pesticides": "Депозит Суприм, МЭ",
+        "link": "/goshandbook/prep/depozit-suprim-me.html"
     },
     {
-        "name_pesticides": "Дерби 175, СК"
+        "name_pesticides": "Дерби 175, СК",
+        "link": "/goshandbook/prep/derbi-175-sk-2.html"
     },
     {
-        "name_pesticides": "Десикант Экспертоф, ВР"
+        "name_pesticides": "Десикант Экспертоф, ВР",
+        "link": "/goshandbook/prep/desikant-ekspertof-vr-3.html"
     },
     {
-        "name_pesticides": "Десперадо, КС"
+        "name_pesticides": "Десперадо, КС",
+        "link": "/goshandbook/prep/desperado-ks.html"
     },
     {
-        "name_pesticides": "Детка, ПС"
+        "name_pesticides": "Детка, ПС",
+        "link": "/goshandbook/prep/detka-ps.html"
     },
     {
-        "name_pesticides": "Децис Эксперт, КЭ"
+        "name_pesticides": "Децис Эксперт, КЭ",
+        "link": "/goshandbook/prep/decis-ekspert-ke.html"
     },
     {
-        "name_pesticides": "Джиндур, КЭ"
+        "name_pesticides": "Джиндур, КЭ",
+        "link": "/goshandbook/prep/djindur-ke-2.html"
     },
     {
-        "name_pesticides": "Диазинон Экспресс, КЭ"
+        "name_pesticides": "Диазинон Экспресс, КЭ",
+        "link": "/goshandbook/prep/diazinon-ekspress-ke-3.html"
     },
     {
-        "name_pesticides": "Диален Супер, ВР"
+        "name_pesticides": "Диален Супер, ВР",
+        "link": "/goshandbook/prep/dialen-super-vr-2.html"
     },
     {
-        "name_pesticides": "Диамисоль, ВР"
+        "name_pesticides": "Диамисоль, ВР",
+        "link": "/goshandbook/prep/diamisol-vr-2.html"
     },
     {
-        "name_pesticides": "Дианат, ВР"
+        "name_pesticides": "Дианат, ВР",
+        "link": "/goshandbook/prep/dianat-vr-2.html"
     },
     {
-        "name_pesticides": "Дибазон, ВРК"
+        "name_pesticides": "Дибазон, ВРК",
+        "link": "/goshandbook/prep/dibazon-vrk-2.html"
     },
     {
-        "name_pesticides": "Дивиденд Стар, КС"
+        "name_pesticides": "Дивиденд Стар, КС",
+        "link": "/goshandbook/prep/dividend-star-ks-2.html"
     },
     {
-        "name_pesticides": "Дивиденд Суприм, КС"
+        "name_pesticides": "Дивиденд Суприм, КС",
+        "link": "/goshandbook/prep/dividend-suprim-ks-2.html"
     },
     {
-        "name_pesticides": "Дикамбел, ВР"
+        "name_pesticides": "Дикамбел, ВР",
+        "link": "/goshandbook/prep/dikambel-vr-2.html"
     },
     {
-        "name_pesticides": "Дикамин-Д, ВР"
+        "name_pesticides": "Дикамин-Д, ВР",
+        "link": "/goshandbook/prep/dikamin-d-vr-3.html"
     },
     {
-        "name_pesticides": "Дикват, ВРК"
+        "name_pesticides": "Диквабис, ВР",
+        "link": "/goshandbook/prep/dikvabis-vr.html"
     },
     {
-        "name_pesticides": "Дикватерр Супер, ВР"
+        "name_pesticides": "Дикватерр Мега, ВР",
+        "link": "/goshandbook/prep/dikvaterr-mega-vr-2.html"
     },
     {
-        "name_pesticides": "Дикогерб Супер, ВРК"
+        "name_pesticides": "Диклосоя, ВДГ",
+        "link": "/goshandbook/prep/diklosoya-vdg.html"
     },
     {
-        "name_pesticides": "Дикопур Топ, ВР"
+        "name_pesticides": "Дикопур М, ВР",
+        "link": "/goshandbook/prep/dikopur-m-vr-2.html"
     },
     {
-        "name_pesticides": "Дикошанс, ВР"
+        "name_pesticides": "Дикошанс, ВР",
+        "link": "/goshandbook/prep/dikoshans-vr.html"
     },
     {
-        "name_pesticides": "Диметек, КЭ"
+        "name_pesticides": "Димекс, КЭ",
+        "link": "/goshandbook/prep/dimeks-ke.html"
     },
     {
-        "name_pesticides": "Диметрон, КЭ"
+        "name_pesticides": "Диметрон, КЭ",
+        "link": "/goshandbook/prep/dimetron-ke.html"
     },
     {
-        "name_pesticides": "Димефос, КЭ"
+        "name_pesticides": "Диметус, КЭ",
+        "link": "/goshandbook/prep/dimetus-ke.html"
     },
     {
-        "name_pesticides": "Динали, ДК"
+        "name_pesticides": "Димилин, СП",
+        "link": "/goshandbook/prep/dimilin-sp.html"
     },
     {
-        "name_pesticides": "Дипломат, КЭ"
+        "name_pesticides": "Диома, ВРК",
+        "link": "/goshandbook/prep/dioma-vrk-2.html"
     },
     {
-        "name_pesticides": "Дискатор 600, КЭ"
+        "name_pesticides": "Дисектис, П",
+        "link": "/goshandbook/prep/disektis-p.html"
     },
     {
-        "name_pesticides": "Дискор, КЭ"
+        "name_pesticides": "Дискатор Форте, КЭ",
+        "link": "/goshandbook/prep/diskator-forte-ke-2.html"
     },
     {
-        "name_pesticides": "Дитан М-45, СП"
+        "name_pesticides": "Дисулам, СЭ",
+        "link": "/goshandbook/prep/disulam-se-2.html"
     },
     {
-        "name_pesticides": "Дифилайн, КЭ"
+        "name_pesticides": "Дитан М-45, СП",
+        "link": "/goshandbook/prep/ditan-m-45-sp-2.html"
     },
     {
-        "name_pesticides": "Дифлуцид, СП"
+        "name_pesticides": "Дифилайн, КЭ",
+        "link": "/goshandbook/prep/difilayn-ke-2.html"
     },
     {
-        "name_pesticides": "Дифферент, СЭ"
+        "name_pesticides": "Дифлуцид, СП",
+        "link": "/goshandbook/prep/diflucid-sp.html"
     },
     {
-        "name_pesticides": "Длясои, ВК"
+        "name_pesticides": "Дифферент, СЭ",
+        "link": "/goshandbook/prep/different-se.html"
     },
     {
-        "name_pesticides": "Дозреватель, ВР"
+        "name_pesticides": "Длясои, ВК",
+        "link": "/goshandbook/prep/dlyasoi-vk-3.html"
     },
     {
-        "name_pesticides": "Доктор Харвест АгроМайт ПРО, ВР"
+        "name_pesticides": "Дозреватель, ВР",
+        "link": "/goshandbook/prep/dozrevatel-vr-2.html"
     },
     {
-        "name_pesticides": "Доктор, ТБ"
+        "name_pesticides": "Доктор Харвест АгроМайт ПРО, ВР",
+        "link": "/goshandbook/prep/doktor-harvest-agromayt-pro-vr.html"
     },
     {
-        "name_pesticides": "Домоцвет, Р"
+        "name_pesticides": "Доктор, ТБ",
+        "link": "/goshandbook/prep/doktor-tb-2.html"
     },
     {
-        "name_pesticides": "Допинг, КЭ"
+        "name_pesticides": "Домоцвет, Р",
+        "link": "/goshandbook/prep/domocvet-r-3.html"
     },
     {
-        "name_pesticides": "Доспех Квадра, КС"
+        "name_pesticides": "Допинг, КЭ",
+        "link": "/goshandbook/prep/doping-ke-2.html"
     },
     {
-        "name_pesticides": "Доспех, КС"
+        "name_pesticides": "Доспех Квадра, КС",
+        "link": "/goshandbook/prep/dospeh-kvadra-ks.html"
     },
     {
-        "name_pesticides": "Дракон Супер 7,5 , КЭ"
+        "name_pesticides": "Доспех, КС",
+        "link": "/goshandbook/prep/dospeh-ks-2.html"
     },
     {
-        "name_pesticides": "Дракор, ВСК"
+        "name_pesticides": "Дракон Супер 7,5 , КЭ",
+        "link": "/goshandbook/prep/drakon-super-75--ke-2.html"
     },
     {
-        "name_pesticides": "Дротик, ККР"
+        "name_pesticides": "Дракор, ВСК",
+        "link": "/goshandbook/prep/drakor-vsk.html"
     },
     {
-        "name_pesticides": "Дуал Голд, КЭ"
+        "name_pesticides": "Дротик, ККР",
+        "link": "/goshandbook/prep/drotik-kkr-2.html"
     },
     {
-        "name_pesticides": "ДУБЛОН Супер, ВДГ"
+        "name_pesticides": "Дуал Голд, КЭ",
+        "link": "/goshandbook/prep/dual-gold-ke-3.html"
     },
     {
-        "name_pesticides": "Дублон, СК"
+        "name_pesticides": "ДУБЛОН Супер, ВДГ",
+        "link": "/goshandbook/prep/dublon-super-vdg-3.html"
     },
     {
-        "name_pesticides": "Душанс, КЭ"
+        "name_pesticides": "Дублон, СК",
+        "link": "/goshandbook/prep/dublon-sk-4.html"
     },
     {
-        "name_pesticides": "ДЩК, Газ"
+        "name_pesticides": "Душанс, КЭ",
+        "link": "/goshandbook/prep/dushans-ke.html"
     },
     {
-        "name_pesticides": "Дэлит Про, КС"
+        "name_pesticides": "ДЩК, Газ",
+        "link": "/goshandbook/prep/dshchk-gaz.html"
     },
     {
-        "name_pesticides": "Дюссак, КЭ"
+        "name_pesticides": "Дэлит Про, КС",
+        "link": "/goshandbook/prep/delit-pro-ks.html"
     },
     {
-        "name_pesticides": "Евро-Лайтнинг Плюс, ВРК"
+        "name_pesticides": "Дюссак, КЭ",
+        "link": "/goshandbook/prep/dyussak-ke.html"
     },
     {
-        "name_pesticides": "Евро-Ланг, ВРК"
+        "name_pesticides": "Евро-Лайтнинг Плюс, ВРК",
+        "link": "/goshandbook/prep/evro-laytning-plyus-vrk.html"
     },
     {
-        "name_pesticides": "Евродим, КЭ"
+        "name_pesticides": "Евро-Ланг, ВРК",
+        "link": "/goshandbook/prep/evro-lang-vrk-2.html"
     },
     {
-        "name_pesticides": "Еврошанс Плюс, ВРК"
+        "name_pesticides": "Евродим, КЭ",
+        "link": "/goshandbook/prep/evrodim-ke-2.html"
     },
     {
-        "name_pesticides": "Жукоед, СК"
+        "name_pesticides": "Еврошанс Плюс, ВРК",
+        "link": "/goshandbook/prep/evroshans-plyus-vrk-2.html"
     },
     {
-        "name_pesticides": "Зазофен, ВР"
+        "name_pesticides": "Жукоед, СК",
+        "link": "/goshandbook/prep/jukoed-sk-2.html"
     },
     {
-        "name_pesticides": "Замир, ЭМВ"
+        "name_pesticides": "Зазофен, ВР",
+        "link": "/goshandbook/prep/zazofen-vr-2.html"
     },
     {
-        "name_pesticides": "Зарница, КС"
+        "name_pesticides": "Замир, ЭМВ",
+        "link": "/goshandbook/prep/zamir-emv-3.html"
     },
     {
-        "name_pesticides": "Здоровая земля, ВСК"
+        "name_pesticides": "Зарница, КС",
+        "link": "/goshandbook/prep/zarnica-ks.html"
     },
     {
-        "name_pesticides": "Зеленец, ВР"
+        "name_pesticides": "Здоровая земля, ВСК",
+        "link": "/goshandbook/prep/zdorovaya-zemlya-vsk-3.html"
     },
     {
-        "name_pesticides": "Зеленый барьер, СП"
+        "name_pesticides": "Зеленец, ВР",
+        "link": "/goshandbook/prep/zelenec-vr.html"
     },
     {
-        "name_pesticides": "Землин Форте, Г"
+        "name_pesticides": "Зеленый барьер, СП",
+        "link": "/goshandbook/prep/zelenyy-barer-sp.html"
     },
     {
-        "name_pesticides": "Зенарил, ВР"
+        "name_pesticides": "Землин Форте, Г",
+        "link": "/goshandbook/prep/zemlin-forte-g.html"
     },
     {
-        "name_pesticides": "Зенкошанс, КС"
+        "name_pesticides": "Зенарил, ВР",
+        "link": "/goshandbook/prep/zenaril-vr-2.html"
     },
     {
-        "name_pesticides": "Зеребра Агро, ВР"
+        "name_pesticides": "Зенкошанс, КС",
+        "link": "/goshandbook/prep/zenkoshans-ks.html"
     },
     {
-        "name_pesticides": "Зернорост, КЭ"
+        "name_pesticides": "Зеребра Агро, ВР",
+        "link": "/goshandbook/prep/zerebra-agro-vr.html"
     },
     {
-        "name_pesticides": "Зеро, ВР"
+        "name_pesticides": "Зернорост, КЭ",
+        "link": "/goshandbook/prep/zernorost-ke.html"
     },
     {
-        "name_pesticides": "Зета, ВРК"
+        "name_pesticides": "Зеро, ВР",
+        "link": "/goshandbook/prep/zero-vr-3.html"
     },
     {
-        "name_pesticides": "Зимошанс, КС"
+        "name_pesticides": "Зета, ВРК",
+        "link": "/goshandbook/prep/zeta-vrk-2.html"
     },
     {
-        "name_pesticides": "Зингер, СП"
+        "name_pesticides": "Зимошанс, КС",
+        "link": "/goshandbook/prep/zimoshans-ks.html"
     },
     {
-        "name_pesticides": "Злак Супер, КЭ"
+        "name_pesticides": "Зингер, СП",
+        "link": "/goshandbook/prep/zinger-sp-2.html"
     },
     {
-        "name_pesticides": "Злакосупер, КЭ"
+        "name_pesticides": "Злак Супер, КЭ",
+        "link": "/goshandbook/prep/zlak-super-ke.html"
     },
     {
-        "name_pesticides": "Злактерр, КЭ"
+        "name_pesticides": "Злакосупер, КЭ",
+        "link": "/goshandbook/prep/zlakosuper-ke-2.html"
     },
     {
-        "name_pesticides": "Зодиак, ВР"
+        "name_pesticides": "Злактерр, КЭ",
+        "link": "/goshandbook/prep/zlakterr-ke-2.html"
     },
     {
-        "name_pesticides": "Зонатор, ВР"
+        "name_pesticides": "Зодиак, ВР",
+        "link": "/goshandbook/prep/zodiak-vr-2.html"
     },
     {
-        "name_pesticides": "Зорвек Энкантия, СЭ"
+        "name_pesticides": "Зонатор, ВР",
+        "link": "/goshandbook/prep/zonator-vr.html"
     },
     {
-        "name_pesticides": "Ибис 100, КЭ"
+        "name_pesticides": "Зорвек Энкантия, СЭ",
+        "link": "/goshandbook/prep/zorvek-enkantiya-se.html"
     },
     {
-        "name_pesticides": "Идеал, КС"
+        "name_pesticides": "Ибис 100, КЭ",
+        "link": "/goshandbook/prep/ibis-100-ke.html"
     },
     {
-        "name_pesticides": "Изобен, ВР"
+        "name_pesticides": "Идеал, КС",
+        "link": "/goshandbook/prep/ideal-ks-2.html"
     },
     {
-        "name_pesticides": "Иканос, МД"
+        "name_pesticides": "Изобен, ВР",
+        "link": "/goshandbook/prep/izoben-vr-2.html"
     },
     {
-        "name_pesticides": "Илион, МД"
+        "name_pesticides": "Иканос, МД",
+        "link": "/goshandbook/prep/ikanos-md.html"
     },
     {
-        "name_pesticides": "Имазабел, ВР"
+        "name_pesticides": "Илион, МД",
+        "link": "/goshandbook/prep/ilion-md.html"
     },
     {
-        "name_pesticides": "Имазошанс, ВР"
+        "name_pesticides": "Имазабел, ВР",
+        "link": "/goshandbook/prep/imazabel-vr.html"
     },
     {
-        "name_pesticides": "Имидалит, ТПС"
+        "name_pesticides": "Имазошанс, ВР",
+        "link": "/goshandbook/prep/imazoshans-vr.html"
     },
     {
-        "name_pesticides": "Имидасид, КС"
+        "name_pesticides": "Имидалит, ТПС",
+        "link": "/goshandbook/prep/imidalit-tps-5.html"
     },
     {
-        "name_pesticides": "Имидашанс Про, КС"
+        "name_pesticides": "Имидан, ВДГ",
+        "link": "/goshandbook/prep/imidan-vdg.html"
     },
     {
-        "name_pesticides": "Имидашанс, ВРК"
+        "name_pesticides": "Имидашанс Плюс, СК",
+        "link": "/goshandbook/prep/imidashans-plyus-sk.html"
     },
     {
-        "name_pesticides": "Имидашанс-С, КС"
+        "name_pesticides": "Имидашанс Про, КС",
+        "link": "/goshandbook/prep/imidashans-pro-ks-2.html"
     },
     {
-        "name_pesticides": "Имидж, ВРК"
+        "name_pesticides": "Имидашанс-С, КС",
+        "link": "/goshandbook/prep/imidashans-s-ks.html"
     },
     {
-        "name_pesticides": "Имидор Про, КС"
+        "name_pesticides": "Имидж Плюс, КЭ",
+        "link": "/goshandbook/prep/imidj-plyus-ke.html"
     },
     {
-        "name_pesticides": "Имикар, КС"
+        "name_pesticides": "Имидор Про, КС",
+        "link": "/goshandbook/prep/imidor-pro-ks-3.html"
     },
     {
-        "name_pesticides": "Имиприд, ВРК"
+        "name_pesticides": "Имидор Экстра, КС",
+        "link": "/goshandbook/prep/imidor-ekstra-ks.html"
     },
     {
-        "name_pesticides": "Имквант, ВР"
+        "name_pesticides": "Имикар, КС",
+        "link": "/goshandbook/prep/imikar-ks-2.html"
     },
     {
-        "name_pesticides": "Иммуноцитофит, ТАБ"
+        "name_pesticides": "Имиприд, ВРК",
+        "link": "/goshandbook/prep/imiprid-vrk-2.html"
     },
     {
-        "name_pesticides": "Импакт Супер, КС"
+        "name_pesticides": "Имквант, ВР",
+        "link": "/goshandbook/prep/imkvant-vr.html"
     },
     {
-        "name_pesticides": "Импульс, КС"
+        "name_pesticides": "Иммуноцитофит, ТАБ",
+        "link": "/goshandbook/prep/immunocitofit-tab.html"
     },
     {
-        "name_pesticides": "Индокарб, КЭ"
+        "name_pesticides": "Импакт Супер, КС",
+        "link": "/goshandbook/prep/impakt-super-ks-2.html"
     },
     {
-        "name_pesticides": "Иноксифен, КЭ"
+        "name_pesticides": "Импульс, КС",
+        "link": "/goshandbook/prep/impuls-ks.html"
     },
     {
-        "name_pesticides": "Инсайд, СК"
+        "name_pesticides": "Индоальф, РП",
+        "link": "/goshandbook/prep/indoalf-rp.html"
     },
     {
-        "name_pesticides": "Инсектобактерин, СП"
+        "name_pesticides": "Индофил М-45, СП",
+        "link": "/goshandbook/prep/indofil-m-45-sp.html"
     },
     {
-        "name_pesticides": "Инсетим, Ж"
+        "name_pesticides": "Инпут, КЭ",
+        "link": "/goshandbook/prep/input-ke.html"
     },
     {
-        "name_pesticides": "Инстиво, КС"
+        "name_pesticides": "Инсегар, ВДГ",
+        "link": "/goshandbook/prep/insegar-vdg.html"
     },
     {
-        "name_pesticides": "Инта-Ц-М, ТАБ"
+        "name_pesticides": "Инсектор Супра, КС",
+        "link": "/goshandbook/prep/insektor-supra-ks-2.html"
     },
     {
-        "name_pesticides": "Интерн, КЭ"
+        "name_pesticides": "Инсигния, МД",
+        "link": "/goshandbook/prep/insigniya-md.html"
     },
     {
-        "name_pesticides": "Инфинито, КС"
+        "name_pesticides": "Инта-Вир, TAБ",
+        "link": "/goshandbook/prep/inta-vir-tab-3.html"
     },
     {
-        "name_pesticides": "Ирбис 100, КЭ (АГРус)"
+        "name_pesticides": "Инта-Ц-М, ТАБ",
+        "link": "/goshandbook/prep/inta-c-m-tab-2.html"
     },
     {
-        "name_pesticides": "Ирбис, ЭМВ"
+        "name_pesticides": "Интерн, КЭ",
+        "link": "/goshandbook/prep/intern-ke.html"
     },
     {
-        "name_pesticides": "Искра Золотая Просто, ВР"
+        "name_pesticides": "Инфинито, КС",
+        "link": "/goshandbook/prep/infinito-ks-2.html"
     },
     {
-        "name_pesticides": "Искра Золотая, ТАБ"
+        "name_pesticides": "Ирбис 100, КЭ (АГРус)",
+        "link": "/goshandbook/prep/irbis-100-ke-(agrus).html"
     },
     {
-        "name_pesticides": "Искра, ТАБ"
+        "name_pesticides": "Ирбис, ЭМВ",
+        "link": "/goshandbook/prep/irbis-emv-2.html"
     },
     {
-        "name_pesticides": "Кабрио Топ, ВДГ"
+        "name_pesticides": "Искра Золотая Просто, ВР",
+        "link": "/goshandbook/prep/iskra-zolotaya-prosto-vr-2.html"
     },
     {
-        "name_pesticides": "Кагатник, ВРК"
+        "name_pesticides": "Искра Золотая, ТАБ",
+        "link": "/goshandbook/prep/iskra-zolotaya-tab-2.html"
     },
     {
-        "name_pesticides": "Казим, КС"
+        "name_pesticides": "Искра, ТАБ",
+        "link": "/goshandbook/prep/iskra-tab-3.html"
     },
     {
-        "name_pesticides": "Кайен Турбо, МД"
+        "name_pesticides": "Кабрио Топ, ВДГ",
+        "link": "/goshandbook/prep/kabrio-top-vdg-2.html"
     },
     {
-        "name_pesticides": "Кайзер, КС"
+        "name_pesticides": "Кагатник, ВРК",
+        "link": "/goshandbook/prep/kagatnik-vrk-3.html"
     },
     {
-        "name_pesticides": "Кайман, ВР"
+        "name_pesticides": "Казим, КС",
+        "link": "/goshandbook/prep/kazim-ks-2.html"
     },
     {
-        "name_pesticides": "Калаш, ВРК"
+        "name_pesticides": "Кайен Турбо, МД",
+        "link": "/goshandbook/prep/kayen-turbo-md.html"
     },
     {
-        "name_pesticides": "Калибр Голд, ВДГ"
+        "name_pesticides": "Кайзер, КС",
+        "link": "/goshandbook/prep/kayzer-ks-2.html"
     },
     {
-        "name_pesticides": "Калибр Дуо, ВДГ"
+        "name_pesticides": "Кайман, ВР",
+        "link": "/goshandbook/prep/kayman-vr-4.html"
     },
     {
-        "name_pesticides": "Калина, КС"
+        "name_pesticides": "Калаш, ВРК",
+        "link": "/goshandbook/prep/kalash-vrk-4.html"
     },
     {
-        "name_pesticides": "Каллисто, СК"
+        "name_pesticides": "Калибр Голд, ВДГ",
+        "link": "/goshandbook/prep/kalibr-gold-vdg.html"
     },
     {
-        "name_pesticides": "Камелин, КЭ"
+        "name_pesticides": "Калибр Дуо, ВДГ",
+        "link": "/goshandbook/prep/kalibr-duo-vdg-2.html"
     },
     {
-        "name_pesticides": "Камертон Ультра, СП"
+        "name_pesticides": "Калина, КС",
+        "link": "/goshandbook/prep/kalina-ks-2.html"
     },
     {
-        "name_pesticides": "Канонир Дуо, КС"
+        "name_pesticides": "Каллисто, СК",
+        "link": "/goshandbook/prep/kallisto-sk-2.html"
     },
     {
-        "name_pesticides": "Кантор, ККР"
+        "name_pesticides": "Камелин, КЭ",
+        "link": "/goshandbook/prep/kamelin-ke.html"
     },
     {
-        "name_pesticides": "Капелла, МЭ"
+        "name_pesticides": "Камертон Ультра, СП",
+        "link": "/goshandbook/prep/kamerton-ultra-sp-2.html"
     },
     {
-        "name_pesticides": "Капрено, КС"
+        "name_pesticides": "Канонир Дуо, КС",
+        "link": "/goshandbook/prep/kanonir-duo-ks-2.html"
     },
     {
-        "name_pesticides": "Каптора, ВРК"
+        "name_pesticides": "Кантор, ККР",
+        "link": "/goshandbook/prep/kantor-kkr.html"
     },
     {
-        "name_pesticides": "Карамба Дуо, КЭ"
+        "name_pesticides": "Капелла, МЭ",
+        "link": "/goshandbook/prep/kapella-me.html"
     },
     {
-        "name_pesticides": "Карамболь, СП"
+        "name_pesticides": "Капрено, КС",
+        "link": "/goshandbook/prep/kapreno-ks.html"
     },
     {
-        "name_pesticides": "Каратошанс, КЭ"
+        "name_pesticides": "Каптора, ВРК",
+        "link": "/goshandbook/prep/kaptora-vrk.html"
     },
     {
-        "name_pesticides": "Карачар, КЭ"
+        "name_pesticides": "Карамба Дуо, КЭ",
+        "link": "/goshandbook/prep/karamba-duo-ke-2.html"
     },
     {
-        "name_pesticides": "Карбонадо, ТПС"
+        "name_pesticides": "Карамболь, СП",
+        "link": "/goshandbook/prep/karambol-sp-4.html"
     },
     {
-        "name_pesticides": "Карбоцин, ТАБ"
+        "name_pesticides": "Каратошанс, КЭ",
+        "link": "/goshandbook/prep/karatoshans-ke-2.html"
     },
     {
-        "name_pesticides": "Карзибел, КС"
+        "name_pesticides": "Карачар, КЭ",
+        "link": "/goshandbook/prep/karachar-ke-2.html"
     },
     {
-        "name_pesticides": "Кари-Макс, СП"
+        "name_pesticides": "Карбонадо, ТПС",
+        "link": "/goshandbook/prep/karbonado-tps.html"
     },
     {
-        "name_pesticides": "Кариал Флекс, ВДГ"
+        "name_pesticides": "Карбоцин, ТАБ",
+        "link": "/goshandbook/prep/karbocin-tab.html"
     },
     {
-        "name_pesticides": "Карибу С, ВДГ"
+        "name_pesticides": "Карзибел, КС",
+        "link": "/goshandbook/prep/karzibel-ks.html"
     },
     {
-        "name_pesticides": "КариПро, ВДГ"
+        "name_pesticides": "Кари-Макс, СП",
+        "link": "/goshandbook/prep/kari-maks-sp-3.html"
     },
     {
-        "name_pesticides": "Каришанс, ВДГ"
+        "name_pesticides": "Кариал Флекс, ВДГ",
+        "link": "/goshandbook/prep/karial-fleks-vdg.html"
     },
     {
-        "name_pesticides": "Карповирусин, СК"
+        "name_pesticides": "Карибу С, ВДГ",
+        "link": "/goshandbook/prep/karibu-s-vdg.html"
     },
     {
-        "name_pesticides": "Картель, ВДГ"
+        "name_pesticides": "КариПро, ВДГ",
+        "link": "/goshandbook/prep/karipro-vdg.html"
     },
     {
-        "name_pesticides": "Каспер, ВРК"
+        "name_pesticides": "Каришанс, ВДГ",
+        "link": "/goshandbook/prep/karishans-vdg-2.html"
     },
     {
-        "name_pesticides": "Касумин 2Л, ВР"
+        "name_pesticides": "Карповирусин, СК",
+        "link": "/goshandbook/prep/karpovirusin-sk-2.html"
     },
     {
-        "name_pesticides": "Квад-Глоб, ВР"
+        "name_pesticides": "Картель, ВДГ",
+        "link": "/goshandbook/prep/kartel-vdg.html"
     },
     {
-        "name_pesticides": "Квартет, КС"
+        "name_pesticides": "Каспер, ВРК",
+        "link": "/goshandbook/prep/kasper-vrk.html"
     },
     {
-        "name_pesticides": "Квестор Форте, КС"
+        "name_pesticides": "Касумин 2Л, ВР",
+        "link": "/goshandbook/prep/kasumin-2l-vr.html"
     },
     {
-        "name_pesticides": "Квестор, КС"
+        "name_pesticides": "Квад-Глоб, ВР",
+        "link": "/goshandbook/prep/kvad-glob-vr.html"
     },
     {
-        "name_pesticides": "Квикстеп, МКЭ"
+        "name_pesticides": "Квартет, КС",
+        "link": "/goshandbook/prep/kvartet-ks-3.html"
     },
     {
-        "name_pesticides": "Квикфос, ТАБ"
+        "name_pesticides": "Квестор Форте, КС",
+        "link": "/goshandbook/prep/kvestor-forte-ks.html"
     },
     {
-        "name_pesticides": "Кентавр, ВДГ"
+        "name_pesticides": "Квестор, КС",
+        "link": "/goshandbook/prep/kvestor-ks-2.html"
     },
     {
-        "name_pesticides": "Кидека, КС"
+        "name_pesticides": "Квикстеп, МКЭ",
+        "link": "/goshandbook/prep/kvikstep-mke-3.html"
     },
     {
-        "name_pesticides": "Кинг Комби, КС"
+        "name_pesticides": "Квикфос, ТАБ",
+        "link": "/goshandbook/prep/kvikfos-tab-3.html"
     },
     {
-        "name_pesticides": "Кинмикс, КЭ"
+        "name_pesticides": "Кентавр, ВДГ",
+        "link": "/goshandbook/prep/kentavr-vdg-2.html"
     },
     {
-        "name_pesticides": "Кинто Плюс, КС"
+        "name_pesticides": "Кидека, КС",
+        "link": "/goshandbook/prep/kideka-ks.html"
     },
     {
-        "name_pesticides": "Кинфос, КЭ"
+        "name_pesticides": "Кинг Комби, КС",
+        "link": "/goshandbook/prep/king-kombi-ks-5.html"
     },
     {
-        "name_pesticides": "Кирай, ВР"
+        "name_pesticides": "Кинмикс, КЭ",
+        "link": "/goshandbook/prep/kinmiks-ke-2.html"
     },
     {
-        "name_pesticides": "Клад, КС"
+        "name_pesticides": "Кинто Плюс, КС",
+        "link": "/goshandbook/prep/kinto-plyus-ks-2.html"
     },
     {
-        "name_pesticides": "Клегал, МКЭ"
+        "name_pesticides": "Кинфос, КЭ",
+        "link": "/goshandbook/prep/kinfos-ke-3.html"
     },
     {
-        "name_pesticides": "Клео, ВДГ"
+        "name_pesticides": "Кирай, ВР",
+        "link": "/goshandbook/prep/kiray-vr-3.html"
     },
     {
-        "name_pesticides": "Клерат, Г"
+        "name_pesticides": "Клад, КС",
+        "link": "/goshandbook/prep/klad-ks-2.html"
     },
     {
-        "name_pesticides": "Клетодим Плюс Микс, КЭ"
+        "name_pesticides": "Клегал, МКЭ",
+        "link": "/goshandbook/prep/klegal-mke.html"
     },
     {
-        "name_pesticides": "Клетошанс, КЭ"
+        "name_pesticides": "Клео, ВДГ",
+        "link": "/goshandbook/prep/kleo-vdg-3.html"
     },
     {
-        "name_pesticides": "Климат, серная дымовая шашка"
+        "name_pesticides": "Клерат, Г",
+        "link": "/goshandbook/prep/klerat-g-2.html"
     },
     {
-        "name_pesticides": "Клинч, ВДГ"
+        "name_pesticides": "Клетодим Плюс Микс, КЭ",
+        "link": "/goshandbook/prep/kletodim-plyus-miks-ke-2.html"
     },
     {
-        "name_pesticides": "Клонрин, КЭ"
+        "name_pesticides": "Клетошанс, КЭ",
+        "link": "/goshandbook/prep/kletoshans-ke-2.html"
     },
     {
-        "name_pesticides": "Клопэфир, КЭ"
+        "name_pesticides": "Климат, серная дымовая шашка",
+        "link": "/goshandbook/prep/klimat-sernaya-dymovaya-shashka.html"
     },
     {
-        "name_pesticides": "Клорит, ВР"
+        "name_pesticides": "Клинч, ВДГ",
+        "link": "/goshandbook/prep/klinch-vdg.html"
     },
     {
-        "name_pesticides": "Клотиамет Энерджи, КС"
+        "name_pesticides": "Клонрин, КЭ",
+        "link": "/goshandbook/prep/klonrin-ke.html"
     },
     {
-        "name_pesticides": "Клотиамет-С, КС"
+        "name_pesticides": "Клопэфир, КЭ",
+        "link": "/goshandbook/prep/klopefir-ke-2.html"
     },
     {
-        "name_pesticides": "Клубнещит, КС"
+        "name_pesticides": "Клорит, ВР",
+        "link": "/goshandbook/prep/klorit-vr.html"
     },
     {
-        "name_pesticides": "Кобальт, КМЭ"
+        "name_pesticides": "Клотиамет Энерджи, КС",
+        "link": "/goshandbook/prep/klotiamet-enerdji-ks.html"
     },
     {
-        "name_pesticides": "Когорта, ВГР"
+        "name_pesticides": "Клотиамет-С, КС",
+        "link": "/goshandbook/prep/klotiamet-s-ks.html"
     },
     {
-        "name_pesticides": "Койот, КС"
+        "name_pesticides": "Клубнещит, КС",
+        "link": "/goshandbook/prep/klubneshchit-ks.html"
     },
     {
-        "name_pesticides": "Колосаль Про, КМЭ"
+        "name_pesticides": "Кобальт, КМЭ",
+        "link": "/goshandbook/prep/kobalt-kme.html"
     },
     {
-        "name_pesticides": "Колфуго Супер, КС"
+        "name_pesticides": "Когорта, ВГР",
+        "link": "/goshandbook/prep/kogorta-vgr.html"
     },
     {
-        "name_pesticides": "Командор, ВРК"
+        "name_pesticides": "Койот, КС",
+        "link": "/goshandbook/prep/koyot-ks.html"
     },
     {
-        "name_pesticides": "Комиссар, КЭ"
+        "name_pesticides": "Колосаль Про, КМЭ",
+        "link": "/goshandbook/prep/kolosal-pro-kme-3.html"
     },
     {
-        "name_pesticides": "Комманд, КЭ"
+        "name_pesticides": "Колфуго Супер, КС",
+        "link": "/goshandbook/prep/kolfugo-super-ks-2.html"
     },
     {
-        "name_pesticides": "Комрад, КЭ"
+        "name_pesticides": "Командор, ВРК",
+        "link": "/goshandbook/prep/komandor-vrk-2.html"
     },
     {
-        "name_pesticides": "Конвент, КС"
+        "name_pesticides": "Комиссар, КЭ",
+        "link": "/goshandbook/prep/komissar-ke-2.html"
     },
     {
-        "name_pesticides": "Кондор Форте, МД"
+        "name_pesticides": "Комманд, КЭ",
+        "link": "/goshandbook/prep/kommand-ke-3.html"
     },
     {
-        "name_pesticides": "Конрад, КС"
+        "name_pesticides": "Комрад, КЭ",
+        "link": "/goshandbook/prep/komrad-ke-2.html"
     },
     {
-        "name_pesticides": "Консенто, КС"
+        "name_pesticides": "Конвент, КС",
+        "link": "/goshandbook/prep/konvent-ks.html"
     },
     {
-        "name_pesticides": "Контадор Макси, КС"
+        "name_pesticides": "Кондор Форте, МД",
+        "link": "/goshandbook/prep/kondor-forte-md.html"
     },
     {
-        "name_pesticides": "Контакт, ВДГ"
+        "name_pesticides": "Конрад, КС",
+        "link": "/goshandbook/prep/konrad-ks-3.html"
     },
     {
-        "name_pesticides": "Конфиделин Супер, ВДГ"
+        "name_pesticides": "Консенто, КС",
+        "link": "/goshandbook/prep/konsento-ks.html"
     },
     {
-        "name_pesticides": "Концепт, МД"
+        "name_pesticides": "Контадор Макси, КС",
+        "link": "/goshandbook/prep/kontador-maksi-ks-2.html"
     },
     {
-        "name_pesticides": "Кораген, КС"
+        "name_pesticides": "Контакт, ВДГ",
+        "link": "/goshandbook/prep/kontakt-vdg-2.html"
     },
     {
-        "name_pesticides": "Корадо, ВРК"
+        "name_pesticides": "Конфибой, ВРК",
+        "link": "/goshandbook/prep/konfiboy-vrk-2.html"
     },
     {
-        "name_pesticides": "Кордус Форте, ВДГ"
+        "name_pesticides": "Конфидор Экстра, ВДГ",
+        "link": "/goshandbook/prep/konfidor-ekstra-vdg-3.html"
     },
     {
-        "name_pesticides": "Коренастый, ВК"
+        "name_pesticides": "Копфорс Экстра, ВДГ",
+        "link": "/goshandbook/prep/kopfors-ekstra-vdg.html"
     },
     {
-        "name_pesticides": "Корень Супер, ВРГ"
+        "name_pesticides": "Корадо Лайт, КС",
+        "link": "/goshandbook/prep/korado-layt-ks.html"
     },
     {
-        "name_pesticides": "Корморан, КЭ"
+        "name_pesticides": "Кордус Плюс, ВДГ",
+        "link": "/goshandbook/prep/kordus-plyus-vdg-2.html"
     },
     {
-        "name_pesticides": "Корнеги, СЭ"
+        "name_pesticides": "Кордус, ВДГ",
+        "link": "/goshandbook/prep/kordus-vdg-2.html"
     },
     {
-        "name_pesticides": "Корнерост М, КРП"
+        "name_pesticides": "Коренник, СП",
+        "link": "/goshandbook/prep/korennik-sp.html"
     },
     {
-        "name_pesticides": "Корникос, КС"
+        "name_pesticides": "Корлеоне, КЭ",
+        "link": "/goshandbook/prep/korleone-ke.html"
     },
     {
-        "name_pesticides": "Корректор, ВР"
+        "name_pesticides": "Корневин, СП",
+        "link": "/goshandbook/prep/kornevin-sp-3.html"
     },
     {
-        "name_pesticides": "Корсар Супер, ВРК"
+        "name_pesticides": "Корней, СП",
+        "link": "/goshandbook/prep/korney-sp-2.html"
     },
     {
-        "name_pesticides": "Кортлис, ВРК"
+        "name_pesticides": "Корнестим, СП",
+        "link": "/goshandbook/prep/kornestim-sp.html"
     },
     {
-        "name_pesticides": "Косайд 2000, ВДГ"
+        "name_pesticides": "Корнкордия, МД",
+        "link": "/goshandbook/prep/kornkordiya-md-2.html"
     },
     {
-        "name_pesticides": "Костандо, КЭ"
+        "name_pesticides": "Коррида, ВДГ",
+        "link": "/goshandbook/prep/korrida-vdg-3.html"
     },
     {
-        "name_pesticides": "Кратерр, КС"
+        "name_pesticides": "Корсар, ВРК",
+        "link": "/goshandbook/prep/korsar-vrk-3.html"
     },
     {
-        "name_pesticides": "Кредо, СК"
+        "name_pesticides": "Корум, ВРК",
+        "link": "/goshandbook/prep/korum-vrk-2.html"
     },
     {
-        "name_pesticides": "Крезаксин, ВДГ"
+        "name_pesticides": "Косайд Супер, ВДГ",
+        "link": "/goshandbook/prep/kosayd-super-vdg.html"
     },
     {
-        "name_pesticides": "Крезолан, ВР"
+        "name_pesticides": "Кракен, ВРК",
+        "link": "/goshandbook/prep/kraken-vrk.html"
     },
     {
-        "name_pesticides": "Крепень, ВР"
+        "name_pesticides": "Крафт, ВЭ",
+        "link": "/goshandbook/prep/kraft-ve-2.html"
     },
     {
-        "name_pesticides": "Крепошанс, МД"
+        "name_pesticides": "Крёз, КС",
+        "link": "/goshandbook/prep/krez-ks-2.html"
     },
     {
-        "name_pesticides": "Крестраж, КС"
+        "name_pesticides": "Крезацин, КРП, ТАБ",
+        "link": "/goshandbook/prep/krezacin-krp-tab-2.html"
     },
     {
-        "name_pesticides": "Кристалл, КС"
+        "name_pesticides": "Крейцер, ВДГ",
+        "link": "/goshandbook/prep/kreycer-vdg.html"
     },
     {
-        "name_pesticides": "Кротомет, Г"
+        "name_pesticides": "Крепень, ВР",
+        "link": "/goshandbook/prep/krepen-vr-2.html"
     },
     {
-        "name_pesticides": "Круйзер Рапс, КС"
+        "name_pesticides": "Крептон, КРП, ВРКАП",
+        "link": "/goshandbook/prep/krepton-krp-vrkap.html"
     },
     {
-        "name_pesticides": "Круйзер, КС"
+        "name_pesticides": "Кригер, ВР",
+        "link": "/goshandbook/prep/kriger-vr.html"
     },
     {
-        "name_pesticides": "Круйзер, КС (600 г/л)"
+        "name_pesticides": "Кроприш, КЭ",
+        "link": "/goshandbook/prep/kroprish-ke.html"
     },
     {
-        "name_pesticides": "Ксиор, СК"
+        "name_pesticides": "Кругозор, КС",
+        "link": "/goshandbook/prep/krugozor-ks-2.html"
     },
     {
-        "name_pesticides": "Кумир, СК"
+        "name_pesticides": "Круйзер Рапс, КС фунгицид",
+        "link": "/goshandbook/prep/kruyzer-raps-ks-fungicid-2.html"
     },
     {
-        "name_pesticides": "Кунгфу Супер, КС"
+        "name_pesticides": "Круйзер, КС (350 г/л)",
+        "link": "/goshandbook/prep/kruyzer-ks-(350-g/l).html"
     },
     {
-        "name_pesticides": "Купаж, ВДГ"
+        "name_pesticides": "Круцифер, ВР",
+        "link": "/goshandbook/prep/krucifer-vr-2.html"
     },
     {
-        "name_pesticides": "Куприкол, КОЛР"
+        "name_pesticides": "Кудос, ВДГ",
+        "link": "/goshandbook/prep/kudos-vdg.html"
     },
     {
-        "name_pesticides": "Купролюкс, СП"
+        "name_pesticides": "Кумулус ДФ, ВДГ",
+        "link": "/goshandbook/prep/kumulus-df-vdg-2.html"
     },
     {
-        "name_pesticides": "Курзат Р, СП"
+        "name_pesticides": "Кунгфу, КЭ",
+        "link": "/goshandbook/prep/kungfu-ke-2.html"
     },
     {
-        "name_pesticides": "Курсар, ВР"
+        "name_pesticides": "Купидон Голд, СП",
+        "link": "/goshandbook/prep/kupidon-gold-sp.html"
     },
     {
-        "name_pesticides": "Кэнсел, КС"
+        "name_pesticides": "Купроксат, КС",
+        "link": "/goshandbook/prep/kuproksat-ks-2.html"
     },
     {
-        "name_pesticides": "Лабрадор, КЭ"
+        "name_pesticides": "Курант, ГР",
+        "link": "/goshandbook/prep/kurant-gr.html"
     },
     {
-        "name_pesticides": "Ладон Про, КЭ"
+        "name_pesticides": "Куррито, КС",
+        "link": "/goshandbook/prep/kurrito-ks.html"
     },
     {
-        "name_pesticides": "Лазурит Т, СП"
+        "name_pesticides": "Кустодия, КС",
+        "link": "/goshandbook/prep/kustodiya-ks.html"
     },
     {
-        "name_pesticides": "Лазурит, СП"
+        "name_pesticides": "Лабрадор, КЭ",
+        "link": "/goshandbook/prep/labrador-ke.html"
     },
     {
-        "name_pesticides": "Лайфлайн, ВР"
+        "name_pesticides": "Ладон Про, КЭ",
+        "link": "/goshandbook/prep/ladon-pro-ke-2.html"
     },
     {
-        "name_pesticides": "Лама, КЭ"
+        "name_pesticides": "Лазурит Т, СП",
+        "link": "/goshandbook/prep/lazurit-t-sp-3.html"
     },
     {
-        "name_pesticides": "Ламадор, КС"
+        "name_pesticides": "Лазурит, СП",
+        "link": "/goshandbook/prep/lazurit-sp-3.html"
     },
     {
-        "name_pesticides": "Ланкастер, КЭ"
+        "name_pesticides": "Лайфлайн, ВР",
+        "link": "/goshandbook/prep/layflayn-vr-2.html"
     },
     {
-        "name_pesticides": "Ланта, КС"
+        "name_pesticides": "Лама, КЭ",
+        "link": "/goshandbook/prep/lama-ke.html"
     },
     {
-        "name_pesticides": "Ланцея, КМЭ"
+        "name_pesticides": "Ламадор, КС",
+        "link": "/goshandbook/prep/lamador-ks-2.html"
     },
     {
-        "name_pesticides": "Ларен Про, ВДГ"
+        "name_pesticides": "Ланкастер, КЭ",
+        "link": "/goshandbook/prep/lankaster-ke-2.html"
     },
     {
-        "name_pesticides": "Ларимар, ТКС"
+        "name_pesticides": "Ланта, КС",
+        "link": "/goshandbook/prep/lanta-ks-2.html"
     },
     {
-        "name_pesticides": "Лассо, КЭ"
+        "name_pesticides": "Ланцея, КМЭ",
+        "link": "/goshandbook/prep/lanceya-kme.html"
     },
     {
-        "name_pesticides": "Ластик Экстра, КЭ"
+        "name_pesticides": "Ларен Про, ВДГ",
+        "link": "/goshandbook/prep/laren-pro-vdg-2.html"
     },
     {
-        "name_pesticides": "Левират, КЭ"
+        "name_pesticides": "Ларимар, ТКС",
+        "link": "/goshandbook/prep/larimar-tks-2.html"
     },
     {
-        "name_pesticides": "Леггеро Форте, КЭ"
+        "name_pesticides": "Лассо, КЭ",
+        "link": "/goshandbook/prep/lasso-ke-2.html"
     },
     {
-        "name_pesticides": "Легион Комби, КЭ"
+        "name_pesticides": "Ластик Экстра, КЭ",
+        "link": "/goshandbook/prep/lastik-ekstra-ke-5.html"
     },
     {
-        "name_pesticides": "Лемур, КЭ"
+        "name_pesticides": "Левират, КЭ",
+        "link": "/goshandbook/prep/levirat-ke-4.html"
     },
     {
-        "name_pesticides": "Лепидобактоцид, Ж"
+        "name_pesticides": "Леггеро Форте, КЭ",
+        "link": "/goshandbook/prep/leggero-forte-ke.html"
     },
     {
-        "name_pesticides": "Лепидоцид, СК-М"
+        "name_pesticides": "Легион Комби, КЭ",
+        "link": "/goshandbook/prep/legion-kombi-ke-3.html"
     },
     {
-        "name_pesticides": "Лерашанс, ВР"
+        "name_pesticides": "Лемур, КЭ",
+        "link": "/goshandbook/prep/lemur-ke-2.html"
     },
     {
-        "name_pesticides": "Либертадор, СК"
+        "name_pesticides": "Лепидобактоцид, Ж",
+        "link": "/goshandbook/prep/lepidobaktocid-j-2.html"
     },
     {
-        "name_pesticides": "Лидер, КЭ"
+        "name_pesticides": "Лепидоцид, СК-М",
+        "link": "/goshandbook/prep/lepidocid-sk-m-2.html"
     },
     {
-        "name_pesticides": "Линтур, ВДГ"
+        "name_pesticides": "Лерашанс, ВР",
+        "link": "/goshandbook/prep/lerashans-vr.html"
     },
     {
-        "name_pesticides": "Лирум, СК"
+        "name_pesticides": "Либертадор, СК",
+        "link": "/goshandbook/prep/libertador-sk.html"
     },
     {
-        "name_pesticides": "Логано, КС"
+        "name_pesticides": "Лидер, КЭ",
+        "link": "/goshandbook/prep/lider-ke-2.html"
     },
     {
-        "name_pesticides": "Локустин, КС"
+        "name_pesticides": "Линтур, ВДГ",
+        "link": "/goshandbook/prep/lintur-vdg-2.html"
     },
     {
-        "name_pesticides": "Лонтерр, ВДГ"
+        "name_pesticides": "Лирум, СК",
+        "link": "/goshandbook/prep/lirum-sk.html"
     },
     {
-        "name_pesticides": "Лонтрел-300, ВР"
+        "name_pesticides": "Логано, КС",
+        "link": "/goshandbook/prep/logano-ks.html"
     },
     {
-        "name_pesticides": "Лост, ВР"
+        "name_pesticides": "Локустин, КС",
+        "link": "/goshandbook/prep/lokustin-ks.html"
     },
     {
-        "name_pesticides": "Луна Экспириенс, КС"
+        "name_pesticides": "Лонтерр, ВДГ",
+        "link": "/goshandbook/prep/lonterr-vdg-2.html"
     },
     {
-        "name_pesticides": "Люмакс, СЭ"
+        "name_pesticides": "Лонтрел-300, ВР",
+        "link": "/goshandbook/prep/lontrel-300-vr-2.html"
     },
     {
-        "name_pesticides": "Люмисена, ТС"
+        "name_pesticides": "Лост, ВР",
+        "link": "/goshandbook/prep/lost-vr-3.html"
     },
     {
-        "name_pesticides": "Люфокс, КЭ"
+        "name_pesticides": "Луна Экспириенс, КС",
+        "link": "/goshandbook/prep/luna-ekspiriens-ks.html"
     },
     {
-        "name_pesticides": "Мабет, КЭ"
+        "name_pesticides": "Люмакс, СЭ",
+        "link": "/goshandbook/prep/lyumaks-se-2.html"
     },
     {
-        "name_pesticides": "Маганик, КЭ"
+        "name_pesticides": "Люмисена, ТС",
+        "link": "/goshandbook/prep/lyumisena-ts.html"
     },
     {
-        "name_pesticides": "Магнат Тотал, КС"
+        "name_pesticides": "Люфокс, КЭ",
+        "link": "/goshandbook/prep/lyufoks-ke-2.html"
     },
     {
-        "name_pesticides": "Магнифос, ТАБ"
+        "name_pesticides": "Мабет, КЭ",
+        "link": "/goshandbook/prep/mabet-ke.html"
     },
     {
-        "name_pesticides": "Магнум, ВДГ"
+        "name_pesticides": "Маганик, КЭ",
+        "link": "/goshandbook/prep/maganik-ke.html"
     },
     {
-        "name_pesticides": "Магтоксин, ТАБ"
+        "name_pesticides": "Магнат Тотал, КС",
+        "link": "/goshandbook/prep/magnat-total-ks.html"
     },
     {
-        "name_pesticides": "МайсТер Пауэр, МД"
+        "name_pesticides": "Магнифос, ТАБ",
+        "link": "/goshandbook/prep/magnifos-tab.html"
     },
     {
-        "name_pesticides": "Макси Злак, КЭ"
+        "name_pesticides": "Магнум, ВДГ",
+        "link": "/goshandbook/prep/magnum-vdg-2.html"
     },
     {
-        "name_pesticides": "Максим Адванс, КС"
+        "name_pesticides": "Магтоксин, ТАБ",
+        "link": "/goshandbook/prep/magtoksin-tab-2.html"
     },
     {
-        "name_pesticides": "Максим Кватро, КС"
+        "name_pesticides": "МайсТер Пауэр, МД",
+        "link": "/goshandbook/prep/mayster-pauer-md-2.html"
     },
     {
-        "name_pesticides": "Максим Форте, КС"
+        "name_pesticides": "Макси Злак, КЭ",
+        "link": "/goshandbook/prep/maksi-zlak-ke-2.html"
     },
     {
-        "name_pesticides": "Максим, КС"
+        "name_pesticides": "Максим Адванс, КС",
+        "link": "/goshandbook/prep/maksim-advans-ks-2.html"
     },
     {
-        "name_pesticides": "Малахит, ВДГ"
+        "name_pesticides": "Максим Кватро, КС",
+        "link": "/goshandbook/prep/maksim-kvatro-ks.html"
     },
     {
-        "name_pesticides": "Малибу, ВДГ"
+        "name_pesticides": "Максим Форте, КС",
+        "link": "/goshandbook/prep/maksim-forte-ks-2.html"
     },
     {
-        "name_pesticides": "Манзат, ВДГ"
+        "name_pesticides": "Максим, КС",
+        "link": "/goshandbook/prep/maksim-ks-3.html"
     },
     {
-        "name_pesticides": "Манкодим, СП"
+        "name_pesticides": "Малахит, ВДГ",
+        "link": "/goshandbook/prep/malahit-vdg.html"
     },
     {
-        "name_pesticides": "Мантра, ВРК"
+        "name_pesticides": "Малвин, ВДГ",
+        "link": "/goshandbook/prep/malvin-vdg.html"
     },
     {
-        "name_pesticides": "Мариус, КС"
+        "name_pesticides": "Мамба, КЭ",
+        "link": "/goshandbook/prep/mamba-ke-2.html"
     },
     {
-        "name_pesticides": "Масай, СП"
+        "name_pesticides": "Манифест, ВДГ",
+        "link": "/goshandbook/prep/manifest-vdg.html"
     },
     {
-        "name_pesticides": "МатринБио БАУ, ВР"
+        "name_pesticides": "Манкоцеб, СП",
+        "link": "/goshandbook/prep/mankoceb-sp-2.html"
     },
     {
-        "name_pesticides": "Матрица Роста, ВРК"
+        "name_pesticides": "Манфил, СП",
+        "link": "/goshandbook/prep/manfil-sp-2.html"
     },
     {
-        "name_pesticides": "Маэстро, КЭ"
+        "name_pesticides": "Маркос, ВР",
+        "link": "/goshandbook/prep/markos-vr.html"
     },
     {
-        "name_pesticides": "Мегаполис, ВР"
+        "name_pesticides": "Мастеркоп, КС",
+        "link": "/goshandbook/prep/masterkop-ks.html"
     },
     {
-        "name_pesticides": "Медвегон, Г"
+        "name_pesticides": "МатринБио, ВР",
+        "link": "/goshandbook/prep/matrinbio-vr.html"
     },
     {
-        "name_pesticides": "Медветокс, Г"
+        "name_pesticides": "Матч, КЭ",
+        "link": "/goshandbook/prep/match-ke-3.html"
     },
     {
-        "name_pesticides": "Медея, МЭ"
+        "name_pesticides": "Мегалит, ВР",
+        "link": "/goshandbook/prep/megalit-vr.html"
     },
     {
-        "name_pesticides": "Мезокорн, КС"
+        "name_pesticides": "Мегаполис, ВР",
+        "link": "/goshandbook/prep/megapolis-vr-2.html"
     },
     {
-        "name_pesticides": "Мекар, МЭ"
+        "name_pesticides": "Медветокс Форте, Г",
+        "link": "/goshandbook/prep/medvetoks-forte-g.html"
     },
     {
-        "name_pesticides": "Мелион, КС"
+        "name_pesticides": "Медея, МЭ",
+        "link": "/goshandbook/prep/medeya-me-2.html"
     },
     {
-        "name_pesticides": "Меридиан, ВР"
+        "name_pesticides": "Медоуз, МД",
+        "link": "/goshandbook/prep/medouz-md.html"
     },
     {
-        "name_pesticides": "Мерлин, ВДГ"
+        "name_pesticides": "Меис, КС",
+        "link": "/goshandbook/prep/meis-ks.html"
     },
     {
-        "name_pesticides": "Мессер, МЭ"
+        "name_pesticides": "Мелафен, ВР",
+        "link": "/goshandbook/prep/melafen-vr-3.html"
     },
     {
-        "name_pesticides": "Метабактерин, СП"
+        "name_pesticides": "Мелория, КС",
+        "link": "/goshandbook/prep/meloriya-ks-2.html"
     },
     {
-        "name_pesticides": "Метавайт, Ж"
+        "name_pesticides": "Мерлин Флекс, КС",
+        "link": "/goshandbook/prep/merlin-fleks-ks.html"
     },
     {
-        "name_pesticides": "МетАлт, ВДГ"
+        "name_pesticides": "Мерпан, СП",
+        "link": "/goshandbook/prep/merpan-sp-2.html"
     },
     {
-        "name_pesticides": "Метамир, КС"
+        "name_pesticides": "Мессидор, КС",
+        "link": "/goshandbook/prep/messidor-ks.html"
     },
     {
-        "name_pesticides": "Метарон, ВДГ"
+        "name_pesticides": "Метабром-РФО, Газ",
+        "link": "/goshandbook/prep/metabrom-rfo-gaz-5.html"
     },
     {
-        "name_pesticides": "Метафол, СК"
+        "name_pesticides": "Метаксил, СП",
+        "link": "/goshandbook/prep/metaksil-sp-5.html"
     },
     {
-        "name_pesticides": "Метеор, СП"
+        "name_pesticides": "Метамил МЦ, ВДГ",
+        "link": "/goshandbook/prep/metamil-mc-vdg-3.html"
     },
     {
-        "name_pesticides": "Метметил, ВДГ"
+        "name_pesticides": "Метаризин, Ж",
+        "link": "/goshandbook/prep/metarizin-j.html"
     },
     {
-        "name_pesticides": "Метомакс, КС"
+        "name_pesticides": "Метас, ВР",
+        "link": "/goshandbook/prep/metas-vr-3.html"
     },
     {
-        "name_pesticides": "Метрифар 70, ВГ"
+        "name_pesticides": "Меташанс, СП",
+        "link": "/goshandbook/prep/metashans-sp-2.html"
     },
     {
-        "name_pesticides": "Мидас, СЭ"
+        "name_pesticides": "Меткий,  МД",
+        "link": "/goshandbook/prep/metkiy-md.html"
     },
     {
-        "name_pesticides": "Микромецен, ВР"
+        "name_pesticides": "Метолс, КЭ",
+        "link": "/goshandbook/prep/metols-ke-2.html"
     },
     {
-        "name_pesticides": "Миксанил, КС"
+        "name_pesticides": "Метонат, СП",
+        "link": "/goshandbook/prep/metonat-sp.html"
     },
     {
-        "name_pesticides": "Милагро Плюс, МД"
+        "name_pesticides": "Мивал-Агро, КРП",
+        "link": "/goshandbook/prep/mival-agro-krp-2.html"
     },
     {
-        "name_pesticides": "Милдикат, КС"
+        "name_pesticides": "Микозар, СП",
+        "link": "/goshandbook/prep/mikozar-sp.html"
     },
     {
-        "name_pesticides": "Милена, КС"
+        "name_pesticides": "Микротиол Специаль, ВДГ",
+        "link": "/goshandbook/prep/mikrotiol-special-vdg-2.html"
     },
     {
-        "name_pesticides": "Минхати, КС"
+        "name_pesticides": "МиксФил, КС",
+        "link": "/goshandbook/prep/miksfil-ks-2.html"
     },
     {
-        "name_pesticides": "Миравис Нео, СЭ"
+        "name_pesticides": "Милафорт, КС",
+        "link": "/goshandbook/prep/milafort-ks-2.html"
     },
     {
-        "name_pesticides": "Миравис, СК"
+        "name_pesticides": "Миледи, КС",
+        "link": "/goshandbook/prep/miledi-ks.html"
     },
     {
-        "name_pesticides": "Мистраль Топ, КС"
+        "name_pesticides": "Минотавр, ВДГ",
+        "link": "/goshandbook/prep/minotavr-vdg.html"
     },
     {
-        "name_pesticides": "Митрон, КС"
+        "name_pesticides": "Миравис Дуо, СК",
+        "link": "/goshandbook/prep/miravis-duo-sk.html"
     },
     {
-        "name_pesticides": "Мовенто Энерджи, КС"
+        "name_pesticides": "Миравис Эйс, СЭ",
+        "link": "/goshandbook/prep/miravis-eys-se.html"
     },
     {
-        "name_pesticides": "Модерн Премиум, МД"
+        "name_pesticides": "Мистерия, МЭ",
+        "link": "/goshandbook/prep/misteriya-me.html"
     },
     {
-        "name_pesticides": "Модесто Плюс, КС"
+        "name_pesticides": "Митар, ВДГ",
+        "link": "/goshandbook/prep/mitar-vdg.html"
     },
     {
-        "name_pesticides": "Модесто, КС"
+        "name_pesticides": "Миура, КЭ",
+        "link": "/goshandbook/prep/miura-ke-3.html"
     },
     {
-        "name_pesticides": "Молетокс, КЭ"
+        "name_pesticides": "Моддус, КЭ",
+        "link": "/goshandbook/prep/moddus-ke-2.html"
     },
     {
-        "name_pesticides": "Молния Экстра, КЭ"
+        "name_pesticides": "Модерн, КЭ",
+        "link": "/goshandbook/prep/modern-ke.html"
     },
     {
-        "name_pesticides": "Молоток, ВР"
+        "name_pesticides": "Модесто Плюс, КС",
+        "link": "/goshandbook/prep/modesto-plyus-ks-2.html"
     },
     {
-        "name_pesticides": "Монарх, ВДГ"
+        "name_pesticides": "Моксимэйт, СП",
+        "link": "/goshandbook/prep/moksimeyt-sp-2.html"
     },
     {
-        "name_pesticides": "Мономакс, ВР"
+        "name_pesticides": "Молния Дуо, КЭ",
+        "link": "/goshandbook/prep/molniya-duo-ke-2.html"
     },
     {
-        "name_pesticides": "Мортира, ВДГ"
+        "name_pesticides": "Молния, КЭ",
+        "link": "/goshandbook/prep/molniya-ke-3.html"
     },
     {
-        "name_pesticides": "Моспилан, РП"
+        "name_pesticides": "Момус, ВРК",
+        "link": "/goshandbook/prep/momus-vrk.html"
     },
     {
-        "name_pesticides": "Муравьин Форте, Г"
+        "name_pesticides": "Монолит, ВДГ",
+        "link": "/goshandbook/prep/monolit-vdg.html"
     },
     {
-        "name_pesticides": "Мурал, ВР"
+        "name_pesticides": "Морион, СК",
+        "link": "/goshandbook/prep/morion-sk-4.html"
     },
     {
-        "name_pesticides": "Мушкет Плюс, МД"
+        "name_pesticides": "Морторат, Г",
+        "link": "/goshandbook/prep/mortorat-g-2.html"
     },
     {
-        "name_pesticides": "Нагайна, КС"
+        "name_pesticides": "Мохофф, МКЭ",
+        "link": "/goshandbook/prep/mohoff-mke.html"
     },
     {
-        "name_pesticides": "Наношанс, ВР"
+        "name_pesticides": "Муравьин, Г",
+        "link": "/goshandbook/prep/muravin-g-2.html"
     },
     {
-        "name_pesticides": "Нарвал, КС"
+        "name_pesticides": "Мухоед, Г",
+        "link": "/goshandbook/prep/muhoed-g-3.html"
     },
     {
-        "name_pesticides": "Наутиль, ВДГ"
+        "name_pesticides": "Мэр, КС",
+        "link": "/goshandbook/prep/mer-ks.html"
     },
     {
-        "name_pesticides": "Нематофагин-Микопро, П"
+        "name_pesticides": "Нагайна, КС",
+        "link": "/goshandbook/prep/nagayna-ks.html"
     },
     {
-        "name_pesticides": "Нертус ПланетаПег, Ж"
+        "name_pesticides": "Наношанс, ВР",
+        "link": "/goshandbook/prep/nanoshans-vr-2.html"
     },
     {
-        "name_pesticides": "Никос, КС"
+        "name_pesticides": "Нарвал, КС",
+        "link": "/goshandbook/prep/narval-ks.html"
     },
     {
-        "name_pesticides": "Ниссин Экстра, МД"
+        "name_pesticides": "Наутиль, ВДГ",
+        "link": "/goshandbook/prep/nautil-vdg.html"
     },
     {
-        "name_pesticides": "Ниссоран, СК"
+        "name_pesticides": "Нематофагин-Микопро, П",
+        "link": "/goshandbook/prep/nematofagin-mikopro-p.html"
     },
     {
-        "name_pesticides": "Новацет, КЭ"
+        "name_pesticides": "Нертус ПланетаПег, Ж",
+        "link": "/goshandbook/prep/nertus-planetapeg-j.html"
     },
     {
-        "name_pesticides": "Новус-Ф, КС"
+        "name_pesticides": "Никос, КС",
+        "link": "/goshandbook/prep/nikos-ks-3.html"
     },
     {
-        "name_pesticides": "Номини, СК"
+        "name_pesticides": "Ниссин Экстра, МД",
+        "link": "/goshandbook/prep/nissin-ekstra-md.html"
     },
     {
-        "name_pesticides": "Нопасаран Ультра, КС"
+        "name_pesticides": "Ниссоран, СК",
+        "link": "/goshandbook/prep/nissoran-sk.html"
     },
     {
-        "name_pesticides": "Нор-Би, СП"
+        "name_pesticides": "Новацет, КЭ",
+        "link": "/goshandbook/prep/novacet-ke.html"
     },
     {
-        "name_pesticides": "Норвел, КЭ"
+        "name_pesticides": "Новус-Ф, КС",
+        "link": "/goshandbook/prep/novus-f-ks.html"
     },
     {
-        "name_pesticides": "НордСтрим, ВДГ"
+        "name_pesticides": "Номини, СК",
+        "link": "/goshandbook/prep/nomini-sk-2.html"
     },
     {
-        "name_pesticides": "Нунчак, КЭ"
+        "name_pesticides": "Нопасаран Ультра, КС",
+        "link": "/goshandbook/prep/nopasaran-ultra-ks.html"
     },
     {
-        "name_pesticides": "Нуримет Экстра, КЭ"
+        "name_pesticides": "Нор-Би, СП",
+        "link": "/goshandbook/prep/nor-bi-sp.html"
     },
     {
-        "name_pesticides": "Нэо, ВДГ"
+        "name_pesticides": "Норвел, КЭ",
+        "link": "/goshandbook/prep/norvel-ke-2.html"
     },
     {
-        "name_pesticides": "О!трава Доктор Харвест, ВР"
+        "name_pesticides": "НордСтрим, ВДГ",
+        "link": "/goshandbook/prep/nordstrim-vdg.html"
     },
     {
-        "name_pesticides": "Оберон Рапид, КС"
+        "name_pesticides": "Нунчак, КЭ",
+        "link": "/goshandbook/prep/nunchak-ke-2.html"
     },
     {
-        "name_pesticides": "Обстормон, ВР"
+        "name_pesticides": "Нуримет Экстра, КЭ",
+        "link": "/goshandbook/prep/nurimet-ekstra-ke.html"
     },
     {
-        "name_pesticides": "Овсюген Супер, КЭ"
+        "name_pesticides": "Нэо, ВДГ",
+        "link": "/goshandbook/prep/neo-vdg-2.html"
     },
     {
-        "name_pesticides": "Одиссей, ВГР"
+        "name_pesticides": "О!трава Доктор Харвест, ВР",
+        "link": "/goshandbook/prep/o!trava-doktor-harvest-vr.html"
     },
     {
-        "name_pesticides": "Октава, МД"
+        "name_pesticides": "Оберон Рапид, КС",
+        "link": "/goshandbook/prep/oberon-rapid-ks.html"
     },
     {
-        "name_pesticides": "Октапон-супер, КЭ"
+        "name_pesticides": "Обстормон, ВР",
+        "link": "/goshandbook/prep/obstormon-vr.html"
     },
     {
-        "name_pesticides": "Октиген, КЭ"
+        "name_pesticides": "Овсюген Супер, КЭ",
+        "link": "/goshandbook/prep/ovsyugen-super-ke-3.html"
     },
     {
-        "name_pesticides": "Омайт, ВЭ"
+        "name_pesticides": "Одиссей, ВГР",
+        "link": "/goshandbook/prep/odissey-vgr.html"
     },
     {
-        "name_pesticides": "Оперкот, КЭ"
+        "name_pesticides": "Октава, МД",
+        "link": "/goshandbook/prep/oktava-md.html"
     },
     {
-        "name_pesticides": "Оплот, ВСК"
+        "name_pesticides": "Октапон-супер, КЭ",
+        "link": "/goshandbook/prep/oktapon-super-ke.html"
     },
     {
-        "name_pesticides": "Опричник, СЭ"
+        "name_pesticides": "Октиген, КЭ",
+        "link": "/goshandbook/prep/oktigen-ke-3.html"
     },
     {
-        "name_pesticides": "Оптимум, ВР"
+        "name_pesticides": "Омайт, ВЭ",
+        "link": "/goshandbook/prep/omayt-ve-3.html"
     },
     {
-        "name_pesticides": "Орбита, КЭ"
+        "name_pesticides": "Оперкот, КЭ",
+        "link": "/goshandbook/prep/operkot-ke.html"
     },
     {
-        "name_pesticides": "Оргамика С, Ж"
+        "name_pesticides": "Оплот, ВСК",
+        "link": "/goshandbook/prep/oplot-vsk-2.html"
     },
     {
-        "name_pesticides": "Органза, КС"
+        "name_pesticides": "Опричник, СЭ",
+        "link": "/goshandbook/prep/oprichnik-se.html"
     },
     {
-        "name_pesticides": "Ордан, СП"
+        "name_pesticides": "Оптимум, ВР",
+        "link": "/goshandbook/prep/optimum-vr-2.html"
     },
     {
-        "name_pesticides": "Оризан, МСК"
+        "name_pesticides": "Орбита, КЭ",
+        "link": "/goshandbook/prep/orbita-ke-2.html"
     },
     {
-        "name_pesticides": "Орион, КЭ"
+        "name_pesticides": "Оргамика С, Ж",
+        "link": "/goshandbook/prep/orgamika-s-j.html"
     },
     {
-        "name_pesticides": "Орондис Ультра, СК"
+        "name_pesticides": "Органза, КС",
+        "link": "/goshandbook/prep/organza-ks.html"
     },
     {
-        "name_pesticides": "Осирис, КЭ"
+        "name_pesticides": "Ордан, СП",
+        "link": "/goshandbook/prep/ordan-sp-3.html"
     },
     {
-        "name_pesticides": "Острог, МК"
+        "name_pesticides": "Оризан, МСК",
+        "link": "/goshandbook/prep/orizan-msk.html"
     },
     {
-        "name_pesticides": "Отличник, МКЭ"
+        "name_pesticides": "Орион, КЭ",
+        "link": "/goshandbook/prep/orion-ke-2.html"
     },
     {
-        "name_pesticides": "Оцелот, КЭ"
+        "name_pesticides": "Орондис Ультра, СК",
+        "link": "/goshandbook/prep/orondis-ultra-sk.html"
     },
     {
-        "name_pesticides": "Палица, Г"
+        "name_pesticides": "Осирис, КЭ",
+        "link": "/goshandbook/prep/osiris-ke-2.html"
     },
     {
-        "name_pesticides": "Паллас КА, МД"
+        "name_pesticides": "Острог, МК",
+        "link": "/goshandbook/prep/ostrog-mk.html"
     },
     {
-        "name_pesticides": "Пантера, КЭ"
+        "name_pesticides": "Отличник, МКЭ",
+        "link": "/goshandbook/prep/otlichnik-mke.html"
     },
     {
-        "name_pesticides": "Парадокс, ВРК"
+        "name_pesticides": "Оцелот, КЭ",
+        "link": "/goshandbook/prep/ocelot-ke-2.html"
     },
     {
-        "name_pesticides": "Партенокарпин-Био, Р"
+        "name_pesticides": "Палица, Г",
+        "link": "/goshandbook/prep/palica-g.html"
     },
     {
-        "name_pesticides": "Патрон, ВДГ"
+        "name_pesticides": "Паллас КА, МД",
+        "link": "/goshandbook/prep/pallas-ka-md.html"
     },
     {
-        "name_pesticides": "Пеон, КЭ"
+        "name_pesticides": "Пантера, КЭ",
+        "link": "/goshandbook/prep/pantera-ke-4.html"
     },
     {
-        "name_pesticides": "Персео, КС"
+        "name_pesticides": "Парадокс, ВРК",
+        "link": "/goshandbook/prep/paradoks-vrk-3.html"
     },
     {
-        "name_pesticides": "Пивот, ВК"
+        "name_pesticides": "Партенокарпин-Био, Р",
+        "link": "/goshandbook/prep/partenokarpin-bio-r.html"
     },
     {
-        "name_pesticides": "Пикокарб, СК"
+        "name_pesticides": "Патрон, ВДГ",
+        "link": "/goshandbook/prep/patron-vdg-2.html"
     },
     {
-        "name_pesticides": "Пиктор Актив, КС"
+        "name_pesticides": "Пеон, КЭ",
+        "link": "/goshandbook/prep/peon-ke-2.html"
     },
     {
-        "name_pesticides": "Пилот, ВСК"
+        "name_pesticides": "Персео, КС",
+        "link": "/goshandbook/prep/perseo-ks.html"
     },
     {
-        "name_pesticides": "Пиноцид, СК"
+        "name_pesticides": "Пивот, ВК",
+        "link": "/goshandbook/prep/pivot-vk-2.html"
     },
     {
-        "name_pesticides": "Пионер, КС"
+        "name_pesticides": "Пикокарб, СК",
+        "link": "/goshandbook/prep/pikokarb-sk.html"
     },
     {
-        "name_pesticides": "Пиранья, КЭ"
+        "name_pesticides": "Пиктор Актив, КС",
+        "link": "/goshandbook/prep/piktor-aktiv-ks.html"
     },
     {
-        "name_pesticides": "Пирелли, КЭ"
+        "name_pesticides": "Пилот, ВСК",
+        "link": "/goshandbook/prep/pilot-vsk-3.html"
     },
     {
-        "name_pesticides": "Пириметан,КС"
+        "name_pesticides": "Пиноцид, СК",
+        "link": "/goshandbook/prep/pinocid-sk.html"
     },
     {
-        "name_pesticides": "Пирус, КС"
+        "name_pesticides": "Пионер, КС",
+        "link": "/goshandbook/prep/pioner-ks-3.html"
     },
     {
-        "name_pesticides": "Питон, КЭ"
+        "name_pesticides": "Пиранья, КЭ",
+        "link": "/goshandbook/prep/piranya-ke-2.html"
     },
     {
-        "name_pesticides": "Плантенол Нео, ВДГ"
+        "name_pesticides": "Пирелли, КЭ",
+        "link": "/goshandbook/prep/pirelli-ke.html"
     },
     {
-        "name_pesticides": "Плектор, ВДГ"
+        "name_pesticides": "Пириметан,КС",
+        "link": "/goshandbook/prep/pirimetanks.html"
     },
     {
-        "name_pesticides": "Пленум, ВДГ"
+        "name_pesticides": "Пирус, КС",
+        "link": "/goshandbook/prep/pirus-ks.html"
     },
     {
-        "name_pesticides": "Плуггер, ВДГ"
+        "name_pesticides": "Питон, КЭ",
+        "link": "/goshandbook/prep/piton-ke-2.html"
     },
     {
-        "name_pesticides": "Позитив Плюс, КС"
+        "name_pesticides": "Плантенол Нео, ВДГ",
+        "link": "/goshandbook/prep/plantenol-neo-vdg.html"
     },
     {
-        "name_pesticides": "Покровитель, КС"
+        "name_pesticides": "Плектор, ВДГ",
+        "link": "/goshandbook/prep/plektor-vdg.html"
     },
     {
-        "name_pesticides": "Поларис Кватро, СМЭ"
+        "name_pesticides": "Пленум, ВДГ",
+        "link": "/goshandbook/prep/plenum-vdg.html"
     },
     {
-        "name_pesticides": "Поларис, МЭ"
+        "name_pesticides": "Плуггер, ВДГ",
+        "link": "/goshandbook/prep/plugger-vdg-3.html"
     },
     {
-        "name_pesticides": "Полгар, КЭ"
+        "name_pesticides": "Позитив Плюс, КС",
+        "link": "/goshandbook/prep/pozitiv-plyus-ks.html"
     },
     {
-        "name_pesticides": "Полидок, ВДГ"
+        "name_pesticides": "Покровитель, КС",
+        "link": "/goshandbook/prep/pokrovitel-ks-2.html"
     },
     {
-        "name_pesticides": "Полис, ВР"
+        "name_pesticides": "Поларис Кватро, СМЭ",
+        "link": "/goshandbook/prep/polaris-kvatro-sme.html"
     },
     {
-        "name_pesticides": "Пондус, КС"
+        "name_pesticides": "Поларис, МЭ",
+        "link": "/goshandbook/prep/polaris-me-2.html"
     },
     {
-        "name_pesticides": "Пончо Вотиво, КС"
+        "name_pesticides": "Полгар, КЭ",
+        "link": "/goshandbook/prep/polgar-ke-4.html"
     },
     {
-        "name_pesticides": "Поптрин, КС"
+        "name_pesticides": "Полидок, ВДГ",
+        "link": "/goshandbook/prep/polidok-vdg.html"
     },
     {
-        "name_pesticides": "Почкорост, ПС"
+        "name_pesticides": "Полис, ВР",
+        "link": "/goshandbook/prep/polis-vr.html"
     },
     {
-        "name_pesticides": "Превикур Энерджи, ВК"
+        "name_pesticides": "Пондус, КС",
+        "link": "/goshandbook/prep/pondus-ks.html"
     },
     {
-        "name_pesticides": "Премис Двести, КС"
+        "name_pesticides": "Пончо Вотиво, КС",
+        "link": "/goshandbook/prep/poncho-votivo-ks.html"
     },
     {
-        "name_pesticides": "Премьера, СЭ"
+        "name_pesticides": "Поптрин, КС",
+        "link": "/goshandbook/prep/poptrin-ks.html"
     },
     {
-        "name_pesticides": "Престиж Топ, КС"
+        "name_pesticides": "Почкорост, ПС",
+        "link": "/goshandbook/prep/pochkorost-ps.html"
     },
     {
-        "name_pesticides": "Престиж, КС"
+        "name_pesticides": "Превикур Энерджи, ВК",
+        "link": "/goshandbook/prep/previkur-enerdji-vk-2.html"
     },
     {
-        "name_pesticides": "Приаксор Макс, КЭ"
+        "name_pesticides": "Премис Двести, КС",
+        "link": "/goshandbook/prep/premis-dvesti-ks-2.html"
     },
     {
-        "name_pesticides": "Приам, КЭ"
+        "name_pesticides": "Премьера, СЭ",
+        "link": "/goshandbook/prep/premera-se.html"
     },
     {
-        "name_pesticides": "Приклад, ВДГ"
+        "name_pesticides": "Престиж Топ, КС",
+        "link": "/goshandbook/prep/prestij-top-ks.html"
     },
     {
-        "name_pesticides": "Прима, СЭ"
+        "name_pesticides": "Престиж, КС",
+        "link": "/goshandbook/prep/prestij-ks-3.html"
     },
     {
-        "name_pesticides": "Примадонна Супер, ККР"
+        "name_pesticides": "Приаксор Макс, КЭ",
+        "link": "/goshandbook/prep/priaksor-maks-ke.html"
     },
     {
-        "name_pesticides": "Приоритет, КС"
+        "name_pesticides": "Приам, КЭ",
+        "link": "/goshandbook/prep/priam-ke.html"
     },
     {
-        "name_pesticides": "Провизор, СК"
+        "name_pesticides": "Приклад, ВДГ",
+        "link": "/goshandbook/prep/priklad-vdg.html"
     },
     {
-        "name_pesticides": "Прогноз, КЭ"
+        "name_pesticides": "Прима, СЭ",
+        "link": "/goshandbook/prep/prima-se-2.html"
     },
     {
-        "name_pesticides": "Прозаро, КЭ"
+        "name_pesticides": "Примадонна Супер, ККР",
+        "link": "/goshandbook/prep/primadonna-super-kkr.html"
     },
     {
-        "name_pesticides": "Проклэйм, ВРГ"
+        "name_pesticides": "Приоритет, КС",
+        "link": "/goshandbook/prep/prioritet-ks-2.html"
     },
     {
-        "name_pesticides": "Проксима, КС"
+        "name_pesticides": "Провизор, СК",
+        "link": "/goshandbook/prep/provizor-sk.html"
     },
     {
-        "name_pesticides": "Промекс, КС"
+        "name_pesticides": "Прогноз, КЭ",
+        "link": "/goshandbook/prep/prognoz-ke-2.html"
     },
     {
-        "name_pesticides": "Промет, КС"
+        "name_pesticides": "Прозаро, КЭ",
+        "link": "/goshandbook/prep/prozaro-ke-2.html"
     },
     {
-        "name_pesticides": "Прометрин, СК"
+        "name_pesticides": "Проклэйм, ВРГ",
+        "link": "/goshandbook/prep/prokleym-vrg-3.html"
     },
     {
-        "name_pesticides": "Промэкс, КЭ"
+        "name_pesticides": "Проксима, КС",
+        "link": "/goshandbook/prep/proksima-ks-2.html"
     },
     {
-        "name_pesticides": "Пронто, КЭ"
+        "name_pesticides": "Промекс, КС",
+        "link": "/goshandbook/prep/promeks-ks-2.html"
     },
     {
-        "name_pesticides": "Пропишанс Супер, КЭ"
+        "name_pesticides": "Промет, КС",
+        "link": "/goshandbook/prep/promet-ks.html"
     },
     {
-        "name_pesticides": "Пропишанс Универсал, КМЭ"
+        "name_pesticides": "Прометрин, СК",
+        "link": "/goshandbook/prep/prometrin-sk-2.html"
     },
     {
-        "name_pesticides": "Пропонит Дуо, КЭ"
+        "name_pesticides": "Промэкс, КЭ",
+        "link": "/goshandbook/prep/promeks-ke.html"
     },
     {
-        "name_pesticides": "Пропульс, СЭ"
+        "name_pesticides": "Пронто, КЭ",
+        "link": "/goshandbook/prep/pronto-ke-2.html"
     },
     {
-        "name_pesticides": "Проросток, Р"
+        "name_pesticides": "Пропишанс Супер, КЭ",
+        "link": "/goshandbook/prep/propishans-super-ke.html"
     },
     {
-        "name_pesticides": "Протего Макс, МЭ"
+        "name_pesticides": "Пропишанс Универсал, КМЭ",
+        "link": "/goshandbook/prep/propishans-universal-kme.html"
     },
     {
-        "name_pesticides": "Протект Комби, СЭ"
+        "name_pesticides": "Пропонит Дуо, КЭ",
+        "link": "/goshandbook/prep/proponit-duo-ke.html"
     },
     {
-        "name_pesticides": "Протект, КС"
+        "name_pesticides": "Пропульс, СЭ",
+        "link": "/goshandbook/prep/propuls-se.html"
     },
     {
-        "name_pesticides": "Профи Супер, КЭ"
+        "name_pesticides": "Проросток, Р",
+        "link": "/goshandbook/prep/prorostok-r-2.html"
     },
     {
-        "name_pesticides": "Профи, КЭ"
+        "name_pesticides": "Протего Макс, МЭ",
+        "link": "/goshandbook/prep/protego-maks-me.html"
     },
     {
-        "name_pesticides": "Профилактин Лайт, ВЭ"
+        "name_pesticides": "Протект Комби, СЭ",
+        "link": "/goshandbook/prep/protekt-kombi-se.html"
     },
     {
-        "name_pesticides": "ПроФреш, П"
+        "name_pesticides": "Протект, КС",
+        "link": "/goshandbook/prep/protekt-ks-3.html"
     },
     {
-        "name_pesticides": "Псевдобактерин-2, Ж"
+        "name_pesticides": "Профи Супер, КЭ",
+        "link": "/goshandbook/prep/profi-super-ke-2.html"
     },
     {
-        "name_pesticides": "Псевдобактерин-3, Ж"
+        "name_pesticides": "Профи, КЭ",
+        "link": "/goshandbook/prep/profi-ke-2.html"
     },
     {
-        "name_pesticides": "Пузат Экстра, ВДГ"
+        "name_pesticides": "Профилактин Лайт, ВЭ",
+        "link": "/goshandbook/prep/profilaktin-layt-ve.html"
     },
     {
-        "name_pesticides": "Пульс-Стар, ВР"
+        "name_pesticides": "ПроФреш, П",
+        "link": "/goshandbook/prep/profresh-p.html"
     },
     {
-        "name_pesticides": "Пульсар Старт, ВРК"
+        "name_pesticides": "Псевдобактерин-2, Ж",
+        "link": "/goshandbook/prep/psevdobakterin-2-j-2.html"
     },
     {
-        "name_pesticides": "Пума Голд, КЭ"
+        "name_pesticides": "Псевдобактерин-3, Ж",
+        "link": "/goshandbook/prep/psevdobakterin-3-j.html"
     },
     {
-        "name_pesticides": "Пума Супер 7.5, ЭМВ"
+        "name_pesticides": "Пузат Экстра, ВДГ",
+        "link": "/goshandbook/prep/puzat-ekstra-vdg.html"
     },
     {
-        "name_pesticides": "Рабона, СЭ"
+        "name_pesticides": "Пульс-Стар, ВР",
+        "link": "/goshandbook/prep/puls-star-vr-2.html"
     },
     {
-        "name_pesticides": "Разряд, Г"
+        "name_pesticides": "Пульсар Старт, ВРК",
+        "link": "/goshandbook/prep/pulsar-start-vrk-2.html"
     },
     {
-        "name_pesticides": "Раксил Ультра, КС"
+        "name_pesticides": "Пума Голд, КЭ",
+        "link": "/goshandbook/prep/puma-gold-ke.html"
     },
     {
-        "name_pesticides": "Ракурс, СК"
+        "name_pesticides": "Пума Супер 7.5, ЭМВ",
+        "link": "/goshandbook/prep/puma-super-7.5-emv-2.html"
     },
     {
-        "name_pesticides": "Ранголи Галситил, КЭ"
+        "name_pesticides": "Рабона, СЭ",
+        "link": "/goshandbook/prep/rabona-se.html"
     },
     {
-        "name_pesticides": "Ранголи-Гильотина, ВДГ"
+        "name_pesticides": "Разряд, Г",
+        "link": "/goshandbook/prep/razryad-g-3.html"
     },
     {
-        "name_pesticides": "Ранголи-Глифосат 480, ВР"
+        "name_pesticides": "Раксил Ультра, КС",
+        "link": "/goshandbook/prep/raksil-ultra-ks-2.html"
     },
     {
-        "name_pesticides": "Ранголи-Имидоклоприд, ВРК"
+        "name_pesticides": "Ракурс, СК",
+        "link": "/goshandbook/prep/rakurs-sk-3.html"
     },
     {
-        "name_pesticides": "Ранголи-Метамитрон, КС"
+        "name_pesticides": "Ранголи Галситил, КЭ",
+        "link": "/goshandbook/prep/rangoli-galsitil-ke.html"
     },
     {
-        "name_pesticides": "Ранголи-Прадо, ВРК"
+        "name_pesticides": "Ранголи-Гильотина, ВДГ",
+        "link": "/goshandbook/prep/rangoli-gilotina-vdg.html"
     },
     {
-        "name_pesticides": "Ранголи-Таргон-С, КЭ"
+        "name_pesticides": "Ранголи-Глифосат 480, ВР",
+        "link": "/goshandbook/prep/rangoli-glifosat-480-vr-3.html"
     },
     {
-        "name_pesticides": "Ранголи-Трибенурон, ВДГ"
+        "name_pesticides": "Ранголи-Имидоклоприд, ВРК",
+        "link": "/goshandbook/prep/rangoli-imidokloprid-vrk.html"
     },
     {
-        "name_pesticides": "Ранкона 450, ТС"
+        "name_pesticides": "Ранголи-Метамитрон, КС",
+        "link": "/goshandbook/prep/rangoli-metamitron-ks-2.html"
     },
     {
-        "name_pesticides": "Рапид Голд Плюс, СП"
+        "name_pesticides": "Ранголи-Прадо, ВРК",
+        "link": "/goshandbook/prep/rangoli-prado-vrk.html"
     },
     {
-        "name_pesticides": "Рапид Дуэт, СП"
+        "name_pesticides": "Ранголи-Таргон-С, КЭ",
+        "link": "/goshandbook/prep/rangoli-targon-s-ke.html"
     },
     {
-        "name_pesticides": "Рапира, КЭ"
+        "name_pesticides": "Ранголи-Трибенурон, ВДГ",
+        "link": "/goshandbook/prep/rangoli-tribenuron-vdg.html"
     },
     {
-        "name_pesticides": "Рапсан, ВР"
+        "name_pesticides": "Ранкона 450, ТС",
+        "link": "/goshandbook/prep/rankona-450-ts.html"
     },
     {
-        "name_pesticides": "Раттидион, Г"
+        "name_pesticides": "Рапид Голд Плюс, СП",
+        "link": "/goshandbook/prep/rapid-gold-plyus-sp-2.html"
     },
     {
-        "name_pesticides": "Рауль, ВР"
+        "name_pesticides": "Рапид Дуэт, СП",
+        "link": "/goshandbook/prep/rapid-duet-sp-2.html"
     },
     {
-        "name_pesticides": "Раундап, Гель"
+        "name_pesticides": "Рапира, КЭ",
+        "link": "/goshandbook/prep/rapira-ke-2.html"
     },
     {
-        "name_pesticides": "Ревиона, КС"
+        "name_pesticides": "Рапсан, ВР",
+        "link": "/goshandbook/prep/rapsan-vr-2.html"
     },
     {
-        "name_pesticides": "Ревус, КС"
+        "name_pesticides": "Раттидион, Г",
+        "link": "/goshandbook/prep/rattidion-g-2.html"
     },
     {
-        "name_pesticides": "Регент, ВДГ"
+        "name_pesticides": "Рауль, ВР",
+        "link": "/goshandbook/prep/raul-vr-3.html"
     },
     {
-        "name_pesticides": "Реглон Форте, ВР"
+        "name_pesticides": "Раундап, Гель",
+        "link": "/goshandbook/prep/raundap-gel-2.html"
     },
     {
-        "name_pesticides": "Реглон Эйр, ВР"
+        "name_pesticides": "Ревиона, КС",
+        "link": "/goshandbook/prep/reviona-ks.html"
     },
     {
-        "name_pesticides": "Регулят Супер, ВР"
+        "name_pesticides": "Ревус, КС",
+        "link": "/goshandbook/prep/revus-ks-4.html"
     },
     {
-        "name_pesticides": "Редиго Про, КС"
+        "name_pesticides": "Регент, ВДГ",
+        "link": "/goshandbook/prep/regent-vdg-2.html"
     },
     {
-        "name_pesticides": "Результат Супер, ВР"
+        "name_pesticides": "Реглон Форте, ВР",
+        "link": "/goshandbook/prep/reglon-forte-vr.html"
     },
     {
-        "name_pesticides": "Рекрут, КС"
+        "name_pesticides": "Реглон Эйр, ВР",
+        "link": "/goshandbook/prep/reglon-eyr-vr-2.html"
     },
     {
-        "name_pesticides": "Рекс Плюс, СЭ"
+        "name_pesticides": "Регулят Супер, ВР",
+        "link": "/goshandbook/prep/regulyat-super-vr-2.html"
     },
     {
-        "name_pesticides": "Ректон, ВР"
+        "name_pesticides": "Редиго Про, КС",
+        "link": "/goshandbook/prep/redigo-pro-ks.html"
     },
     {
-        "name_pesticides": "Ректор, КС"
+        "name_pesticides": "Результат Супер, ВР",
+        "link": "/goshandbook/prep/rezultat-super-vr.html"
     },
     {
-        "name_pesticides": "Репер Трио, МД"
+        "name_pesticides": "Рекрут, КС",
+        "link": "/goshandbook/prep/rekrut-ks-2.html"
     },
     {
-        "name_pesticides": "Репер, ККР"
+        "name_pesticides": "Рекс Плюс, СЭ",
+        "link": "/goshandbook/prep/reks-plyus-se-2.html"
     },
     {
-        "name_pesticides": "Рессиви, КС"
+        "name_pesticides": "Ректон, ВР",
+        "link": "/goshandbook/prep/rekton-vr.html"
     },
     {
-        "name_pesticides": "Рефери, ВГР"
+        "name_pesticides": "Ректор, КС",
+        "link": "/goshandbook/prep/rektor-ks-2.html"
     },
     {
-        "name_pesticides": "Рибав-Экстра, P"
+        "name_pesticides": "Репер Трио, МД",
+        "link": "/goshandbook/prep/reper-trio-md.html"
     },
     {
-        "name_pesticides": "Ридомил Голд Р, ВДГ"
+        "name_pesticides": "Репер, ККР",
+        "link": "/goshandbook/prep/reper-kkr-2.html"
     },
     {
-        "name_pesticides": "Риманол, ВДГ"
+        "name_pesticides": "Рессиви, КС",
+        "link": "/goshandbook/prep/ressivi-ks.html"
     },
     {
-        "name_pesticides": "Римлин, ВДГ"
+        "name_pesticides": "Рефери, ВГР",
+        "link": "/goshandbook/prep/referi-vgr-2.html"
     },
     {
-        "name_pesticides": "Римэкс, ВДГ"
+        "name_pesticides": "Рибав-Экстра, P",
+        "link": "/goshandbook/prep/ribav-ekstra-p-2.html"
     },
     {
-        "name_pesticides": "Ристайл, МД"
+        "name_pesticides": "Ридомил Голд Р, ВДГ",
+        "link": "/goshandbook/prep/ridomil-gold-r-vdg.html"
     },
     {
-        "name_pesticides": "Рогор-С, КЭ"
+        "name_pesticides": "Риманол, ВДГ",
+        "link": "/goshandbook/prep/rimanol-vdg-2.html"
     },
     {
-        "name_pesticides": "Ромбус, КС"
+        "name_pesticides": "Римлин, ВДГ",
+        "link": "/goshandbook/prep/rimlin-vdg.html"
     },
     {
-        "name_pesticides": "Рондо, КЭ"
+        "name_pesticides": "Римэкс, ВДГ",
+        "link": "/goshandbook/prep/rimeks-vdg-3.html"
     },
     {
-        "name_pesticides": "Рофатокс, Г"
+        "name_pesticides": "Ристайл, МД",
+        "link": "/goshandbook/prep/ristayl-md-2.html"
     },
     {
-        "name_pesticides": "Рузмин, ВР"
+        "name_pesticides": "Рогор-С, КЭ",
+        "link": "/goshandbook/prep/rogor-s-ke-2.html"
     },
     {
-        "name_pesticides": "Рэгги, ВРК"
+        "name_pesticides": "Ромбус, КС",
+        "link": "/goshandbook/prep/rombus-ks.html"
     },
     {
-        "name_pesticides": "Сабля, КС"
+        "name_pesticides": "Рондо, КЭ",
+        "link": "/goshandbook/prep/rondo-ke-3.html"
     },
     {
-        "name_pesticides": "Сайрен, КЭ"
+        "name_pesticides": "Рофатокс, Г",
+        "link": "/goshandbook/prep/rofatoks-g-2.html"
     },
     {
-        "name_pesticides": "Сальса Про, ВДГ"
+        "name_pesticides": "Рузмин, ВР",
+        "link": "/goshandbook/prep/ruzmin-vr.html"
     },
     {
-        "name_pesticides": "Сальса, СП"
+        "name_pesticides": "Рэгги, ВРК",
+        "link": "/goshandbook/prep/reggi-vrk-2.html"
     },
     {
-        "name_pesticides": "Сангейт Экстра, ВДГ"
+        "name_pesticides": "Сабля, КС",
+        "link": "/goshandbook/prep/sablya-ks-2.html"
     },
     {
-        "name_pesticides": "Санмайт, СП"
+        "name_pesticides": "Сайрен, КЭ",
+        "link": "/goshandbook/prep/sayren-ke-3.html"
     },
     {
-        "name_pesticides": "Сансэр Ультра, КС"
+        "name_pesticides": "Сальса Про, ВДГ",
+        "link": "/goshandbook/prep/salsa-pro-vdg-2.html"
     },
     {
-        "name_pesticides": "Санфло, ВДГ"
+        "name_pesticides": "Сальса, СП",
+        "link": "/goshandbook/prep/salsa-sp.html"
     },
     {
-        "name_pesticides": "Сапфир, ВРК"
+        "name_pesticides": "Сангейт Экстра, ВДГ",
+        "link": "/goshandbook/prep/sangeyt-ekstra-vdg.html"
     },
     {
-        "name_pesticides": "Сарейп, КЭ"
+        "name_pesticides": "Санмайт, СП",
+        "link": "/goshandbook/prep/sanmayt-sp-3.html"
     },
     {
-        "name_pesticides": "Сарфун, СК"
+        "name_pesticides": "Сансэр Ультра, КС",
+        "link": "/goshandbook/prep/sanser-ultra-ks.html"
     },
     {
-        "name_pesticides": "Сварог, СЭ"
+        "name_pesticides": "Санфло, ВДГ",
+        "link": "/goshandbook/prep/sanflo-vdg.html"
     },
     {
-        "name_pesticides": "Себринг, СК"
+        "name_pesticides": "Сапфир, ВРК",
+        "link": "/goshandbook/prep/sapfir-vrk.html"
     },
     {
-        "name_pesticides": "Секатор Турбо, МД"
+        "name_pesticides": "Сарейп, КЭ",
+        "link": "/goshandbook/prep/sareyp-ke.html"
     },
     {
-        "name_pesticides": "Секира Элит, КЭ"
+        "name_pesticides": "Сарфун, СК",
+        "link": "/goshandbook/prep/sarfun-sk.html"
     },
     {
-        "name_pesticides": "Секунда, КЭ"
+        "name_pesticides": "Сварог, СЭ",
+        "link": "/goshandbook/prep/svarog-se.html"
     },
     {
-        "name_pesticides": "Селект, КЭ"
+        "name_pesticides": "Себринг, СК",
+        "link": "/goshandbook/prep/sebring-sk.html"
     },
     {
-        "name_pesticides": "Селена, КЭ"
+        "name_pesticides": "Секатор Турбо, МД",
+        "link": "/goshandbook/prep/sekator-turbo-md-3.html"
     },
     {
-        "name_pesticides": "Селест Макс, КС"
+        "name_pesticides": "Секира Элит, КЭ",
+        "link": "/goshandbook/prep/sekira-elit-ke-4.html"
     },
     {
-        "name_pesticides": "Селест Топ, КС"
+        "name_pesticides": "Секунда, КЭ",
+        "link": "/goshandbook/prep/sekunda-ke-2.html"
     },
     {
-        "name_pesticides": "Сенсей, КЭ"
+        "name_pesticides": "Селект, КЭ",
+        "link": "/goshandbook/prep/selekt-ke-2.html"
     },
     {
-        "name_pesticides": "Сера 400, КС"
+        "name_pesticides": "Селена, КЭ",
+        "link": "/goshandbook/prep/selena-ke.html"
     },
     {
-        "name_pesticides": "Серапен, КЭ"
+        "name_pesticides": "Селест Макс, КС",
+        "link": "/goshandbook/prep/selest-maks-ks-2.html"
     },
     {
-        "name_pesticides": "Серкадис Плюс, КС"
+        "name_pesticides": "Селест Топ, КС",
+        "link": "/goshandbook/prep/selest-top-ks-4.html"
     },
     {
-        "name_pesticides": "Серп, ВРК"
+        "name_pesticides": "Сенсей, КЭ",
+        "link": "/goshandbook/prep/sensey-ke-2.html"
     },
     {
-        "name_pesticides": "Серф-Экстра, ТКС"
+        "name_pesticides": "Сера 400, КС",
+        "link": "/goshandbook/prep/sera-400-ks-2.html"
     },
     {
-        "name_pesticides": "Сигнум, ВДГ"
+        "name_pesticides": "Серапен, КЭ",
+        "link": "/goshandbook/prep/serapen-ke.html"
     },
     {
-        "name_pesticides": "Сиквел, ВР"
+        "name_pesticides": "Серкадис Плюс, КС",
+        "link": "/goshandbook/prep/serkadis-plyus-ks.html"
     },
     {
-        "name_pesticides": "Силар, ВР"
+        "name_pesticides": "Серп, ВРК",
+        "link": "/goshandbook/prep/serp-vrk-2.html"
     },
     {
-        "name_pesticides": "Силач, ВР"
+        "name_pesticides": "Серф-Экстра, ТКС",
+        "link": "/goshandbook/prep/serf-ekstra-tks.html"
     },
     {
-        "name_pesticides": "Симба, КЭ"
+        "name_pesticides": "Сигнум, ВДГ",
+        "link": "/goshandbook/prep/signum-vdg-2.html"
     },
     {
-        "name_pesticides": "Синбетан Эксперт ОФ, КЭ"
+        "name_pesticides": "Сиквел, ВР",
+        "link": "/goshandbook/prep/sikvel-vr.html"
     },
     {
-        "name_pesticides": "Синтрон, КЭ"
+        "name_pesticides": "Силар, ВР",
+        "link": "/goshandbook/prep/silar-vr.html"
     },
     {
-        "name_pesticides": "Сирокко, КЭ"
+        "name_pesticides": "Силач, ВР",
+        "link": "/goshandbook/prep/silach-vr-2.html"
     },
     {
-        "name_pesticides": "Систива, КС"
+        "name_pesticides": "Симба, КЭ",
+        "link": "/goshandbook/prep/simba-ke-2.html"
     },
     {
-        "name_pesticides": "Скальпель, КС"
+        "name_pesticides": "Синбетан Эксперт ОФ, КЭ",
+        "link": "/goshandbook/prep/sinbetan-ekspert-of-ke-3.html"
     },
     {
-        "name_pesticides": "Скарлет, МЭ"
+        "name_pesticides": "Синтрон, КЭ",
+        "link": "/goshandbook/prep/sintron-ke.html"
     },
     {
-        "name_pesticides": "Скаут, КЭ"
+        "name_pesticides": "Сирокко, КЭ",
+        "link": "/goshandbook/prep/sirokko-ke-3.html"
     },
     {
-        "name_pesticides": "Скор, КЭ"
+        "name_pesticides": "Систива, КС",
+        "link": "/goshandbook/prep/sistiva-ks.html"
     },
     {
-        "name_pesticides": "Скорпион Форте, ВР"
+        "name_pesticides": "Скальпель, КС",
+        "link": "/goshandbook/prep/skalpel-ks.html"
     },
     {
-        "name_pesticides": "Скорый, КЭ"
+        "name_pesticides": "Скарлет, МЭ",
+        "link": "/goshandbook/prep/skarlet-me-4.html"
     },
     {
-        "name_pesticides": "Скутум, СК"
+        "name_pesticides": "Скаут, КЭ",
+        "link": "/goshandbook/prep/skaut-ke.html"
     },
     {
-        "name_pesticides": "Слизнеед Нео, Г"
+        "name_pesticides": "Скор, КЭ",
+        "link": "/goshandbook/prep/skor-ke-3.html"
     },
     {
-        "name_pesticides": "Слоузен, ВДГ"
+        "name_pesticides": "Скорпион Форте, ВР",
+        "link": "/goshandbook/prep/skorpion-forte-vr.html"
     },
     {
-        "name_pesticides": "Снейк, РП"
+        "name_pesticides": "Скорый, КЭ",
+        "link": "/goshandbook/prep/skoryy-ke-2.html"
     },
     {
-        "name_pesticides": "Сойл, ВДГ"
+        "name_pesticides": "Скутум, СК",
+        "link": "/goshandbook/prep/skutum-sk.html"
     },
     {
-        "name_pesticides": "Солам, КС"
+        "name_pesticides": "Слизнеед Нео, Г",
+        "link": "/goshandbook/prep/slizneed-neo-g-2.html"
     },
     {
-        "name_pesticides": "Солигор, КЭ"
+        "name_pesticides": "Слоузен, ВДГ",
+        "link": "/goshandbook/prep/slouzen-vdg.html"
     },
     {
-        "name_pesticides": "Соната Супер, КЭ"
+        "name_pesticides": "Снейк, РП",
+        "link": "/goshandbook/prep/sneyk-rp-2.html"
     },
     {
-        "name_pesticides": "Сотейра, ВРК"
+        "name_pesticides": "Сойл, ВДГ",
+        "link": "/goshandbook/prep/soyl-vdg-3.html"
     },
     {
-        "name_pesticides": "Спад-Ник Гранулы, Г"
+        "name_pesticides": "Солам, КС",
+        "link": "/goshandbook/prep/solam-ks-2.html"
     },
     {
-        "name_pesticides": "Спарвиэро, МКС"
+        "name_pesticides": "Солигор, КЭ",
+        "link": "/goshandbook/prep/soligor-ke-2.html"
     },
     {
-        "name_pesticides": "Сперамет, МД"
+        "name_pesticides": "Соната Супер, КЭ",
+        "link": "/goshandbook/prep/sonata-super-ke-2.html"
     },
     {
-        "name_pesticides": "Спинтор КА, СК"
+        "name_pesticides": "Сотейра, ВРК",
+        "link": "/goshandbook/prep/soteyra-vrk.html"
     },
     {
-        "name_pesticides": "Споробактерин, СП"
+        "name_pesticides": "Спад-Ник Гранулы, Г",
+        "link": "/goshandbook/prep/spad-nik-granuly-g.html"
     },
     {
-        "name_pesticides": "Спрут Экстра, ВР"
+        "name_pesticides": "Спарвиэро, МКС",
+        "link": "/goshandbook/prep/sparviero-mks.html"
     },
     {
-        "name_pesticides": "Стабилан, ВР"
+        "name_pesticides": "Сперамет, МД",
+        "link": "/goshandbook/prep/speramet-md.html"
     },
     {
-        "name_pesticides": "Стандак Топ, КС"
+        "name_pesticides": "Спинтор КА, СК",
+        "link": "/goshandbook/prep/spintor-ka-sk.html"
     },
     {
-        "name_pesticides": "Статус Голд, ВДГ"
+        "name_pesticides": "Споробактерин, СП",
+        "link": "/goshandbook/prep/sporobakterin-sp.html"
     },
     {
-        "name_pesticides": "Статус Макс, ВДГ"
+        "name_pesticides": "Спрут Экстра, ВР",
+        "link": "/goshandbook/prep/sprut-ekstra-vr-7.html"
     },
     {
-        "name_pesticides": "Стеллар Плюс, ВРК"
+        "name_pesticides": "Стабилан, ВР",
+        "link": "/goshandbook/prep/stabilan-vr-2.html"
     },
     {
-        "name_pesticides": "Стерлинг, ВСК"
+        "name_pesticides": "Стандак Топ, КС",
+        "link": "/goshandbook/prep/standak-top-ks-2.html"
     },
     {
-        "name_pesticides": "Стилет, МД"
+        "name_pesticides": "Статус Голд, ВДГ",
+        "link": "/goshandbook/prep/status-gold-vdg.html"
     },
     {
-        "name_pesticides": "Стимулэйт, Ж"
+        "name_pesticides": "Статус Макс, ВДГ",
+        "link": "/goshandbook/prep/status-maks-vdg.html"
     },
     {
-        "name_pesticides": "Стингер, КС"
+        "name_pesticides": "Стеллар Плюс, ВРК",
+        "link": "/goshandbook/prep/stellar-plyus-vrk-2.html"
     },
     {
-        "name_pesticides": "Стожар, РП"
+        "name_pesticides": "Стерлинг, ВСК",
+        "link": "/goshandbook/prep/sterling-vsk.html"
     },
     {
-        "name_pesticides": "СтопУлит, Г"
+        "name_pesticides": "Стилет, МД",
+        "link": "/goshandbook/prep/stilet-md-2.html"
     },
     {
-        "name_pesticides": "Стратег, КС"
+        "name_pesticides": "Стимулэйт, Ж",
+        "link": "/goshandbook/prep/stimuleyt-j-2.html"
     },
     {
-        "name_pesticides": "Стрекар, КС"
+        "name_pesticides": "Стингер, КС",
+        "link": "/goshandbook/prep/stinger-ks-3.html"
     },
     {
-        "name_pesticides": "Стрим, КЭ"
+        "name_pesticides": "Стожар, РП",
+        "link": "/goshandbook/prep/stojar-rp.html"
     },
     {
-        "name_pesticides": "Строби, ВДГ"
+        "name_pesticides": "СтопУлит, Г",
+        "link": "/goshandbook/prep/stopulit-g-3.html"
     },
     {
-        "name_pesticides": "Стробитек, ВДГ"
+        "name_pesticides": "Стратег, КС",
+        "link": "/goshandbook/prep/strateg-ks.html"
     },
     {
-        "name_pesticides": "Султан, СК"
+        "name_pesticides": "Стрекар, КС",
+        "link": "/goshandbook/prep/strekar-ks.html"
     },
     {
-        "name_pesticides": "Сумитион, КЭ"
+        "name_pesticides": "Стрим, КЭ",
+        "link": "/goshandbook/prep/strim-ke.html"
     },
     {
-        "name_pesticides": "Суперкилл, КЭ"
+        "name_pesticides": "Строби, ВДГ",
+        "link": "/goshandbook/prep/strobi-vdg-2.html"
     },
     {
-        "name_pesticides": "Суперстар Голд, ВДГ"
+        "name_pesticides": "Стробитек, ВДГ",
+        "link": "/goshandbook/prep/strobitek-vdg.html"
     },
     {
-        "name_pesticides": "Суховей, ВР"
+        "name_pesticides": "Султан, СК",
+        "link": "/goshandbook/prep/sultan-sk-3.html"
     },
     {
-        "name_pesticides": "Сфера макс, КС"
+        "name_pesticides": "Сумитион, КЭ",
+        "link": "/goshandbook/prep/sumition-ke-2.html"
     },
     {
-        "name_pesticides": "Сценик Комби, КС"
+        "name_pesticides": "Суперкилл, КЭ",
+        "link": "/goshandbook/prep/superkill-ke-2.html"
     },
     {
-        "name_pesticides": "Сэмпай, КЭ"
+        "name_pesticides": "Суперстар Голд, ВДГ",
+        "link": "/goshandbook/prep/superstar-gold-vdg.html"
     },
     {
-        "name_pesticides": "Табазол, П"
+        "name_pesticides": "Суховей, ВР",
+        "link": "/goshandbook/prep/suhovey-vr-5.html"
     },
     {
-        "name_pesticides": "Табачная пыль, П"
+        "name_pesticides": "Сфера макс, КС",
+        "link": "/goshandbook/prep/sfera-maks-ks.html"
     },
     {
-        "name_pesticides": "Табу Нео, СК"
+        "name_pesticides": "Сценик Комби, КС",
+        "link": "/goshandbook/prep/scenik-kombi-ks-3.html"
     },
     {
-        "name_pesticides": "Табу, ВСК"
+        "name_pesticides": "Сэмпай, КЭ",
+        "link": "/goshandbook/prep/sempay-ke-2.html"
     },
     {
-        "name_pesticides": "Тайгер 100, КЭ"
+        "name_pesticides": "Табазол, П",
+        "link": "/goshandbook/prep/tabazol-p-2.html"
     },
     {
-        "name_pesticides": "Тайпан, КЭ"
+        "name_pesticides": "Табачная пыль, П",
+        "link": "/goshandbook/prep/tabachnaya-pyl-p-2.html"
     },
     {
-        "name_pesticides": "Тайфун, ВР"
+        "name_pesticides": "Табу Нео, СК",
+        "link": "/goshandbook/prep/tabu-neo-sk-2.html"
     },
     {
-        "name_pesticides": "Талака 100, КЭ"
+        "name_pesticides": "Табу, ВСК",
+        "link": "/goshandbook/prep/tabu-vsk-3.html"
     },
     {
-        "name_pesticides": "Талендо Экстра, КЭ"
+        "name_pesticides": "Тайгер 100, КЭ",
+        "link": "/goshandbook/prep/tayger-100-ke-2.html"
     },
     {
-        "name_pesticides": "Талиус, КЭ"
+        "name_pesticides": "Тайпан, КЭ",
+        "link": "/goshandbook/prep/taypan-ke.html"
     },
     {
-        "name_pesticides": "Тальвар, КЭ"
+        "name_pesticides": "Тайфун, ВР",
+        "link": "/goshandbook/prep/tayfun-vr-3.html"
     },
     {
-        "name_pesticides": "Тандем, ВДГ"
+        "name_pesticides": "Талака 100, КЭ",
+        "link": "/goshandbook/prep/talaka-100-ke.html"
     },
     {
-        "name_pesticides": "Танос, ВДГ"
+        "name_pesticides": "Талендо Экстра, КЭ",
+        "link": "/goshandbook/prep/talendo-ekstra-ke.html"
     },
     {
-        "name_pesticides": "Танрек, ВРК"
+        "name_pesticides": "Талиус, КЭ",
+        "link": "/goshandbook/prep/talius-ke.html"
     },
     {
-        "name_pesticides": "Тапир Гибрид, МК"
+        "name_pesticides": "Тальвар, КЭ",
+        "link": "/goshandbook/prep/talvar-ke.html"
     },
     {
-        "name_pesticides": "Тапирошанс, ВРК"
+        "name_pesticides": "Тандем, ВДГ",
+        "link": "/goshandbook/prep/tandem-vdg.html"
     },
     {
-        "name_pesticides": "Тарга Супер, КЭ"
+        "name_pesticides": "Танос, ВДГ",
+        "link": "/goshandbook/prep/tanos-vdg-2.html"
     },
     {
-        "name_pesticides": "Тачдаун, ВР"
+        "name_pesticides": "Танрек, ВРК",
+        "link": "/goshandbook/prep/tanrek-vrk-2.html"
     },
     {
-        "name_pesticides": "Твинго Евро, МД"
+        "name_pesticides": "Тапир Гибрид, МК",
+        "link": "/goshandbook/prep/tapir-gibrid-mk-3.html"
     },
     {
-        "name_pesticides": "Тебаз Про, СК"
+        "name_pesticides": "Тапирошанс, ВРК",
+        "link": "/goshandbook/prep/tapiroshans-vrk.html"
     },
     {
-        "name_pesticides": "Тебу 60, МЭ"
+        "name_pesticides": "Тарга Супер, КЭ",
+        "link": "/goshandbook/prep/targa-super-ke-3.html"
     },
     {
-        "name_pesticides": "Тебузил, ТКС"
+        "name_pesticides": "Тачдаун, ВР",
+        "link": "/goshandbook/prep/tachdaun-vr.html"
     },
     {
-        "name_pesticides": "Тебуконазол, КС"
+        "name_pesticides": "Тачигарен, СП",
+        "link": "/goshandbook/prep/tachigaren-sp-4.html"
     },
     {
-        "name_pesticides": "Тейя, КС"
+        "name_pesticides": "Твинго, КС",
+        "link": "/goshandbook/prep/tvingo-ks.html"
     },
     {
-        "name_pesticides": "Тельдор, ВДГ"
+        "name_pesticides": "Тебаз Про, СК",
+        "link": "/goshandbook/prep/tebaz-pro-sk.html"
     },
     {
-        "name_pesticides": "Теппеки, ВДГ"
+        "name_pesticides": "Тебу 60, МЭ",
+        "link": "/goshandbook/prep/tebu-60-me-2.html"
     },
     {
-        "name_pesticides": "Тердок, КЭ"
+        "name_pesticides": "Тебузил, ТКС",
+        "link": "/goshandbook/prep/tebuzil-tks-2.html"
     },
     {
-        "name_pesticides": "Террагард, СЭ"
+        "name_pesticides": "Тебуконазол, КС",
+        "link": "/goshandbook/prep/tebukonazol-ks-2.html"
     },
     {
-        "name_pesticides": "Террамет, ВДГ"
+        "name_pesticides": "Тейя, КС",
+        "link": "/goshandbook/prep/teyya-ks.html"
     },
     {
-        "name_pesticides": "Террасил, КС"
+        "name_pesticides": "Тельдор, ВДГ",
+        "link": "/goshandbook/prep/teldor-vdg.html"
     },
     {
-        "name_pesticides": "Терция, СК"
+        "name_pesticides": "Теппеки, ВДГ",
+        "link": "/goshandbook/prep/teppeki-vdg-2.html"
     },
     {
-        "name_pesticides": "Теспиан, КЭ"
+        "name_pesticides": "Тердок, КЭ",
+        "link": "/goshandbook/prep/terdok-ke-2.html"
     },
     {
-        "name_pesticides": "Тефлутрин, МКС"
+        "name_pesticides": "Террагард, СЭ",
+        "link": "/goshandbook/prep/terragard-se.html"
     },
     {
-        "name_pesticides": "Тиамакс, КС"
+        "name_pesticides": "Террамет, ВДГ",
+        "link": "/goshandbook/prep/terramet-vdg.html"
     },
     {
-        "name_pesticides": "Тиацин Био БАУ, МЭ"
+        "name_pesticides": "Террасил, КС",
+        "link": "/goshandbook/prep/terrasil-ks-2.html"
     },
     {
-        "name_pesticides": "Тигран Экстра, КЭ"
+        "name_pesticides": "Терция, СК",
+        "link": "/goshandbook/prep/terciya-sk-2.html"
     },
     {
-        "name_pesticides": "Тилт Турбо, КЭ"
+        "name_pesticides": "Теспиан, КЭ",
+        "link": "/goshandbook/prep/tespian-ke.html"
     },
     {
-        "name_pesticides": "Тиматерр, КС"
+        "name_pesticides": "Тефлутрин, МКС",
+        "link": "/goshandbook/prep/teflutrin-mks-2.html"
     },
     {
-        "name_pesticides": "Тимус, КЭ"
+        "name_pesticides": "Тиамакс, КС",
+        "link": "/goshandbook/prep/tiamaks-ks-2.html"
     },
     {
-        "name_pesticides": "Тир, ТПС"
+        "name_pesticides": "Тиацин Био БАУ, МЭ",
+        "link": "/goshandbook/prep/tiacin-bio-bau-me.html"
     },
     {
-        "name_pesticides": "Тирам, ВСК"
+        "name_pesticides": "Тигран Экстра, КЭ",
+        "link": "/goshandbook/prep/tigran-ekstra-ke.html"
     },
     {
-        "name_pesticides": "Тирон,ВДГ"
+        "name_pesticides": "Тилт Турбо, КЭ",
+        "link": "/goshandbook/prep/tilt-turbo-ke.html"
     },
     {
-        "name_pesticides": "Титул 390, ККР"
+        "name_pesticides": "Тиматерр, КС",
+        "link": "/goshandbook/prep/timaterr-ks.html"
     },
     {
-        "name_pesticides": "Титул Трио, ККР"
+        "name_pesticides": "Тимус, КЭ",
+        "link": "/goshandbook/prep/timus-ke-2.html"
     },
     {
-        "name_pesticides": "Титус, СТС"
+        "name_pesticides": "Тир, ТПС",
+        "link": "/goshandbook/prep/tir-tps-3.html"
     },
     {
-        "name_pesticides": "Тифенс, ВДГ"
+        "name_pesticides": "Тирам, ВСК",
+        "link": "/goshandbook/prep/tiram-vsk.html"
     },
     {
-        "name_pesticides": "ТифилАгро, ВДГ"
+        "name_pesticides": "Тирон,ВДГ",
+        "link": "/goshandbook/prep/tironvdg.html"
     },
     {
-        "name_pesticides": "ТМТД, ВСК"
+        "name_pesticides": "Титул 390, ККР",
+        "link": "/goshandbook/prep/titul-390-kkr-2.html"
     },
     {
-        "name_pesticides": "ТМТД-плюс, КС"
+        "name_pesticides": "Титул Трио, ККР",
+        "link": "/goshandbook/prep/titul-trio-kkr-2.html"
     },
     {
-        "name_pesticides": "Томатон, Р"
+        "name_pesticides": "Титус, СТС",
+        "link": "/goshandbook/prep/titus-sts-2.html"
     },
     {
-        "name_pesticides": "Тонус, ВДГ"
+        "name_pesticides": "Тифенс, ВДГ",
+        "link": "/goshandbook/prep/tifens-vdg-2.html"
     },
     {
-        "name_pesticides": "Топик, КЭ"
+        "name_pesticides": "ТифилАгро, ВДГ",
+        "link": "/goshandbook/prep/tifilagro-vdg.html"
     },
     {
-        "name_pesticides": "Топсин-М, КС"
+        "name_pesticides": "ТМТД, ВСК",
+        "link": "/goshandbook/prep/tmtd-vsk-3.html"
     },
     {
-        "name_pesticides": "Топтун 100, КЭ"
+        "name_pesticides": "ТМТД-плюс, КС",
+        "link": "/goshandbook/prep/tmtd-plyus-ks-2.html"
     },
     {
-        "name_pesticides": "Топшот 113, МД"
+        "name_pesticides": "Томатон, Р",
+        "link": "/goshandbook/prep/tomaton-r-2.html"
     },
     {
-        "name_pesticides": "Торег, КЭ"
+        "name_pesticides": "Тонус, ВДГ",
+        "link": "/goshandbook/prep/tonus-vdg-4.html"
     },
     {
-        "name_pesticides": "Торнадо 500, ВР"
+        "name_pesticides": "Топик, КЭ",
+        "link": "/goshandbook/prep/topik-ke-2.html"
     },
     {
-        "name_pesticides": "Торнадо, ВР"
+        "name_pesticides": "Топсин-М, КС",
+        "link": "/goshandbook/prep/topsin-m-ks.html"
     },
     {
-        "name_pesticides": "Тотал, ВР"
+        "name_pesticides": "Топтун 100, КЭ",
+        "link": "/goshandbook/prep/toptun-100-ke.html"
     },
     {
-        "name_pesticides": "Трафик, ВРК"
+        "name_pesticides": "Топшот 113, МД",
+        "link": "/goshandbook/prep/topshot-113-md.html"
     },
     {
-        "name_pesticides": "ТриАгро, КС"
+        "name_pesticides": "Торег, КЭ",
+        "link": "/goshandbook/prep/toreg-ke.html"
     },
     {
-        "name_pesticides": "Триада, ККР"
+        "name_pesticides": "Торнадо 500, ВР",
+        "link": "/goshandbook/prep/tornado-500-vr-4.html"
     },
     {
-        "name_pesticides": "Триактив, КС"
+        "name_pesticides": "Торнадо, ВР",
+        "link": "/goshandbook/prep/tornado-vr-5.html"
     },
     {
-        "name_pesticides": "Трианум Г, Г"
+        "name_pesticides": "Тотал, ВР",
+        "link": "/goshandbook/prep/total-vr-5.html"
     },
     {
-        "name_pesticides": "Триас, ВДГ"
+        "name_pesticides": "Трафик, ВРК",
+        "link": "/goshandbook/prep/trafik-vrk-2.html"
     },
     {
-        "name_pesticides": "Трибинстар, ВДГ"
+        "name_pesticides": "ТриАгро, КС",
+        "link": "/goshandbook/prep/triagro-ks.html"
     },
     {
-        "name_pesticides": "Трибунал, ВДГ"
+        "name_pesticides": "Триада, ККР",
+        "link": "/goshandbook/prep/triada-kkr-3.html"
     },
     {
-        "name_pesticides": "Тридим, КС"
+        "name_pesticides": "Триактив, КС",
+        "link": "/goshandbook/prep/triaktiv-ks.html"
     },
     {
-        "name_pesticides": "Триметил, ВДГ"
+        "name_pesticides": "Трианум Г, Г",
+        "link": "/goshandbook/prep/trianum-g-g.html"
     },
     {
-        "name_pesticides": "Триптих, КС"
+        "name_pesticides": "Триас, ВДГ",
+        "link": "/goshandbook/prep/trias-vdg-3.html"
     },
     {
-        "name_pesticides": "Трисил, ВДГ"
+        "name_pesticides": "Трибинстар, ВДГ",
+        "link": "/goshandbook/prep/tribinstar-vdg-2.html"
     },
     {
-        "name_pesticides": "Тритон, КС"
+        "name_pesticides": "Трибунал, ВДГ",
+        "link": "/goshandbook/prep/tribunal-vdg.html"
     },
     {
-        "name_pesticides": "Триходерма Вериде 471, СП"
+        "name_pesticides": "Тридим, КС",
+        "link": "/goshandbook/prep/tridim-ks-2.html"
     },
     {
-        "name_pesticides": "Трихофит Плюс, Ж"
+        "name_pesticides": "Триметил, ВДГ",
+        "link": "/goshandbook/prep/trimetil-vdg.html"
     },
     {
-        "name_pesticides": "Трицепс, ВДГ"
+        "name_pesticides": "Триптих, КС",
+        "link": "/goshandbook/prep/triptih-ks.html"
     },
     {
-        "name_pesticides": "Туарег, СМЭ"
+        "name_pesticides": "Трисил, ВДГ",
+        "link": "/goshandbook/prep/trisil-vdg-2.html"
     },
     {
-        "name_pesticides": "Тумен, ТКС"
+        "name_pesticides": "Тритон, КС",
+        "link": "/goshandbook/prep/triton-ks-2.html"
     },
     {
-        "name_pesticides": "УкоренитЪ, СП"
+        "name_pesticides": "Триходерма Вериде 471, СП",
+        "link": "/goshandbook/prep/trihoderma-veride-471-sp-2.html"
     },
     {
-        "name_pesticides": "Улис, ВДГ"
+        "name_pesticides": "Трихофит Плюс, Ж",
+        "link": "/goshandbook/prep/trihofit-plyus-j.html"
     },
     {
-        "name_pesticides": "Универсал, КС"
+        "name_pesticides": "Трицепс, ВДГ",
+        "link": "/goshandbook/prep/triceps-vdg-3.html"
     },
     {
-        "name_pesticides": "Ураган Форте, ВР"
+        "name_pesticides": "Туарег, СМЭ",
+        "link": "/goshandbook/prep/tuareg-sme-2.html"
     },
     {
-        "name_pesticides": "Фабиан, ВДГ"
+        "name_pesticides": "Тумен, ТКС",
+        "link": "/goshandbook/prep/tumen-tks.html"
     },
     {
-        "name_pesticides": "Фазис, ВДГ"
+        "name_pesticides": "УкоренитЪ, СП",
+        "link": "/goshandbook/prep/ukorenit-sp-2.html"
     },
     {
-        "name_pesticides": "Факел Экстра, ВР"
+        "name_pesticides": "Улис, ВДГ",
+        "link": "/goshandbook/prep/ulis-vdg-5.html"
     },
     {
-        "name_pesticides": "Фактория, МКС"
+        "name_pesticides": "Универсал, КС",
+        "link": "/goshandbook/prep/universal-ks.html"
     },
     {
-        "name_pesticides": "Фамокс, ВДГ"
+        "name_pesticides": "Ураган Форте, ВР",
+        "link": "/goshandbook/prep/uragan-forte-vr-5.html"
     },
     {
-        "name_pesticides": "Фараон Супер, КС"
+        "name_pesticides": "Фабиан, ВДГ",
+        "link": "/goshandbook/prep/fabian-vdg-3.html"
     },
     {
-        "name_pesticides": "Фарватер, КС"
+        "name_pesticides": "Фазис, ВДГ",
+        "link": "/goshandbook/prep/fazis-vdg.html"
     },
     {
-        "name_pesticides": "Фарди, КЭ"
+        "name_pesticides": "Факел Экстра, ВР",
+        "link": "/goshandbook/prep/fakel-ekstra-vr-2.html"
     },
     {
-        "name_pesticides": "ФАС, серная шашка"
+        "name_pesticides": "Фактория, МКС",
+        "link": "/goshandbook/prep/faktoriya-mks.html"
     },
     {
-        "name_pesticides": "Фаскорд, КЭ"
+        "name_pesticides": "Фамокс, ВДГ",
+        "link": "/goshandbook/prep/famoks-vdg-3.html"
     },
     {
-        "name_pesticides": "Фасшанс, КЭ"
+        "name_pesticides": "Фараон Супер, КС",
+        "link": "/goshandbook/prep/faraon-super-ks-2.html"
     },
     {
-        "name_pesticides": "Фатрин, КЭ"
+        "name_pesticides": "Фарватер, КС",
+        "link": "/goshandbook/prep/farvater-ks.html"
     },
     {
-        "name_pesticides": "Фезан 250, КЭ"
+        "name_pesticides": "Фарди, КЭ",
+        "link": "/goshandbook/prep/fardi-ke.html"
     },
     {
-        "name_pesticides": "Фендрик, КС"
+        "name_pesticides": "ФАС, серная шашка",
+        "link": "/goshandbook/prep/fas-sernaya-shashka-3.html"
     },
     {
-        "name_pesticides": "Феникс Дуо, КС"
+        "name_pesticides": "Фаскорд, КЭ",
+        "link": "/goshandbook/prep/faskord-ke-3.html"
     },
     {
-        "name_pesticides": "Феноксоп 100, КЭ"
+        "name_pesticides": "Фасшанс, КЭ",
+        "link": "/goshandbook/prep/fasshans-ke.html"
     },
     {
-        "name_pesticides": "Феразим, КС"
+        "name_pesticides": "Фатрин, КЭ",
+        "link": "/goshandbook/prep/fatrin-ke-2.html"
     },
     {
-        "name_pesticides": "Фея, КЭ"
+        "name_pesticides": "Фезан 250, КЭ",
+        "link": "/goshandbook/prep/fezan-250-ke.html"
     },
     {
-        "name_pesticides": "Филдер 69, ВГ"
+        "name_pesticides": "Фендрик, КС",
+        "link": "/goshandbook/prep/fendrik-ks.html"
     },
     {
-        "name_pesticides": "Фипроксам, КС"
+        "name_pesticides": "Феникс Дуо, КС",
+        "link": "/goshandbook/prep/feniks-duo-ks.html"
     },
     {
-        "name_pesticides": "Фист, КЭ"
+        "name_pesticides": "Феноксоп 100, КЭ",
+        "link": "/goshandbook/prep/fenoksop-100-ke-3.html"
     },
     {
-        "name_pesticides": "Фитоверм Форте, КЭ"
+        "name_pesticides": "Феразим, КС",
+        "link": "/goshandbook/prep/ferazim-ks-2.html"
     },
     {
-        "name_pesticides": "Фитолавин, ВРК"
+        "name_pesticides": "Фея, КЭ",
+        "link": "/goshandbook/prep/feya-ke.html"
     },
     {
-        "name_pesticides": "Фитомаг, П"
+        "name_pesticides": "Филдер 69, ВГ",
+        "link": "/goshandbook/prep/filder-69-vg.html"
     },
     {
-        "name_pesticides": "Фитомаг-Пак, П"
+        "name_pesticides": "Фипроксам, КС",
+        "link": "/goshandbook/prep/fiproksam-ks.html"
     },
     {
-        "name_pesticides": "Фитоспорин-АС, Ж"
+        "name_pesticides": "Фист, КЭ",
+        "link": "/goshandbook/prep/fist-ke.html"
     },
     {
-        "name_pesticides": "Фитоспорин-М, П"
+        "name_pesticides": "Фитоверм М, КЭ",
+        "link": "/goshandbook/prep/fitoverm-m-ke-3.html"
     },
     {
-        "name_pesticides": "Фитотрикс, Ж"
+        "name_pesticides": "Фитоверм, KЭ (50 г/л)",
+        "link": "/goshandbook/prep/fitoverm-ke-(50-g/l).html"
     },
     {
-        "name_pesticides": "Флагман, КС"
+        "name_pesticides": "Фитолекарь, КС",
+        "link": "/goshandbook/prep/fitolekar-ks.html"
     },
     {
-        "name_pesticides": "Фланобин, КС"
+        "name_pesticides": "Фитомаг, ТАБ",
+        "link": "/goshandbook/prep/fitomag-tab.html"
     },
     {
-        "name_pesticides": "Флексити, КС"
+        "name_pesticides": "Фитоплазмин, ВРК",
+        "link": "/goshandbook/prep/fitoplazmin-vrk.html"
     },
     {
-        "name_pesticides": "Флокс, ВДГ"
+        "name_pesticides": "Фитоспорин-М, Ж",
+        "link": "/goshandbook/prep/fitosporin-m-j-2.html"
     },
     {
-        "name_pesticides": "Флорин, СЭ"
+        "name_pesticides": "Фитоспорин-М, ПС",
+        "link": "/goshandbook/prep/fitosporin-m-ps-2.html"
     },
     {
-        "name_pesticides": "Флортек, СЭ"
+        "name_pesticides": "ФлагАгро, ТАБ",
+        "link": "/goshandbook/prep/flagagro-tab.html"
     },
     {
-        "name_pesticides": "Флосул, СК"
+        "name_pesticides": "ФлангАгро, КЭ",
+        "link": "/goshandbook/prep/flangagro-ke-2.html"
     },
     {
-        "name_pesticides": "Флудимакс, КС"
+        "name_pesticides": "Флекс, ВР",
+        "link": "/goshandbook/prep/fleks-vr.html"
     },
     {
-        "name_pesticides": "Флуплант, КС"
+        "name_pesticides": "Флинт, ВСК",
+        "link": "/goshandbook/prep/flint-vsk-3.html"
     },
     {
-        "name_pesticides": "Флутеприд, ТС"
+        "name_pesticides": "Флорастар, СЭ",
+        "link": "/goshandbook/prep/florastar-se.html"
     },
     {
-        "name_pesticides": "Флутриобел, КС"
+        "name_pesticides": "Флоробел, СЭ",
+        "link": "/goshandbook/prep/florobel-se-2.html"
     },
     {
-        "name_pesticides": "Фокстрот Турбо, КЭ"
+        "name_pesticides": "Флосул, СК",
+        "link": "/goshandbook/prep/flosul-sk.html"
     },
     {
-        "name_pesticides": "Фоликур, КЭ"
+        "name_pesticides": "Флуафол, КС",
+        "link": "/goshandbook/prep/fluafol-ks-2.html"
     },
     {
-        "name_pesticides": "Фомесан, ВР"
+        "name_pesticides": "Флуорон, ВДГ",
+        "link": "/goshandbook/prep/fluoron-vdg-3.html"
     },
     {
-        "name_pesticides": "Фомфлаг, ВР"
+        "name_pesticides": "Флутеприд, ТС",
+        "link": "/goshandbook/prep/fluteprid-ts.html"
     },
     {
-        "name_pesticides": "Форвард, МКЭ"
+        "name_pesticides": "Флутривит, КС",
+        "link": "/goshandbook/prep/flutrivit-ks.html"
     },
     {
-        "name_pesticides": "Форис, КС"
+        "name_pesticides": "Флюенс, ВДГ",
+        "link": "/goshandbook/prep/flyuens-vdg.html"
     },
     {
-        "name_pesticides": "Форс Зеа, КС"
+        "name_pesticides": "Фокстрот, ВЭ",
+        "link": "/goshandbook/prep/fokstrot-ve-2.html"
     },
     {
-        "name_pesticides": "Форс, МКС"
+        "name_pesticides": "Фомаз, ВР",
+        "link": "/goshandbook/prep/fomaz-vr.html"
     },
     {
-        "name_pesticides": "Фортенза, КС"
+        "name_pesticides": "Фомесофт, ВК",
+        "link": "/goshandbook/prep/fomesoft-vk.html"
     },
     {
-        "name_pesticides": "Фортиссимо, МД"
+        "name_pesticides": "Фонтелис, КС",
+        "link": "/goshandbook/prep/fontelis-ks.html"
     },
     {
-        "name_pesticides": "Фортуна Голд, ВДГ"
+        "name_pesticides": "Фориндо Микс, МД",
+        "link": "/goshandbook/prep/forindo-miks-md.html"
     },
     {
-        "name_pesticides": "Фоском, ТАБ"
+        "name_pesticides": "Формуляр, КЭ",
+        "link": "/goshandbook/prep/formulyar-ke.html"
     },
     {
-        "name_pesticides": "Фостран, КЭ"
+        "name_pesticides": "Форс, Г",
+        "link": "/goshandbook/prep/fors-g-2.html"
     },
     {
-        "name_pesticides": "Фразол Классик, КС"
+        "name_pesticides": "Форсер Энто, КС",
+        "link": "/goshandbook/prep/forser-ento-ks.html"
     },
     {
-        "name_pesticides": "Франкорн, КС"
+        "name_pesticides": "Фортис, КС",
+        "link": "/goshandbook/prep/fortis-ks-2.html"
     },
     {
-        "name_pesticides": "Фронтьер Оптима, КЭ"
+        "name_pesticides": "Фортуна Глобал, ВДГ",
+        "link": "/goshandbook/prep/fortuna-global-vdg.html"
     },
     {
-        "name_pesticides": "Фултайм, МД"
+        "name_pesticides": "Фортуна Экстра, ВДГ",
+        "link": "/goshandbook/prep/fortuna-ekstra-vdg-2.html"
     },
     {
-        "name_pesticides": "Фумифос, ТАБ"
+        "name_pesticides": "Фостоксин, ТАБ",
+        "link": "/goshandbook/prep/fostoksin-tab-2.html"
     },
     {
-        "name_pesticides": "Фумишанс, ТАБ"
+        "name_pesticides": "Фосфин, ТАБ",
+        "link": "/goshandbook/prep/fosfin-tab.html"
     },
     {
-        "name_pesticides": "Фунгисил, КЭ"
+        "name_pesticides": "Фразол, КС",
+        "link": "/goshandbook/prep/frazol-ks-2.html"
     },
     {
-        "name_pesticides": "Фуролан, Ж"
+        "name_pesticides": "Фреш Форма, П",
+        "link": "/goshandbook/prep/fresh-forma-p.html"
     },
     {
-        "name_pesticides": "Фуфанон Эксперт, ВЭ"
+        "name_pesticides": "Фуджи 1, КЭ",
+        "link": "/goshandbook/prep/fudji-1-ke.html"
     },
     {
-        "name_pesticides": "Фюзилад Супер, КЭ"
+        "name_pesticides": "Фумифаст, ТАБ",
+        "link": "/goshandbook/prep/fumifast-tab-2.html"
     },
     {
-        "name_pesticides": "Фюзилад Форте, КЭ"
+        "name_pesticides": "Фумихелп, ТАБ",
+        "link": "/goshandbook/prep/fumihelp-tab.html"
     },
     {
-        "name_pesticides": "Х-Панд, Ж"
+        "name_pesticides": "Фумфайтер, ТАБ",
+        "link": "/goshandbook/prep/fumfayter-tab-2.html"
     },
     {
-        "name_pesticides": "Хайджек, КС"
+        "name_pesticides": "Фундазол, СП",
+        "link": "/goshandbook/prep/fundazol-sp-2.html"
     },
     {
-        "name_pesticides": "Хакер 300, ВР"
+        "name_pesticides": "Фуроре Ультра, ЭМВ",
+        "link": "/goshandbook/prep/furore-ultra-emv-2.html"
     },
     {
-        "name_pesticides": "Хантер, КЭ"
+        "name_pesticides": "Фьюри, ВЭ",
+        "link": "/goshandbook/prep/fyuri-ve-2.html"
     },
     {
-        "name_pesticides": "Харвест-Макс, Р"
+        "name_pesticides": "Фюзилад Форте, КЭ",
+        "link": "/goshandbook/prep/fyuzilad-forte-ke-2.html"
     },
     {
-        "name_pesticides": "Хармони Про, ВДГ"
+        "name_pesticides": "Х-Панд, Ж",
+        "link": "/goshandbook/prep/h-pand-j.html"
     },
     {
-        "name_pesticides": "Хатор, ВР"
+        "name_pesticides": "Хайджек, КС",
+        "link": "/goshandbook/prep/haydjek-ks.html"
     },
     {
-        "name_pesticides": "Хевимет Голд, КС"
+        "name_pesticides": "Хакер 300, ВР",
+        "link": "/goshandbook/prep/haker-300-vr.html"
     },
     {
-        "name_pesticides": "Хеликовекс, СК"
+        "name_pesticides": "Хантер, КЭ",
+        "link": "/goshandbook/prep/hanter-ke-3.html"
     },
     {
-        "name_pesticides": "Хет-Трик, СК фунгицид"
+        "name_pesticides": "Харвест-Макс, Р",
+        "link": "/goshandbook/prep/harvest-maks-r.html"
     },
     {
-        "name_pesticides": "Хилер, МКЭ"
+        "name_pesticides": "Хармони Про, ВДГ",
+        "link": "/goshandbook/prep/harmoni-pro-vdg.html"
     },
     {
-        "name_pesticides": "Химера, КЭ"
+        "name_pesticides": "Хатор, ВР",
+        "link": "/goshandbook/prep/hator-vr-2.html"
     },
     {
-        "name_pesticides": "Хинуфур, КС"
+        "name_pesticides": "Хевимет Голд, КС",
+        "link": "/goshandbook/prep/hevimet-gold-ks.html"
     },
     {
-        "name_pesticides": "Хищник, Г"
+        "name_pesticides": "Хеликовекс, СК",
+        "link": "/goshandbook/prep/helikoveks-sk-2.html"
     },
     {
-        "name_pesticides": "Хлорпирифос, КЭ"
+        "name_pesticides": "Хет-Трик, СК фунгицид",
+        "link": "/goshandbook/prep/het-trik-sk-fungicid-2.html"
     },
     {
-        "name_pesticides": "Хорист, ВДГ"
+        "name_pesticides": "Хилер, МКЭ",
+        "link": "/goshandbook/prep/hiler-mke-2.html"
     },
     {
-        "name_pesticides": "Хортон, КС"
+        "name_pesticides": "Химера, КЭ",
+        "link": "/goshandbook/prep/himera-ke-2.html"
     },
     {
-        "name_pesticides": "Хранитель, КЭ"
+        "name_pesticides": "Хинуфур, КС",
+        "link": "/goshandbook/prep/hinufur-ks-2.html"
     },
     {
-        "name_pesticides": "ХЭФК, ВР"
+        "name_pesticides": "Хищник, Г",
+        "link": "/goshandbook/prep/hishchnik-g-3.html"
     },
     {
-        "name_pesticides": "Царумин, ВК"
+        "name_pesticides": "Хлорпирифос, КЭ",
+        "link": "/goshandbook/prep/hlorpirifos-ke-2.html"
     },
     {
-        "name_pesticides": "Цветень, КРП"
+        "name_pesticides": "ХОМ, СП",
+        "link": "/goshandbook/prep/hom-sp-2.html"
     },
     {
-        "name_pesticides": "Це Це Це 750, ВК"
+        "name_pesticides": "Хорс Д, КС",
+        "link": "/goshandbook/prep/hors-d-ks.html"
     },
     {
-        "name_pesticides": "Цезарь, КЭ"
+        "name_pesticides": "Хорус, ВДГ",
+        "link": "/goshandbook/prep/horus-vdg-3.html"
     },
     {
-        "name_pesticides": "Цензор Макс, МКЭ"
+        "name_pesticides": "Хронос, КС",
+        "link": "/goshandbook/prep/hronos-ks.html"
     },
     {
-        "name_pesticides": "Центрино, ВК"
+        "name_pesticides": "Царумин, ВК",
+        "link": "/goshandbook/prep/carumin-vk.html"
     },
     {
-        "name_pesticides": "Центурион Нео, КЭ"
+        "name_pesticides": "Цветень, КРП",
+        "link": "/goshandbook/prep/cveten-krp-2.html"
     },
     {
-        "name_pesticides": "Центурион, КЭ"
+        "name_pesticides": "Це Це Це 750, ВК",
+        "link": "/goshandbook/prep/ce-ce-ce-750-vk-2.html"
     },
     {
-        "name_pesticides": "Цепеллин, КЭ"
+        "name_pesticides": "Цезарь, КЭ",
+        "link": "/goshandbook/prep/cezar-ke-2.html"
     },
     {
-        "name_pesticides": "Ци-Альфа, КЭ"
+        "name_pesticides": "Цензор Макс, МКЭ",
+        "link": "/goshandbook/prep/cenzor-maks-mke.html"
     },
     {
-        "name_pesticides": "Циклон, КЭ"
+        "name_pesticides": "Центрино, ВК",
+        "link": "/goshandbook/prep/centrino-vk-2.html"
     },
     {
-        "name_pesticides": "Циперус, КЭ"
+        "name_pesticides": "Центурион Нео, КЭ",
+        "link": "/goshandbook/prep/centurion-neo-ke-2.html"
     },
     {
-        "name_pesticides": "Ципи, КЭ"
+        "name_pesticides": "Центурион, КЭ",
+        "link": "/goshandbook/prep/centurion-ke-2.html"
     },
     {
-        "name_pesticides": "Циракс, КЭ"
+        "name_pesticides": "Цепеллин, КЭ",
+        "link": "/goshandbook/prep/cepellin-ke-2.html"
     },
     {
-        "name_pesticides": "Цитадель 25, МД"
+        "name_pesticides": "Ци-Альфа, КЭ",
+        "link": "/goshandbook/prep/ci-alfa-ke-2.html"
     },
     {
-        "name_pesticides": "Цитокс, КЭ"
+        "name_pesticides": "Циклон, КЭ",
+        "link": "/goshandbook/prep/ciklon-ke.html"
     },
     {
-        "name_pesticides": "Цицерон, ВДГ"
+        "name_pesticides": "Циперус, КЭ",
+        "link": "/goshandbook/prep/ciperus-ke-3.html"
     },
     {
-        "name_pesticides": "Цунами, КЭ"
+        "name_pesticides": "Ципи, КЭ",
+        "link": "/goshandbook/prep/cipi-ke-2.html"
     },
     {
-        "name_pesticides": "Челленджер, ВРК"
+        "name_pesticides": "Циракс, КЭ",
+        "link": "/goshandbook/prep/ciraks-ke-2.html"
     },
     {
-        "name_pesticides": "Чисталан экстра, КЭ"
+        "name_pesticides": "Цитадель 25, МД",
+        "link": "/goshandbook/prep/citadel-25-md-2.html"
     },
     {
-        "name_pesticides": "Чисталан-супер, КЭ"
+        "name_pesticides": "Цитокс, КЭ",
+        "link": "/goshandbook/prep/citoks-ke.html"
     },
     {
-        "name_pesticides": "Чистофлор, КЭ"
+        "name_pesticides": "Цицерон, ВДГ",
+        "link": "/goshandbook/prep/ciceron-vdg.html"
     },
     {
-        "name_pesticides": "Чистоцвет, КЭ"
+        "name_pesticides": "Цунами, КЭ",
+        "link": "/goshandbook/prep/cunami-ke-2.html"
     },
     {
-        "name_pesticides": "Шаман, КЭ"
+        "name_pesticides": "Челленджер, ВРК",
+        "link": "/goshandbook/prep/chellendjer-vrk.html"
     },
     {
-        "name_pesticides": "Шанс Голд, КС"
+        "name_pesticides": "Чисталан экстра, КЭ",
+        "link": "/goshandbook/prep/chistalan-ekstra-ke-3.html"
     },
     {
-        "name_pesticides": "Шанс Профи, ВДГ"
+        "name_pesticides": "Чисталан-супер, КЭ",
+        "link": "/goshandbook/prep/chistalan-super-ke.html"
     },
     {
-        "name_pesticides": "Шансил Трио, КС"
+        "name_pesticides": "Чистофлор, КЭ",
+        "link": "/goshandbook/prep/chistoflor-ke.html"
     },
     {
-        "name_pesticides": "Шансил Ультра, КС"
+        "name_pesticides": "Чистоцвет, КЭ",
+        "link": "/goshandbook/prep/chistocvet-ke-4.html"
     },
     {
-        "name_pesticides": "Шансилин, ВДГ"
+        "name_pesticides": "Шаман, КЭ",
+        "link": "/goshandbook/prep/shaman-ke-2.html"
     },
     {
-        "name_pesticides": "Шансометокс Трио, КС"
+        "name_pesticides": "Шанс Голд, КС",
+        "link": "/goshandbook/prep/shans-gold-ks-2.html"
     },
     {
-        "name_pesticides": "Шансомитрон, КС"
+        "name_pesticides": "Шанс Профи, ВДГ",
+        "link": "/goshandbook/prep/shans-profi-vdg.html"
     },
     {
-        "name_pesticides": "Шанстар, ВДГ"
+        "name_pesticides": "Шансил Трио, КС",
+        "link": "/goshandbook/prep/shansil-trio-ks-2.html"
     },
     {
-        "name_pesticides": "Шанстрел 300, ВР"
+        "name_pesticides": "Шансил Ультра, КС",
+        "link": "/goshandbook/prep/shansil-ultra-ks-2.html"
     },
     {
-        "name_pesticides": "Шантус, ВДГ"
+        "name_pesticides": "Шансилин, ВДГ",
+        "link": "/goshandbook/prep/shansilin-vdg.html"
     },
     {
-        "name_pesticides": "Шин-Етсу  ТА, Д"
+        "name_pesticides": "Шансометокс Трио, КС",
+        "link": "/goshandbook/prep/shansometoks-trio-ks-2.html"
     },
     {
-        "name_pesticides": "Шин-Етсу МД Дуо ТТ, Д"
+        "name_pesticides": "Шансомитрон, КС",
+        "link": "/goshandbook/prep/shansomitron-ks.html"
     },
     {
-        "name_pesticides": "Шин-Етсу МД СТТ, Д"
+        "name_pesticides": "Шанстар, ВДГ",
+        "link": "/goshandbook/prep/shanstar-vdg-2.html"
     },
     {
-        "name_pesticides": "Ширма, КС"
+        "name_pesticides": "Шанстрел 300, ВР",
+        "link": "/goshandbook/prep/shanstrel-300-vr-3.html"
     },
     {
-        "name_pesticides": "Шкипер, ВР"
+        "name_pesticides": "Шантус, ВДГ",
+        "link": "/goshandbook/prep/shantus-vdg-2.html"
     },
     {
-        "name_pesticides": "Шпага, КС"
+        "name_pesticides": "Шин-Етсу  ТА, Д",
+        "link": "/goshandbook/prep/shin-etsu-ta-d-2.html"
     },
     {
-        "name_pesticides": "Эвентус, МЭ"
+        "name_pesticides": "Шин-Етсу МД Дуо ТТ, Д",
+        "link": "/goshandbook/prep/shin-etsu-md-duo-tt-d.html"
     },
     {
-        "name_pesticides": "Эвито Т, КС"
+        "name_pesticides": "Шин-Етсу МД СТТ, Д",
+        "link": "/goshandbook/prep/shin-etsu-md-stt-d.html"
     },
     {
-        "name_pesticides": "Эвклид, СК"
+        "name_pesticides": "Ширма, КС",
+        "link": "/goshandbook/prep/shirma-ks-2.html"
     },
     {
-        "name_pesticides": "Эволюшн, КЭ"
+        "name_pesticides": "Шкипер, ВР",
+        "link": "/goshandbook/prep/shkiper-vr.html"
     },
     {
-        "name_pesticides": "Эйс, ККР"
+        "name_pesticides": "Шпага, КС",
+        "link": "/goshandbook/prep/shpaga-ks.html"
     },
     {
-        "name_pesticides": "Экогель экстра, ВР"
+        "name_pesticides": "Эвентус, МЭ",
+        "link": "/goshandbook/prep/eventus-me.html"
     },
     {
-        "name_pesticides": "Экопин, ТПС"
+        "name_pesticides": "Эвито Т, КС",
+        "link": "/goshandbook/prep/evito-t-ks-3.html"
     },
     {
-        "name_pesticides": "Эксифир, КЭ"
+        "name_pesticides": "Эвклид, СК",
+        "link": "/goshandbook/prep/evklid-sk.html"
     },
     {
-        "name_pesticides": "Эксперт Квадро, МКС"
+        "name_pesticides": "Эволюшн, КЭ",
+        "link": "/goshandbook/prep/evolyushn-ke.html"
     },
     {
-        "name_pesticides": "Эксперт Трио ОФ, КЭ"
+        "name_pesticides": "Эйс, ККР",
+        "link": "/goshandbook/prep/eys-kkr.html"
     },
     {
-        "name_pesticides": "Экспресс, ВДГ"
+        "name_pesticides": "Экогель экстра, ВР",
+        "link": "/goshandbook/prep/ekogel-ekstra-vr.html"
     },
     {
-        "name_pesticides": "Экстракорн, СЭ"
+        "name_pesticides": "Экопин, ТПС",
+        "link": "/goshandbook/prep/ekopin-tps-2.html"
     },
     {
-        "name_pesticides": "Элант, КЭ"
+        "name_pesticides": "Эксифир, КЭ",
+        "link": "/goshandbook/prep/eksifir-ke-2.html"
     },
     {
-        "name_pesticides": "Элатус Плюс, КЭ"
+        "name_pesticides": "Эксперт Квадро, МКС",
+        "link": "/goshandbook/prep/ekspert-kvadro-mks.html"
     },
     {
-        "name_pesticides": "Элатус Эйс, КЭ"
+        "name_pesticides": "Эксперт Трио ОФ, КЭ",
+        "link": "/goshandbook/prep/ekspert-trio-of-ke.html"
     },
     {
-        "name_pesticides": "Элефант, КЭ"
+        "name_pesticides": "Экспресс, ВДГ",
+        "link": "/goshandbook/prep/ekspress-vdg-2.html"
     },
     {
-        "name_pesticides": "Эллай Лайт, ВДГ"
+        "name_pesticides": "Экстракорн, СЭ",
+        "link": "/goshandbook/prep/ekstrakorn-se.html"
     },
     {
-        "name_pesticides": "Эмаклэйм, ВРГ"
+        "name_pesticides": "Элант, КЭ",
+        "link": "/goshandbook/prep/elant-ke-2.html"
     },
     {
-        "name_pesticides": "Эмбрелия Экстра, СК"
+        "name_pesticides": "Элатус Плюс, КЭ",
+        "link": "/goshandbook/prep/elatus-plyus-ke.html"
     },
     {
-        "name_pesticides": "Эместо Квантум, КС"
+        "name_pesticides": "Элатус Эйс, КЭ",
+        "link": "/goshandbook/prep/elatus-eys-ke.html"
     },
     {
-        "name_pesticides": "Эместо Сильвер, КС"
+        "name_pesticides": "Элефант, КЭ",
+        "link": "/goshandbook/prep/elefant-ke-4.html"
     },
     {
-        "name_pesticides": "Эмистим, Р"
+        "name_pesticides": "Эллай Лайт, ВДГ",
+        "link": "/goshandbook/prep/ellay-layt-vdg.html"
     },
     {
-        "name_pesticides": "Эндимион, КЭ"
+        "name_pesticides": "Эмаклэйм, ВРГ",
+        "link": "/goshandbook/prep/emakleym-vrg-2.html"
     },
     {
-        "name_pesticides": "Энергия-М, КРП, ТАБ"
+        "name_pesticides": "Эмбрелия Экстра, СК",
+        "link": "/goshandbook/prep/embreliya-ekstra-sk-2.html"
     },
     {
-        "name_pesticides": "Эпивио Вигор, Ж"
+        "name_pesticides": "Эместо Квантум, КС",
+        "link": "/goshandbook/prep/emesto-kvantum-ks.html"
     },
     {
-        "name_pesticides": "ЭплЛин, ВРП"
+        "name_pesticides": "Эместо Сильвер, КС",
+        "link": "/goshandbook/prep/emesto-silver-ks.html"
     },
     {
-        "name_pesticides": "Эпсилон, КЭ"
+        "name_pesticides": "Эмистим, Р",
+        "link": "/goshandbook/prep/emistim-r-2.html"
     },
     {
-        "name_pesticides": "Эрколе, Г"
+        "name_pesticides": "Эндимион, КЭ",
+        "link": "/goshandbook/prep/endimion-ke-2.html"
     },
     {
-        "name_pesticides": "Эскудо, ВДГ"
+        "name_pesticides": "Энергия-М, КРП, ТАБ",
+        "link": "/goshandbook/prep/energiya-m-krp-tab-2.html"
     },
     {
-        "name_pesticides": "Эсперо, КС"
+        "name_pesticides": "Эпивио Вигор, Ж",
+        "link": "/goshandbook/prep/epivio-vigor-j.html"
     },
     {
-        "name_pesticides": "Эстерон 600, КЭ"
+        "name_pesticides": "ЭплЛин, ВРП",
+        "link": "/goshandbook/prep/epllin-vrp.html"
     },
     {
-        "name_pesticides": "Эсток, ВДГ"
+        "name_pesticides": "Эпсилон, КЭ",
+        "link": "/goshandbook/prep/epsilon-ke-2.html"
     },
     {
-        "name_pesticides": "Этамастер Супер, ВДГ"
+        "name_pesticides": "Эрколе, Г",
+        "link": "/goshandbook/prep/erkole-g.html"
     },
     {
-        "name_pesticides": "Этамет, ВДГ"
+        "name_pesticides": "Эскудо, ВДГ",
+        "link": "/goshandbook/prep/eskudo-vdg-3.html"
     },
     {
-        "name_pesticides": "Этамон, ВР"
+        "name_pesticides": "Эсперо, КС",
+        "link": "/goshandbook/prep/espero-ks.html"
     },
     {
-        "name_pesticides": "Эурон, ВДГ"
+        "name_pesticides": "Эстерон 600, КЭ",
+        "link": "/goshandbook/prep/esteron-600-ke.html"
     },
     {
-        "name_pesticides": "Эфес, КЭ"
+        "name_pesticides": "Эсток, ВДГ",
+        "link": "/goshandbook/prep/estok-vdg-3.html"
     },
     {
-        "name_pesticides": "Эфирам, КЭ"
+        "name_pesticides": "Этамастер Супер, ВДГ",
+        "link": "/goshandbook/prep/etamaster-super-vdg.html"
     },
     {
-        "name_pesticides": "Эфория Топ, МКС"
+        "name_pesticides": "Этамет, ВДГ",
+        "link": "/goshandbook/prep/etamet-vdg.html"
     },
     {
-        "name_pesticides": "Эфробел, КС"
+        "name_pesticides": "Этамон, ВР",
+        "link": "/goshandbook/prep/etamon-vr-2.html"
     },
     {
-        "name_pesticides": "Юзмар, ВР"
+        "name_pesticides": "Эурон, ВДГ",
+        "link": "/goshandbook/prep/euron-vdg-2.html"
     },
     {
-        "name_pesticides": "Юниформ, СЭ"
+        "name_pesticides": "Эфес, КЭ",
+        "link": "/goshandbook/prep/efes-ke.html"
     },
     {
-        "name_pesticides": "Юнкер, ВР"
+        "name_pesticides": "Эфирам, КЭ",
+        "link": "/goshandbook/prep/efiram-ke-2.html"
     },
     {
-        "name_pesticides": "Янтарин БАУ, ВР"
+        "name_pesticides": "Эфория Топ, МКС",
+        "link": "/goshandbook/prep/eforiya-top-mks-2.html"
     },
     {
-        "name_pesticides": "Янтарная кислота, ВРП"
+        "name_pesticides": "Эфробел, КС",
+        "link": "/goshandbook/prep/efrobel-ks-2.html"
+    },
+    {
+        "name_pesticides": "Юзмар, ВР",
+        "link": "/goshandbook/prep/yuzmar-vr.html"
+    },
+    {
+        "name_pesticides": "Юниформ, СЭ",
+        "link": "/goshandbook/prep/yuniform-se.html"
+    },
+    {
+        "name_pesticides": "Юнкер, ВР",
+        "link": "/goshandbook/prep/yunker-vr-2.html"
+    },
+    {
+        "name_pesticides": "Янтарин БАУ, ВР",
+        "link": "/goshandbook/prep/yantarin-bau-vr.html"
+    },
+    {
+        "name_pesticides": "Янтарная кислота, ВРП",
+        "link": "/goshandbook/prep/yantarnaya-kislota-vrp.html"
     }
 ]
