@@ -3,10 +3,10 @@ from config import *
 r = requests.get("https://www.agroxxi.ru/goshandbook/prep/abakus-praym-se-2.html")
 html = BS(r.content, 'html.parser')
 
-for el in html.select(".prepdata > .content"):
-    title = el.select('.prephar > p')
-    print( title[0].text )
+page_all_p = html.find_all("p")
 
-    print("подкл")
+for item in page_all_p:
+    print(item.text)
 
-print('не подкл')
+# data = BS.find("div", class="prepdata").find(".prephar")
+# print(data.text)

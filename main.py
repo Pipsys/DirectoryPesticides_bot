@@ -27,7 +27,7 @@ async def process_callback_pesticides(callback_query: types.CallbackQuery):
     await bot.answer_callback_query(callback_query.id)
     await callback_query.message.edit_text('Напишите назвние пестицида или используйте удобный список.\nНайдется все!', parse_mode='html', reply_markup = await pesticidesKB())
 
-    r = requests.get("https://www.agroxxi.ru/goshandbook/wiki/pesticides")
+    r = requests.get('https://www.agroxxi.ru/goshandbook/wiki/pesticides')
     html = BS(r.content, 'html.parser')
 
     name_pesticides = []
@@ -92,21 +92,27 @@ async def process_callback_pesticide(callback_query: types.CallbackQuery):
 
     await callback_query.message.edit_text(f"Ссылка на {found_pesticide['name_pesticides']}: https://www.agroxxi.ru{found_pesticide['link']}")
     
-    r = requests.get(f'https://www.agroxxi.ru{found_pesticide['link']}')
+    r = requests.get(f"https://www.agroxxi.ru{found_pesticide['link']}")
     html = BS(r.content, 'html.parser')
 
-    name_pesticides = []
+    page_all_p = html.find_all("p")
 
-    for el in html.select(".prepdata > .row"):
-        title = el.select('.alfabet-title a')
-        if title:
-            name_pesticides.append({'data_pesticides': title[0].text, 'link': title[0].get('href')})
+    print(page_all_p)
+    for item in page_all_p:
+        await callback_query.message.answer(item.text)
 
-    # Запись данных в файл JSON
-    with open('data_pesticides.json', 'w', encoding='utf-8') as f:
-        json.dump(name_pesticides, f, ensure_ascii=False, indent=4)
+    # name_pesticides = []
 
-    print("Данные успешно сохранены в файл name_pesticides.json")
+    # for el in html.select(".prepdata > .row"):
+    #     title = el.select('.alfabet-title a')
+    #     if title:
+    #         name_pesticides.append({'data_pesticides': title[0].text, 'link': title[0].get('href')})
+
+    # # Запись данных в файл JSON
+    # with open('data_pesticides.json', 'w', encoding='utf-8') as f:
+    #     json.dump(name_pesticides, f, ensure_ascii=False, indent=4)
+
+    # print("Данные успешно сохранены в файл name_pesticides.json")
 
 @dp.callback_query_handler(lambda c: c.data == 'pesticides - back')
 async def process_callback_pesticidesBack(callback_query: types.CallbackQuery):
