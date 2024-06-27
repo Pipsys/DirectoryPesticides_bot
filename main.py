@@ -31,12 +31,6 @@ async def process_callback_pesticides(callback_query: types.CallbackQuery):
     html = BS(r.content, 'html.parser')
 
     name_pesticides = []
-
-    # Извлечение данных
-    # for el in html.select(".listcatzrast > .row"):
-    #     title = el.select('.alfabet-title > a')
-    #     if title:
-    #         name_pesticides.append({'name_pesticides': title[0].text})
             
     for el in html.select(".listcatzrast > .row"):
         title = el.select('.alfabet-title a')
@@ -44,13 +38,13 @@ async def process_callback_pesticides(callback_query: types.CallbackQuery):
             name_pesticides.append({'name_pesticides': title[0].text, 'link': title[0].get('href')})
 
     # Запись данных в файл JSON
-    with open('name_pesticides.json', 'w', encoding='utf-8') as f:
+    with open('json/pesticides_name.json', 'w', encoding='utf-8') as f:
         json.dump(name_pesticides, f, ensure_ascii=False, indent=4)
 
     print("Данные успешно сохранены в файл name_pesticides.json")
 
     # Загрузка данных из JSON файла
-    with open('name_pesticides.json', 'r', encoding='utf-8') as f:
+    with open('json/pesticides_name.json', 'r', encoding='utf-8') as f:
         pesticides = json.load(f)
 
     # Обработчик для текстовых сообщений
@@ -85,37 +79,51 @@ async def process_callback_pesticide(callback_query: types.CallbackQuery):
         
     pesticide_name = callback_query.data[len('pesticide_'):]
 
-    with open('name_pesticides.json', 'r', encoding='utf-8') as f:
+    with open('json/pesticides_name.json', 'r', encoding='utf-8') as f:
         pesticides = json.load(f)
 
     found_pesticide = next((p for p in pesticides if p['name_pesticides'] == pesticide_name), None)
 
-    await callback_query.message.edit_text(f"Ссылка на {found_pesticide['name_pesticides']}: https://www.agroxxi.ru{found_pesticide['link']}")
+    # await callback_query.message.edit_text(f"Ссылка на {found_pesticide['name_pesticides']}: https://www.agroxxi.ru{found_pesticide['link']}")
     
     r = requests.get(f"https://www.agroxxi.ru{found_pesticide['link']}")
     html = BS(r.content, 'html.parser')
 
-    page_all_p = html.find_all("p")
+    h1_name = html.find("h1")
+    h2_group = html.find(attrs={'itemprop': 'category'})
 
-    print(page_all_p)
-    for item in page_all_p:
-        await callback_query.message.answer(item.text)
+    prephar = html.find("div", class_="prephar")
 
-    # name_pesticides = []
+    pesticide_info = {}
 
-    # for el in html.select(".prepdata > .row"):
-    #     title = el.select('.alfabet-title a')
-    #     if title:
-    #         name_pesticides.append({'data_pesticides': title[0].text, 'link': title[0].get('href')})
+    paragraphs = prephar.find_all('p')
 
-    # # Запись данных в файл JSON
-    # with open('data_pesticides.json', 'w', encoding='utf-8') as f:
-    #     json.dump(name_pesticides, f, ensure_ascii=False, indent=4)
+    # Обработка каждого абзаца
+    for paragraph in paragraphs:
+        bold_text = paragraph.find('b')
+        if bold_text:
+            key = bold_text.get_text(strip=True).rstrip(':')
+            value = paragraph.get_text().replace(bold_text.get_text(), '').strip()
+            pesticide_info[key] = value
 
-    # print("Данные успешно сохранены в файл name_pesticides.json")
+    # Вывод информации о препарате
+    # for key, value in pesticide_info.items():
+    #     print(f"{key}: {value}")
+    #     # await callback_query.message.answer(f"{key}: {value}", parse_mode='html')
 
-@dp.callback_query_handler(lambda c: c.data == 'pesticides - back')
-async def process_callback_pesticidesBack(callback_query: types.CallbackQuery):
+    with open('json/pesticide_info.json', 'w', encoding='utf-8') as f:
+        json.dump(pesticide_info, f, ensure_ascii=False, indent=4)
+
+    with open('json/pesticide_info.json', 'r', encoding='utf-8') as f:
+        pesticide_info = json.load(f)
+
+    # await callback_query.message.edit_text(f"<b>{h1_name.text}</b>\n{h2_group.text}\n<b>{key}:</b> {value}", parse_mode='html')
+    # message_text = f"<b>{pesticide_info.get('Название', 'Название не найдено')}</b>\n"
+    message_text = f"<b>{h1_name.text}</b>\n\n{h2_group.text}\n"
+    for key, value in pesticide_info.items():
+        if key != 'Название':
+            message_text += f"\n<b>{key}:</b> {value}\n"
+
     print(callback_query.data)
     await bot.answer_callback_query(callback_query.id)
     await callback_query.message.edit_text('Напишите назвние пестицида или используйте удобный список.\nНайдется все!', parse_mode='html', reply_markup = await pesticidesKB())
