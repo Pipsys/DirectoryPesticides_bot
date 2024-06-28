@@ -18,7 +18,7 @@ async def process_callback_pesticides(callback_query: types.CallbackQuery):
 @dp.callback_query_handler(lambda c: c.data == 'info - Назад')
 async def process_callback_pesticides(callback_query: types.CallbackQuery):
     print(callback_query.data)
-    await callback_query.message.edit_text('Здравствуйте, я чат-бот, который поможет Вам найти любой интересующий вас пестицид', parse_mode='HTML', reply_markup=await mainKB())
+    await callback_query.message.edit_text(welcome_msg, parse_mode='HTML', reply_markup=await mainKB())
 
 # Поиск пестицидов
 @dp.callback_query_handler(lambda c: c.data == 'main - 🔍 Найти пестицид')
@@ -121,13 +121,38 @@ async def process_callback_pesticide(callback_query: types.CallbackQuery):
     # message_text = f"<b>{pesticide_info.get('Название', 'Название не найдено')}</b>\n"
     message_text = f"<b>{h1_name.text}</b>\n\n{h2_group.text}\n"
     for key, value in pesticide_info.items():
-        if key != 'Название':
-            message_text += f"\n<b>{key}:</b> {value}\n"
+        # if key != 'Название':
+        #     message_text += f"\n<b>{key}:</b> {value}\n"
+        message_text += f"<b>{key}:</b> {value}\n"
 
     print(callback_query.data)
     await bot.answer_callback_query(callback_query.id)
-    await callback_query.message.edit_text('Напишите назвние пестицида или используйте удобный список.\nНайдется все!', parse_mode='html', reply_markup = await pesticidesKB())
+    await callback_query.message.edit_text(message_text, parse_mode="html", reply_markup=await pesticide_dataKB())
     
+@dp.callback_query_handler(lambda c: c.data == 'pesticidData - 📗 Список пестицидов')
+async def process_callback_pesticides(callback_query: types.CallbackQuery):
+    print(callback_query.data)
+    await bot.answer_callback_query(callback_query.id)
+    await callback_query.message.edit_text('Список пестицидов', parse_mode='html', reply_markup = await alphabetKB())
+
+
+@dp.callback_query_handler(lambda c: c.data.startswith('alphabet'))
+async def process_alphabet_callback(callback_query: types.CallbackQuery):
+    data = callback_query.data.split(' - ')[1]
+    if data == 'Назад':
+        await bot.answer_callback_query(callback_query.id)
+        await bot.send_message(callback_query.from_user.id, 'Вы нажали "Назад"')
+    else:
+        await bot.answer_callback_query(callback_query.id)
+        await bot.send_message(callback_query.from_user.id, f'Вы выбрали букву: {data}')
+
+
+
+@dp.callback_query_handler(lambda c: c.data == 'pesticidData - Прочитать подробнее')
+async def process_callback_pesticides(callback_query: types.CallbackQuery):
+    print(callback_query.data)
+    await bot.answer_callback_query(callback_query.id)
+    await callback_query.message.edit_text('Ссылка на пестицид')
 
 @dp.callback_query_handler(lambda c: c.data == 'pesticidesMenu - 📗 Список пестицидов')
 async def process_callback_pesticides(callback_query: types.CallbackQuery):
@@ -140,8 +165,7 @@ async def process_callback_pesticides(callback_query: types.CallbackQuery):
 async def process_callback_pesticides(callback_query: types.CallbackQuery):
     print(callback_query.data)
     await bot.answer_callback_query(callback_query.id)
-    await callback_query.message.edit_text('Здравствуйте, я чат-бот, который поможет Вам найти любой интересующий вас пестицид', parse_mode='HTML', reply_markup=await mainKB())
-
+    await callback_query.message.edit_text(welcome_msg, parse_mode='HTML', reply_markup=await mainKB())
 
 @dp.callback_query_handler(lambda c: c.data == 'pesticidesListKB - Назад')
 async def process_callback_pesticides(callback_query: types.CallbackQuery):
