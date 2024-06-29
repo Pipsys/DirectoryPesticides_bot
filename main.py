@@ -135,6 +135,35 @@ async def process_callback_pesticides(callback_query: types.CallbackQuery):
     await bot.answer_callback_query(callback_query.id)
     await callback_query.message.edit_text('Список пестицидов', parse_mode='html', reply_markup = await alphabetKB())
 
+def load_pesticides_data():
+    with open('json/pesticides_name.json', 'r', encoding='utf-8') as file:
+        return json.load(file)
+    
+pesticides_data = load_pesticides_data()
+
+# async def pesticideKB(pesticides, letter):
+#     btn = [InlineKeyboardButton(item['name_pesticides'], callback_data=f'pesticide - {item["link"]}') for item in pesticides]
+#     back_button = InlineKeyboardButton('Назад', callback_data=f'back - {letter}')
+#     btn.append(back_button)
+#     inl_menu = InlineKeyboardMarkup(row_width=1).add(*btn)
+#     return inl_menu
+
+async def pesticideKB(pesticides, letter, page=0, items_per_page=10):
+    start = page * items_per_page
+    end = start + items_per_page
+    btn = [InlineKeyboardButton(item['name_pesticides'], callback_data=f'pesticide - {item["link"]}') for item in pesticides[start:end]]
+    back_button = InlineKeyboardButton('Назад', callback_data=f'back - {letter}')
+
+    if start > 0:
+        prev_button = InlineKeyboardButton('⬅️', callback_data=f'page - {letter} - {page-1}')
+        btn.append(prev_button)
+    if end < len(pesticides):
+        next_button = InlineKeyboardButton('➡️', callback_data=f'page - {letter} - {page+1}')
+        btn.append(next_button)
+    
+    btn.append(back_button)
+    inl_menu = InlineKeyboardMarkup(row_width=1).add(*btn)
+    return inl_menu
 
 @dp.callback_query_handler(lambda c: c.data.startswith('alphabet'))
 async def process_alphabet_callback(callback_query: types.CallbackQuery):
@@ -143,9 +172,37 @@ async def process_alphabet_callback(callback_query: types.CallbackQuery):
         await bot.answer_callback_query(callback_query.id)
         await bot.send_message(callback_query.from_user.id, 'Вы нажали "Назад"')
     else:
+        # Фильтрация пестицидов по выбранной букве
+        filtered_pesticides = [item for item in pesticides_data if item['name_pesticides'].startswith(data)]
+        if filtered_pesticides:
+            pesticides_kb = await pesticideKB(filtered_pesticides, data)
+            await callback_query.message.edit_text(f'Пестициды на букву {data}:', reply_markup=pesticides_kb)
+        else:
+            await bot.send_message(callback_query.from_user.id, f'Нет данных для буквы {data}')
         await bot.answer_callback_query(callback_query.id)
-        await bot.send_message(callback_query.from_user.id, f'Вы выбрали букву: {data}')
 
+@dp.callback_query_handler(lambda c: c.data.startswith('page'))
+async def process_page_callback(callback_query: types.CallbackQuery):
+    _, letter, page = callback_query.data.split(' - ')
+    page = int(page)
+    filtered_pesticides = [item for item in pesticides_data if item['name_pesticides'].startswith(letter)]
+    pesticides_kb = await pesticideKB(filtered_pesticides, letter, page)
+    await bot.edit_message_text(f'Пестициды на букву {letter}:', callback_query.from_user.id, callback_query.message.message_id, reply_markup=pesticides_kb)
+    await bot.answer_callback_query(callback_query.id)
+
+    
+@dp.callback_query_handler(lambda c: c.data.startswith('back'))
+async def process_back_callback(callback_query: types.CallbackQuery):
+    alphabet_kb = await alphabetKB()
+    await bot.send_message(callback_query.from_user.id, "Выберите букву алфавита:", reply_markup=alphabet_kb)
+    await bot.answer_callback_query(callback_query.id)
+
+@dp.callback_query_handler(lambda c: c.data.startswith('back'))
+async def process_back_callback(callback_query: types.CallbackQuery):
+    letter = callback_query.data.split(' - ')[1]
+    alphabet_kb = await alphabetKB()
+    await callback_query.message.edit_text("Выберите букву алфавита:", reply_markup=alphabet_kb)
+    await bot.answer_callback_query(callback_query.id)
 
 
 @dp.callback_query_handler(lambda c: c.data == 'pesticidData - Прочитать подробнее')
