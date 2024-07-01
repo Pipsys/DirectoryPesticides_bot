@@ -51,24 +51,41 @@ async def process_callback_pesticides(callback_query: types.CallbackQuery):
     @dp.message_handler(content_types=types.ContentType.TEXT)
     async def handle_text_message(message: types.Message):
 
-        user_input = message.text.lower()
-        # found_pesticide = next((p for p in pesticides if p['name_pesticides'].lower() == user_input), None)
-        found_pesticide = [p for p in pesticides if user_input in p['name_pesticides'].lower()]
+        # user_input = message.text.lower()
+        # # found_pesticide = next((p for p in pesticides if p['name_pesticides'].lower() == user_input), None)
+        # found_pesticide = [p for p in pesticides if user_input in p['name_pesticides'].lower()]
         
-        if found_pesticide:
-            # await message.reply(f'Найден пестицид: {found_pesticides["name_pesticides"]}')
-            # response = "Найдены следующие пестициды:\n" + "\n".join([p['name_pesticides'] for p in found_pesticide])
+        # if found_pesticide:
+        #     # await message.reply(f'Найден пестицид: {found_pesticides["name_pesticides"]}')
+        #     # response = "Найдены следующие пестициды:\n" + "\n".join([p['name_pesticides'] for p in found_pesticide])
 
+        #     async def pesticides_nameKB():
+        #         # buttons = [p['name_pesticides'] for p in found_pesticide]
+        #         buttons = [InlineKeyboardButton(p['name_pesticides'], callback_data=f'pesticide_{p["name_pesticides"]}')
+        #                 for p in found_pesticide]
+        #         back_button = InlineKeyboardButton('Назад', callback_data='pesticides - back')
+        #         inl_menu = InlineKeyboardMarkup(row_width=1).add(*buttons, back_button)
+        #         return inl_menu
+            
+        #     await message.answer("Найдены следующие пестициды", reply_markup=await pesticides_nameKB())
+
+        # else:
+        #     await message.answer('Пестицид не найден. Попробуйте ввести другое название.')
+
+        user_input = message.text.lower()
+        starts_with_input = [p for p in pesticides if p['name_pesticides'].lower().startswith(user_input)]
+        contains_input = [p for p in pesticides if user_input in p['name_pesticides'].lower() and p not in starts_with_input]
+        found_pesticide = starts_with_input + contains_input
+
+        if found_pesticide:
             async def pesticides_nameKB():
-                # buttons = [p['name_pesticides'] for p in found_pesticide]
                 buttons = [InlineKeyboardButton(p['name_pesticides'], callback_data=f'pesticide_{p["name_pesticides"]}')
-                        for p in found_pesticide]
+                           for p in found_pesticide]
                 back_button = InlineKeyboardButton('Назад', callback_data='pesticides - back')
                 inl_menu = InlineKeyboardMarkup(row_width=1).add(*buttons, back_button)
                 return inl_menu
-            
-            await message.answer("Найдены следующие пестициды", reply_markup=await pesticides_nameKB())
 
+            await message.answer("Найдены следующие пестициды", reply_markup=await pesticides_nameKB())
         else:
             await message.answer('Пестицид не найден. Попробуйте ввести другое название.')
 
@@ -125,10 +142,24 @@ async def process_callback_pesticide(callback_query: types.CallbackQuery):
         #     message_text += f"\n<b>{key}:</b> {value}\n"
         message_text += f"<b>{key}:</b> {value}\n"
 
+    async def pesticide_dataKB():
+        buttons = ['📗 Список пестицидов','Назад']
+        btn = [InlineKeyboardButton(button, callback_data=f'pesticidData - {button}')
+                for button in buttons]
+        links = InlineKeyboardButton('Прочитать подробнее', url=f"https://www.agroxxi.ru{found_pesticide['link']}")
+        inl_menu = InlineKeyboardMarkup(row_width=1).add(links).add(*btn)
+        return inl_menu
+
     print(callback_query.data)
     await bot.answer_callback_query(callback_query.id)
     await callback_query.message.edit_text(message_text, parse_mode="html", reply_markup=await pesticide_dataKB())
     
+@dp.callback_query_handler(lambda c: c.data.startswith('pesticides - back'))
+async def process_callback_pesticide(callback_query: types.CallbackQuery):
+    print(callback_query.data)
+    await callback_query.message.delete()
+    
+
 @dp.callback_query_handler(lambda c: c.data == 'pesticidData - 📗 Список пестицидов')
 async def process_callback_pesticides(callback_query: types.CallbackQuery):
     print(callback_query.data)
@@ -151,7 +182,7 @@ pesticides_data = load_pesticides_data()
 async def pesticideKB(pesticides, letter, page=0, items_per_page=10):
     start = page * items_per_page
     end = start + items_per_page
-    btn = [InlineKeyboardButton(item['name_pesticides'], callback_data=f'pesticidelist - {item["link"]}') for item in pesticides[start:end]]
+    btn = [InlineKeyboardButton(item['name_pesticides'], callback_data=f'pesticidelist_{item["name_pesticides"]}') for item in pesticides[start:end]]
     back_button = InlineKeyboardButton('Назад', callback_data=f'back - {letter}')
 
     if start > 0:
@@ -197,63 +228,57 @@ async def process_back_callback(callback_query: types.CallbackQuery):
     await callback_query.message.edit_text("Выберите букву алфавита:", reply_markup=alphabet_kb)
     await bot.answer_callback_query(callback_query.id)
 
-@dp.callback_query_handler(lambda c: c.data.startswith('pesticidelist'))
+@dp.callback_query_handler(lambda c: c.data.startswith('pesticidelist_'))
 async def process_callback_pesticide(callback_query: types.CallbackQuery):
-    # try:
-        print(callback_query.data)
+    print(callback_query.data)
 
-        pesticide_name = callback_query.data[len('pesticidelist'):].strip()
+    pesticide_name = callback_query.data[len('pesticidelist_'):]
 
-        with open('json/pesticides_name.json', 'r', encoding='utf-8') as f:
-            pesticides = json.load(f)
+    with open('json/pesticides_name.json', 'r', encoding='utf-8') as f:
+        pesticides = json.load(f)
 
-        found_pesticide = next((p for p in pesticides))
-        # found_pesticide = next((p for p in pesticides if p['link'] == pesticide_name), None)
-        found_pesticide = next((p for p in pesticides if p['name_pesticides'] == pesticide_name), None)
+    found_pesticide = next((p for p in pesticides if p['name_pesticides'] == pesticide_name), None)
 
-        # if found_pesticide is None:
-        #     # await callback_query.message.edit_text("Пестицид не найден.")
-        #     await callback_query.message.answer("Пестицид не найден")
-        #     return
+    r = requests.get(f"https://www.agroxxi.ru{found_pesticide['link']}")
+    html = BS(r.content, 'html.parser')
 
-        r = requests.get(f"https://www.agroxxi.ru{found_pesticide['link']}")
-        html = BS(r.content, 'html.parser')
+    h1_name = html.find("h1")
+    h2_group = html.find(attrs={'itemprop': 'category'})
+    prephar = html.find("div", class_="prephar")
 
-        h1_name = html.find("h1")
-        h2_group = html.find(attrs={'itemprop': 'category'})
-        prephar = html.find("div", class_="prephar")
+    pesticide_info = {}
 
-        if not h1_name or not h2_group or not prephar:
-            await callback_query.message.edit_text("Не удалось получить информацию о пестициде.")
-            return
+    paragraphs = prephar.find_all('p')
 
-        pesticide_info = {}
-        paragraphs = prephar.find_all('p')
+    # Обработка каждого абзаца
+    for paragraph in paragraphs:
+        bold_text = paragraph.find('b')
+        if bold_text:
+            key = bold_text.get_text(strip=True).rstrip(':')
+            value = paragraph.get_text().replace(bold_text.get_text(), '').strip()
+            pesticide_info[key] = value
 
-        for paragraph in paragraphs:
-            bold_text = paragraph.find('b')
-            if bold_text:
-                key = bold_text.get_text(strip=True).rstrip(':')
-                value = paragraph.get_text().replace(bold_text.get_text(), '').strip()
-                pesticide_info[key] = value
+    with open('json/pesticide_info.json', 'w', encoding='utf-8') as f:
+        json.dump(pesticide_info, f, ensure_ascii=False, indent=4)
 
-        with open('json/pesticide_info.json', 'w', encoding='utf-8') as f:
-            json.dump(pesticide_info, f, ensure_ascii=False, indent=4)
+    with open('json/pesticide_info.json', 'r', encoding='utf-8') as f:
+        pesticide_info = json.load(f)
 
-        with open('json/pesticide_info.json', 'r', encoding='utf-8') as f:
-            pesticide_info = json.load(f)
+    message_text = f"<b>{h1_name.text}</b>\n\n{h2_group.text}\n"
+    for key, value in pesticide_info.items():
+        message_text += f"<b>{key}:</b> {value}\n"
 
-        message_text = f"<b>{h1_name.text}</b>\n\n{h2_group.text}\n"
-        for key, value in pesticide_info.items():
-            message_text += f"<b>{key}:</b> {value}\n"
+    async def pesticide_dataKB():
+        buttons = ['📗 Список пестицидов','Назад']
+        btn = [InlineKeyboardButton(button, callback_data=f'pesticidlistData - {button}')
+                for button in buttons]
+        links = InlineKeyboardButton('Прочитать подробнее', url=f"https://www.agroxxi.ru{found_pesticide['link']}")
+        inl_menu = InlineKeyboardMarkup(row_width=1).add(links).add(*btn)
+        return inl_menu
 
-        print(callback_query.data)
-        await bot.answer_callback_query(callback_query.id)
-        await callback_query.message.edit_text(message_text, parse_mode="html", reply_markup=await pesticide_dataKB())
+    await bot.answer_callback_query(callback_query.id)
+    await callback_query.message.edit_text(message_text, parse_mode="html", reply_markup=await pesticide_dataKB())
 
-    # except Exception as e:
-    #     print(f"An error occurred: {e}")
-    #     await callback_query.message.edit_text("Произошла ошибка при обработке запроса.")
 
 @dp.callback_query_handler(lambda c: c.data == 'pesticidData - Прочитать подробнее')
 async def process_callback_pesticides(callback_query: types.CallbackQuery):
