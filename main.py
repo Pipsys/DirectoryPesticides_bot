@@ -151,7 +151,7 @@ pesticides_data = load_pesticides_data()
 async def pesticideKB(pesticides, letter, page=0, items_per_page=10):
     start = page * items_per_page
     end = start + items_per_page
-    btn = [InlineKeyboardButton(item['name_pesticides'], callback_data=f'pesticidelist - {item["name_pesticides"]}') for item in pesticides[start:end]]
+    btn = [InlineKeyboardButton(item['name_pesticides'], callback_data=f'pesticidelist - {item["link"]}') for item in pesticides[start:end]]
     back_button = InlineKeyboardButton('Назад', callback_data=f'back - {letter}')
 
     if start > 0:
@@ -199,28 +199,26 @@ async def process_back_callback(callback_query: types.CallbackQuery):
 
 @dp.callback_query_handler(lambda c: c.data.startswith('pesticidelist'))
 async def process_callback_pesticide(callback_query: types.CallbackQuery):
-    try:
+    # try:
         print(callback_query.data)
 
-        # Extract the pesticide name from the callback data
         pesticide_name = callback_query.data[len('pesticidelist'):].strip()
 
-        # Load the JSON file containing pesticide names and links
         with open('json/pesticides_name.json', 'r', encoding='utf-8') as f:
             pesticides = json.load(f)
 
-        # Find the pesticide in the JSON file
+        found_pesticide = next((p for p in pesticides))
+        # found_pesticide = next((p for p in pesticides if p['link'] == pesticide_name), None)
         found_pesticide = next((p for p in pesticides if p['name_pesticides'] == pesticide_name), None)
 
-        if found_pesticide is None:
-            await callback_query.message.edit_text("Пестицид не найден.")
-            return
+        # if found_pesticide is None:
+        #     # await callback_query.message.edit_text("Пестицид не найден.")
+        #     await callback_query.message.answer("Пестицид не найден")
+        #     return
 
-        # Fetch the pesticide details from the web page
         r = requests.get(f"https://www.agroxxi.ru{found_pesticide['link']}")
         html = BS(r.content, 'html.parser')
 
-        # Extracting pesticide information from the HTML content
         h1_name = html.find("h1")
         h2_group = html.find(attrs={'itemprop': 'category'})
         prephar = html.find("div", class_="prephar")
@@ -239,15 +237,12 @@ async def process_callback_pesticide(callback_query: types.CallbackQuery):
                 value = paragraph.get_text().replace(bold_text.get_text(), '').strip()
                 pesticide_info[key] = value
 
-        # Save the pesticide information to a JSON file (for debugging purposes)
         with open('json/pesticide_info.json', 'w', encoding='utf-8') as f:
             json.dump(pesticide_info, f, ensure_ascii=False, indent=4)
 
-        # Read the pesticide information back from the JSON file
         with open('json/pesticide_info.json', 'r', encoding='utf-8') as f:
             pesticide_info = json.load(f)
 
-        # Construct the message text
         message_text = f"<b>{h1_name.text}</b>\n\n{h2_group.text}\n"
         for key, value in pesticide_info.items():
             message_text += f"<b>{key}:</b> {value}\n"
@@ -256,9 +251,9 @@ async def process_callback_pesticide(callback_query: types.CallbackQuery):
         await bot.answer_callback_query(callback_query.id)
         await callback_query.message.edit_text(message_text, parse_mode="html", reply_markup=await pesticide_dataKB())
 
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        await callback_query.message.edit_text("Произошла ошибка при обработке запроса.")
+    # except Exception as e:
+    #     print(f"An error occurred: {e}")
+    #     await callback_query.message.edit_text("Произошла ошибка при обработке запроса.")
 
 @dp.callback_query_handler(lambda c: c.data == 'pesticidData - Прочитать подробнее')
 async def process_callback_pesticides(callback_query: types.CallbackQuery):
