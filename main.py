@@ -172,13 +172,6 @@ def load_pesticides_data():
     
 pesticides_data = load_pesticides_data()
 
-# async def pesticideKB(pesticides, letter):
-#     btn = [InlineKeyboardButton(item['name_pesticides'], callback_data=f'pesticide - {item["link"]}') for item in pesticides]
-#     back_button = InlineKeyboardButton('Назад', callback_data=f'back - {letter}')
-#     btn.append(back_button)
-#     inl_menu = InlineKeyboardMarkup(row_width=1).add(*btn)
-#     return inl_menu
-
 async def pesticideKB(pesticides, letter, page=0, items_per_page=10):
     start = page * items_per_page
     end = start + items_per_page
@@ -224,6 +217,7 @@ async def process_page_callback(callback_query: types.CallbackQuery):
     
 @dp.callback_query_handler(lambda c: c.data.startswith('back'))
 async def process_back_callback(callback_query: types.CallbackQuery):
+    print(callback_query.data)
     alphabet_kb = await alphabetKB()
     await callback_query.message.edit_text("Выберите букву алфавита:", reply_markup=alphabet_kb)
     await bot.answer_callback_query(callback_query.id)
@@ -280,17 +274,39 @@ async def process_callback_pesticide(callback_query: types.CallbackQuery):
     await callback_query.message.edit_text(message_text, parse_mode="html", reply_markup=await pesticide_dataKB())
 
 
-@dp.callback_query_handler(lambda c: c.data == 'pesticidData - Прочитать подробнее')
+@dp.callback_query_handler(lambda c: c.data == 'pesticidlistData - Назад')
+async def process_callback_pesticides(callback_query: types.CallbackQuery):
+    print(callback_query.data)
+
+    data = callback_query.data.split(' - ')[1]
+
+    await bot.answer_callback_query(callback_query.id)
+
+    filtered_pesticides = [item for item in pesticides_data if item['name_pesticides'].startswith(data)]
+    if filtered_pesticides:
+            pesticides_kb = await pesticideKB(filtered_pesticides, data)
+            await callback_query.message.edit_text(f'Пестициды на букву {data}:', reply_markup=pesticides_kb)
+
+
+@dp.callback_query_handler(lambda c: c.data == 'pesticidlistData - 📗 Список пестицидов')
 async def process_callback_pesticides(callback_query: types.CallbackQuery):
     print(callback_query.data)
     await bot.answer_callback_query(callback_query.id)
-    await callback_query.message.edit_text('Ссылка на пестицид')
+    await callback_query.message.edit_text('Список пестицидов', parse_mode='html', reply_markup = await alphabetKB())
+    
+
+# @dp.callback_query_handler(lambda c: c.data == 'pesticidData - Прочитать подробнее')
+# async def process_callback_pesticides(callback_query: types.CallbackQuery):
+#     print(callback_query.data)
+#     await bot.answer_callback_query(callback_query.id)
+#     await callback_query.message.edit_text('Ссылка на пестицид')
 
 @dp.callback_query_handler(lambda c: c.data == 'pesticidesMenu - 📗 Список пестицидов')
 async def process_callback_pesticides(callback_query: types.CallbackQuery):
     print(callback_query.data)
     await bot.answer_callback_query(callback_query.id)
     await callback_query.message.edit_text('Список пестицидов', parse_mode='html', reply_markup = await alphabetKB())
+
 
 
 @dp.callback_query_handler(lambda c: c.data == 'pesticidesMenu - Назад')

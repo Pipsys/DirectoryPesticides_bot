@@ -44,10 +44,3 @@ async def alphabetKB():
         btn.append(InlineKeyboardButton(back_button, callback_data='alphabet - Назад'))
         inl_menu = InlineKeyboardMarkup(row_width=5).add(*btn)
         return inl_menu
-
-# async def pesticide_dataKB():
-#         buttons = ['📗 Список пестицидов','Прочитать подробнее']
-#         btn = [InlineKeyboardButton(button, callback_data=f'pesticidData - {button}')
-#                 for button in buttons]
-#         inl_menu = InlineKeyboardMarkup(row_width=1).add(*btn)
-#         return inl_menu
