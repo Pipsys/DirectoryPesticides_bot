@@ -16,6 +16,10 @@ from bs4 import BeautifulSoup as BS
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
+from aiogram.dispatcher.filters.state import State, StatesGroup
+from aiogram.dispatcher import FSMContext
+
+
 
 
 from pydantic_settings import BaseSettings, SettingsConfigDict

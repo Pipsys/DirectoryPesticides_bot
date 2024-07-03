@@ -1,6 +1,13 @@
 from config import *
 from kb import *
 from msg_text import *
+# from aiogram.contrib.middlewares.fsm import FSMContextMiddleware
+
+class PesticideStates(StatesGroup):
+    selected_letter = State()
+
+
+# dp.middleware.setup(FSMContextMiddleware())
 
 # Стартовое сообщение
 @dp.message_handler(commands=['start', 'help'])
@@ -70,7 +77,7 @@ async def process_callback_pesticides(callback_query: types.CallbackQuery):
         #     await message.answer("Найдены следующие пестициды", reply_markup=await pesticides_nameKB())
 
         # else:
-        #     await message.answer('Пестицид не найден. Попробуйте ввести другое название.')
+        #     await message.answer('Пестицид не найден. Попробуйте ввести другое название.')j
 
         user_input = message.text.lower()
         starts_with_input = [p for p in pesticides if p['name_pesticides'].lower().startswith(user_input)]
@@ -189,20 +196,43 @@ async def pesticideKB(pesticides, letter, page=0, items_per_page=10):
     inl_menu = InlineKeyboardMarkup(row_width=1).add(*btn)
     return inl_menu
 
+
 @dp.callback_query_handler(lambda c: c.data.startswith('alphabet'))
-async def process_alphabet_callback(callback_query: types.CallbackQuery):
+async def process_alphabet_callback(callback_query: types.CallbackQuery, state: FSMContext):
     data = callback_query.data.split(' - ')[1]
+    # if data == 'Назад':
+    #     await bot.answer_callback_query(callback_query.id)
+    #     await callback_query.message.edit_text('Напишите назвние пестицида или используйте удобный список.\nНайдется все!', parse_mode='html', reply_markup = await pesticidesKB())
+    # else:
+    #     # Фильтрация пестицидов по выбранной букве
+    #     filtered_pesticides = [item for item in pesticides_data if item['name_pesticides'].startswith(data)]
+    #     if filtered_pesticides:
+    #         pesticides_kb = await pesticideKB(filtered_pesticides, data)
+    #         await callback_query.message.edit_text(f'Пестициды на букву {data}:', reply_markup=pesticides_kb)
+    #     else:
+    #         # await bot.send_message(callback_query.from_user.id, f'Нет данных для буквы {data}')
+    #         await bot.answer_callback_query(callback_query.id, text=f'Нет данных для буквы {data}', show_alert=False)
+    #     await bot.answer_callback_query(callback_query.id)
     if data == 'Назад':
         await bot.answer_callback_query(callback_query.id)
-        await callback_query.message.edit_text('Напишите назвние пестицида или используйте удобный список.\nНайдется все!', parse_mode='html', reply_markup = await pesticidesKB())
+        letter = await state.get_data()
+        if letter:
+            selected_letter = letter.get('selected_letter')
+            filtered_pesticides = [item for item in pesticides_data if item['name_pesticides'].startswith(selected_letter)]
+            if filtered_pesticides:
+                pesticides_kb = await pesticideKB(filtered_pesticides, selected_letter)
+                await callback_query.message.edit_text(f'Пестициды на букву {selected_letter}:', reply_markup=pesticides_kb)
+            else:
+                await bot.answer_callback_query(callback_query.id, text=f'Нет данных для буквы {selected_letter}', show_alert=False)
+        else:
+            await callback_query.message.edit_text('Напишите назвние пестицида или используйте удобный список.\nНайдется все!', parse_mode='html', reply_markup=await pesticidesKB())
     else:
-        # Фильтрация пестицидов по выбранной букве
+        await state.update_data(selected_letter=data)
         filtered_pesticides = [item for item in pesticides_data if item['name_pesticides'].startswith(data)]
         if filtered_pesticides:
             pesticides_kb = await pesticideKB(filtered_pesticides, data)
             await callback_query.message.edit_text(f'Пестициды на букву {data}:', reply_markup=pesticides_kb)
         else:
-            # await bot.send_message(callback_query.from_user.id, f'Нет данных для буквы {data}')
             await bot.answer_callback_query(callback_query.id, text=f'Нет данных для буквы {data}', show_alert=False)
         await bot.answer_callback_query(callback_query.id)
 
@@ -275,17 +305,20 @@ async def process_callback_pesticide(callback_query: types.CallbackQuery):
 
 
 @dp.callback_query_handler(lambda c: c.data == 'pesticidlistData - Назад')
-async def process_callback_pesticides(callback_query: types.CallbackQuery):
+async def process_callback_pesticides(callback_query: types.CallbackQuery, state: FSMContext):
     print(callback_query.data)
-
-    data = callback_query.data.split(' - ')[1]
-
     await bot.answer_callback_query(callback_query.id)
-
-    filtered_pesticides = [item for item in pesticides_data if item['name_pesticides'].startswith(data)]
-    if filtered_pesticides:
-            pesticides_kb = await pesticideKB(filtered_pesticides, data)
-            await callback_query.message.edit_text(f'Пестициды на букву {data}:', reply_markup=pesticides_kb)
+    letter_data = await state.get_data()
+    selected_letter = letter_data.get('selected_letter')
+    if selected_letter:
+        filtered_pesticides = [item for item in pesticides_data if item['name_pesticides'].startswith(selected_letter)]
+        if filtered_pesticides:
+            pesticides_kb = await pesticideKB(filtered_pesticides, selected_letter)
+            await callback_query.message.edit_text(f'Пестициды на букву {selected_letter}:', reply_markup=pesticides_kb)
+        else:
+            await bot.answer_callback_query(callback_query.id, text=f'Нет данных для буквы {selected_letter}', show_alert=False)
+    else:
+        await callback_query.message.edit_text('Напишите название пестицида или используйте удобный список.\nНайдется все!', parse_mode='html', reply_markup=await pesticidesKB())
 
 
 @dp.callback_query_handler(lambda c: c.data == 'pesticidlistData - 📗 Список пестицидов')
